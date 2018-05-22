@@ -3,13 +3,13 @@ Last edited: May 22, 2018
 
 ## Hello
 * This is a crowd-sourced list of links to free PDFs of textbooks for various courses at SBU. This page is updated whenever a new PDF is found, especially around the start of each semester. 
-* #### **Please contribute!** If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here]( https://notehub.org/437dw) for instructions.
 * If this page does not contain the book you need, [Library Genesis](http://gen.lib.rus.ec) is always a good way to find books. If you do find a book for a class not listed here, remember to submit it with the above link.
 * If this page is ever deleted, [check for posts by /u/SBUTextbooks on Reddit](https://www.reddit.com/user/SBUTextbooks/submitted/) where the new URL will be posted
+* #### **Please contribute!** If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here]( https://notehub.org/437dw) for instructions.
 
 ## Jump to subject 
 
-**[AMS](#AMS) \| [ANT](#ANT) \| [ESE](#ESE) \| [HIS](#HIS)**
+[AMS](#AMS) \| [ANT](#ANT) \| [AST](#AST) \| [BIO](#BIO) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [HIS](#HIS) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHY](#PHY) \| [PSY](#PSY) \| [THR](#THR) \| [WRT](#WRT)
 
 ## The Links
 
@@ -191,7 +191,8 @@ aka the "CLRS book"
 * 104
     * [America: A Concise History Volumes I and II combined 4th Henretta, Brody](https://mega.nz/#!hxlnxKwD!V62Xc10x8tzAUFnvduKoGUYIN1kKu3uTSSRChnZiFGU)
 
-<a name="MAT"></a>**MAT
+<a name="MAT"></a>
+### MAT
 
 * 125-132
     * [Single Variable Calculus 4th James Stewart](https://mega.co.nz/#!blVxGRID!kLCgezkkpmmDPtWGnBjh9DPQETKjh5fGvWL53H9iB18)
