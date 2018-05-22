@@ -9,10 +9,11 @@ Last edited: May 22, 2018
 
 ## Jump to subject 
 
-**[ESE](#ESE) | [HIS](#HIS)**
+**[AMS](#AMS) \| [ANT](#ANT) \| [ESE](#ESE) \| [HIS](#HIS)**
 
 ## The Links
 
+<a name="AMS"></a>
 ### AMS
 
 * 110
@@ -40,7 +41,7 @@ Last edited: May 22, 2018
     * [Numbers Groups and Codes 2nd Humphreys, Prest](https://mega.nz/#!n4pCgDqQ!g3Ofv85bA2P0bwVhZQVEqFMNV4My6OrAxlhLf_VGjzE)
 
 <a name="ANT"></a>
-**ANT**
+### ANT
 
 * 102
     * [The Cocktail Waitress 1975 Spradley, Mann](https://mega.nz/#!Xlp2kaYa!hrtg2kEDiKiuf09WXcNAIFEGx8jCr6kJBPX8eQDPavo)
@@ -48,13 +49,13 @@ Last edited: May 22, 2018
     * [Tetum Ghosts and Kin 2nd Hicks](https://mega.nz/#!3lpyxZ5Z!qoa1y2PL7eMzf7FvkzeQpOAVRB2aQfgN-VIfLIitua4)
  
 <a name="AST"></a>
-**AST**
+### AST
 
 * 203
     * [Astronomy A Physical Perspective 2nd Kutner](https://mega.nz/#!9w8RBZzb!KMGz-oWmlfL2fdwiwYagvryNh89_T3xGVU7cjqcXoFg)
     
 <a name="BIO"></a>
-**BIO**
+### BIO
 
 * 202
     * [Biology 9th Campbell, Reece](https://mega.co.nz/#!y0tWhDLA!2uQz0Qx8RyeYJsbBDL-FKXeDozh7HmtDjE63JxXQB_A)
@@ -70,19 +71,20 @@ Last edited: May 22, 2018
 
 
 <a name="BUS"></a>
-**BUS**
+### BUS
 
 * 348
     * [Marketing Management, Millenium Edition Kotler](https://mega.nz/#!cwVBmDIR!vg_uvcBqSV9tYwQ8L6a0-FOW1-2i7uaOhGhWcgNnoE8)
 
 <a name="CCS"></a>
-**CCS**
+
+### CCS
 
 * 101
     * [Looking at Movies An Introduction to Film 5th Barsam Monahan](https://mega.nz/#!d0tg1B5K!U8i4sUTVqo05BQ9g64rjcgS1dEGnceBH4KH6i6Hacu0)
 
 <a name="CHE"></a>
-**CHE**
+### CHE
 
 * 131/132
     * [Chemistry the Science in Context 3rd Gilbert](https://mega.co.nz/#!v5k1UBwJ!emxu5M6jJv5E9RO239FkdwCngwMv5IeOCvDaUSX7Ja0)
@@ -95,7 +97,7 @@ https://mega.co.nz/#!Kk1TFS7Z!OYeE-EUr4BTJlsSnIWMZIZ6FTmrHdqgNnBm3yegCv7g)
     * [Organic Chemistry Study Guide & Solutions Manual 10th Solomons, Fryhle](https://mega.co.nz/#!CpsHyJyC!hshjjB0lkRK03Sh-1Rn4B7pvhiFvj5fzN3hziR-GDxo)
 
 <a name="CSE"></a>
-**CSE**
+### CSE
 
 * 101
     * [Computation Thinking for the Modern Problem Solver '14 Riley, Hunt](https://mega.nz/#!1pd1HZwA!_A-zowlw9oGXtXiY-jvZbVzsY8YevJ74p2VyCMSvLBk)
@@ -168,7 +170,7 @@ aka the "CLRS book"
 )
 
 <a name="ESE"></a>
-### **ESE**
+### ESE
 
 * 124
     * [Programming in Objective-C 3rd Kochan](https://mega.nz/#!a9NCGIBS!5-uPLWvFCR2q0SXnzDBJDSCgUwT14EwHfqx2_VQsfaA)
@@ -189,7 +191,7 @@ aka the "CLRS book"
 * 104
     * [America: A Concise History Volumes I and II combined 4th Henretta, Brody](https://mega.nz/#!hxlnxKwD!V62Xc10x8tzAUFnvduKoGUYIN1kKu3uTSSRChnZiFGU)
 
-<a name="MAT"></a>**MAT**
+<a name="MAT"></a>**MAT
 
 * 125-132
     * [Single Variable Calculus 4th James Stewart](https://mega.co.nz/#!blVxGRID!kLCgezkkpmmDPtWGnBjh9DPQETKjh5fGvWL53H9iB18)
@@ -210,7 +212,7 @@ https://mega.co.nz/#!T11TnDZT!VVohd-DSMa-Rr5koBRcfVKfz5H-onikumQHKGriyC9o)
 
 
 <a name="MEC"></a>
-**MEC**
+### MEC
 
 * 102
     * [MATLAB Programming for Engineers 4th Chapman](https://mega.nz/#!htsHzBAL!aPiVU44BZ4_QmMQXmfcwqzYrzb98Uu7t2n2k2_kA_w4)
@@ -218,14 +220,14 @@ https://mega.co.nz/#!T11TnDZT!VVohd-DSMa-Rr5koBRcfVKfz5H-onikumQHKGriyC9o)
     * [Engineering Graphic Essentials 4th Plantenberg](https://mega.nz/#!oxtiSQoR!693xscEw0IPjAbBuNcw7TooCdsITww2GnG9nO8-WOU0)
 
 <a name="MUS"></a>
-**MUS**
+### MUS
 
 * 101
     * [Listen 8th Edition Joseph Kerman, Gary Tomlinson](https://mega.nz/#!jsFgVSYD!S5us7zWWhejbjvd9QWd9QrZgiftWWXyUgwLYErk5Ez4)  
 6 CD set not included; track list found in the book (use YouTube)
 
 <a name="PHY"></a>
-**PHY**
+### PHY
 
 * 121/122
     * [College Physics A Strategic Approach 3rd Randall Knight](https://mega.co.nz/#!r8UmnZYL!4ctW4t616Tht-u181ormK_w4K0Yp0jiWqC4tPujEq8M)
@@ -255,7 +257,7 @@ https://mega.co.nz/#!T11TnDZT!VVohd-DSMa-Rr5koBRcfVKfz5H-onikumQHKGriyC9o)
 * A ton more Physics textbooks are [here](https://mega.nz/#F!hFEnWbDS!8__Td5k6AXWRSRqQ-AceJw). If you know which courses each of these textbooks correspond to, get in touch.
 
 <a name="PSY"></a>
-**PSY**
+### PSY
 
 * 103
     * [Psychology and Life 20th Richard Gerrig](
@@ -264,13 +266,13 @@ https://mega.co.nz/#!ux9EnS6C!KgiJkJQJvQGojNbus3LHMTAmyXrRDeRXL-5IzWH-vlQ)
     * [Statistics for Psychology 6th Aron, Coups, Aron](https://mega.nz/#!0okHTaSL!uNukKWZVz6nfrKgD3WKKrvnGtl-7ZwXsZXXqddM0bSQ)
 
 <a name="THR"></a>
-**THR**
+### THR
 
 * 101
     * [Introduction to Theatre Bojsza](https://mega.nz/#!7oAyVKiY!_iXbKSYpKnf0rGPK63BgO9M38ibtVF9rRucDacTyDKM)
 
 <a name="WRT"></a>
-**WRT**
+### WRT
 
 * 101
     * [The Bedford Reader 12th Edition X. J. Kennedy, Dorothy M. Kennedy, Jane E. Aaron, Ellen Kuhl Repetto](https://mega.co.nz/#!X5kFUYSb!hFQvC91-sJkmeKpEE5HG4WDjKtwxglyZIGnSZ5LQX8k)
