@@ -7,6 +7,10 @@ Last edited: May 22, 2018
 * If this page does not contain the book you need, [Library Genesis](http://gen.lib.rus.ec) is always a good way to find books. If you do find a book for a class not listed here, remember to submit it with the above link.
 * If this page is ever deleted, [check for posts by /u/SBUTextbooks on Reddit](https://www.reddit.com/user/SBUTextbooks/submitted/) where the new URL will be posted
 
+## Jump to subject 
+
+[HIS](#HIS)
+
 ## The Links
 
 ### AMS
