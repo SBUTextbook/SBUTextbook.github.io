@@ -1,6 +1,4 @@
-# SBU Textbook PDF Masterlist
-
-Last edited: Jan 27, 2018
+Last edited: May 22, 2018
 
 
 ## Hello
@@ -10,7 +8,8 @@ Last edited: Jan 27, 2018
 * If this page is ever deleted, [check for posts by /u/SBUTextbooks on Reddit](https://www.reddit.com/user/SBUTextbooks/submitted/) where the new URL will be posted
 
 ## The Links
-<a name="AMS"></a>##### AMS
+
+##### AMS
 
 * 110
     * [Statistics for Life 4th Samuel, Wirmer Schaffner](https://mega.co.nz/#!v8dg0DQa!1tCrBFUuHdgp7El478EpuktLZyPLbk2-rFUdjzMCyxA)
