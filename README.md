@@ -5,7 +5,7 @@ Last edited: May 22, 2018
 * This is a crowd-sourced list of links to free PDFs of textbooks for various courses at SBU. This page is updated whenever a new PDF is found, especially around the start of each semester. 
 * If this page does not contain the book you need, [Library Genesis](http://gen.lib.rus.ec) is always a good way to find books. If you do find a book for a class not listed here, remember to submit it with the above link.
 * If this page is ever deleted, [check for posts by /u/SBUTextbooks on Reddit](https://www.reddit.com/user/SBUTextbooks/submitted/) where the new URL will be posted
-* #### **Please contribute!** If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here]( https://notehub.org/437dw) for instructions.
+* #### **Please contribute!** If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here](contributing.md) for instructions.
 
 ## Jump to subject 
 
