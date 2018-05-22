@@ -9,7 +9,7 @@ Last edited: May 22, 2018
 
 ## Jump to subject 
 
-[AMS](#AMS) \| [ANT](#ANT) \| [AST](#AST) \| [BIO](#BIO) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [HIS](#HIS) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHY](#PHY) \| [PSY](#PSY) \| [THR](#THR) \| [WRT](#WRT)
+[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [BIO](#BIO) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [GEO](#GEO) \| [HIS](#HIS) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHY](#PHY) \| [PSY](#PSY) \| [THR](#THR) \| [WRT](#WRT)
 
 ## The Links
 
@@ -32,6 +32,9 @@ Last edited: May 22, 2018
     * [A First Course in Probability 9th Ross](https://mega.nz/#!YhETwLbT!oQVxwyuBjaDHQOa2I_nvWq2dZGQqlQ87VVTEVtRNRKQ)
 * 315
     * [An Introduction to Statistical Methods and Data Analysis 6th Ott Longnecker](https://mega.nz/#!ZgdUFSDZ!VgvZBnAiLk3n-WVL3JR_Uhpw36-KZEiUB7ADwrJt1aw)
+* 320
+    * [Options, Futures, and Other Derivatives 8th Hull](https://mega.nz/#!E9kn0SRb!sw0t8lWcomwkI69UP9SNEplAtQyuO7RXjougBQUerOk)
+    * [Options, Futures, and Other Derivatives Solutions Manual 8th Hull](https://mega.nz/#!FpFy0ZaQ!ivHtwtBrpT6sMduD9plFbzFBcJKZVOkV3WFedECfHgs)
 * 341
     * [Operations Research: Applications and Algorithms 4th Winston](https://mega.nz/#!YwoxjZCJ!WYJG97xm08XgHBjmYOhx_susN7yXgtK-IZcUw8ryPLo)
 * 345
@@ -47,7 +50,13 @@ Last edited: May 22, 2018
     * [The Cocktail Waitress 1975 Spradley, Mann](https://mega.nz/#!Xlp2kaYa!hrtg2kEDiKiuf09WXcNAIFEGx8jCr6kJBPX8eQDPavo)
     * [The Netsilik Eskimo 1970 Balikci](https://mega.nz/#!21JyRB7I!nu835_2BQpbpHCq9DlxVpSRviuCgssFiGHY9NbJxSbk)
     * [Tetum Ghosts and Kin 2nd Hicks](https://mega.nz/#!3lpyxZ5Z!qoa1y2PL7eMzf7FvkzeQpOAVRB2aQfgN-VIfLIitua4)
- 
+
+<a name="ARH"></a>
+### ARH
+
+* 208
+    * [A World History of Photography 3rd Rosenblum](https://mega.nz/#!4plECYCS!66-Oy7-k-U7nZZRlethkrtDwC-Wp4Md-8f2h8wgf0EY)
+
 <a name="AST"></a>
 ### AST
 
@@ -184,6 +193,12 @@ aka the "CLRS book"
     * [Computer Architecture: A Quantitative Approach 5th Hennessy Patterson](https://mega.nz/#!2xoXCQaK!QKSUJSvYMZ6x4-KDjdFZLZtdvqXEuUQg1UDfTQOVoU8)
 * 555
     * [Advanced VLSI Systems Design 1. CMOS VLSI Desgin 4th Weste Harris](https://mega.nz/#!yhw2kJKZ!Ch8JuyhsYmaA_fOlQthpa3GPuLHdLbDodoN1fNwuCNM)
+
+<a name="GEO"></a>
+### GEO
+
+* 102
+    * [Earth: An Introduction to Physical Geology 12th Tarbuck Lutgens](https://mega.nz/#!Jh9SWTxa!tVW4QVWuMpfYokvl5ITKtsJrKFbjBzdaM8HD55u-uw0)
 
 <a name="HIS"></a>
 ### HIS
