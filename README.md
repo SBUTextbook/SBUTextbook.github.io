@@ -9,7 +9,7 @@ Last edited: May 22, 2018
 
 ## Jump to subject 
 
-[HIS](#HIS)
+**[HIS](#HIS)**
 
 ## The Links
 
@@ -175,7 +175,8 @@ aka the "CLRS book"
 * 555
     * [Advanced VLSI Systems Design 1. CMOS VLSI Desgin 4th Weste Harris](https://mega.nz/#!yhw2kJKZ!Ch8JuyhsYmaA_fOlQthpa3GPuLHdLbDodoN1fNwuCNM)
 
-<a name="HIS"></a>**HIS**
+<a name="HIS"></a>
+#### HIS
 
 * 104
     * [America: A Concise History Volumes I and II combined 4th Henretta, Brody](https://mega.nz/#!hxlnxKwD!V62Xc10x8tzAUFnvduKoGUYIN1kKu3uTSSRChnZiFGU)
