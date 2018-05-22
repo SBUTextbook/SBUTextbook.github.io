@@ -1,14 +1,16 @@
+# SBU Textbook PDF Masterlist
+
 Last edited: Jan 27, 2018
 
 
 ## Hello
 * This is a crowd-sourced list of links to free PDFs of textbooks for various courses at SBU. This page is updated whenever a new PDF is found, especially around the start of each semester. 
-* #### **Please contribute!** If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here]( https://notehub.org/437dw) for instructions.
+* ##### **Please contribute!** If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here]( https://notehub.org/437dw) for instructions.
 * If this page does not contain the book you need, [Library Genesis](http://gen.lib.rus.ec) is always a good way to find books. If you do find a book for a class not listed here, remember to submit it with the above link.
 * If this page is ever deleted, [check for posts by /u/SBUTextbooks on Reddit](https://www.reddit.com/user/SBUTextbooks/submitted/) where the new URL will be posted
 
 ## The Links
-<a name="AMS"></a>**AMS**
+<a name="AMS"></a>##### AMS
 
 * 110
     * [Statistics for Life 4th Samuel, Wirmer Schaffner](https://mega.co.nz/#!v8dg0DQa!1tCrBFUuHdgp7El478EpuktLZyPLbk2-rFUdjzMCyxA)
