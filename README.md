@@ -5,7 +5,7 @@ Last edited: May 22, 2018
 * This is a crowd-sourced list of links to free PDFs of textbooks for various courses at SBU. This page is updated whenever a new PDF is found, especially around the start of each semester. 
 * If this page does not contain the book you need, [Library Genesis](http://gen.lib.rus.ec) is always a good way to find books. If you do find a book for a class not listed here, remember to submit it with the above link.
 * If this page is ever deleted, [check for posts by /u/SBUTextbooks on Reddit](https://www.reddit.com/user/SBUTextbooks/submitted/) where the new URL will be posted
-* #### **Please contribute!** If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here](contributing.md) for instructions.
+* #### **Please contribute!** If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here](CONTRIBUTING.md) for instructions.
 
 ## Jump to subject 
 
@@ -104,6 +104,7 @@ Last edited: May 22, 2018
 https://mega.co.nz/#!Kk1TFS7Z!OYeE-EUr4BTJlsSnIWMZIZ6FTmrHdqgNnBm3yegCv7g)
     * [Organic Chemistry I As a Second Language 2nd David Klein](https://mega.co.nz/#!3oMwRJCC!lnjr50JyxOiO_60U8exn4jw6Fl3gVFbhaMrfcUsYGlU)
     * [Organic Chemistry Study Guide & Solutions Manual 10th Solomons, Fryhle](https://mega.co.nz/#!CpsHyJyC!hshjjB0lkRK03Sh-1Rn4B7pvhiFvj5fzN3hziR-GDxo)
+    * [Organic Chemistry 6th Loudon Parise](https://mega.nz/#!x1dXzTJb!QnwAN66iicKzF_zHUaWUd1_5qJmVHb8P9Adjmzlzze4)
 
 <a name="CSE"></a>
 ### CSE
@@ -164,6 +165,8 @@ Note: 320 is taught using the third edition, but the pdf quality for the second 
     * [Networks and Grids: Technology and Theory Robertazzi](https://mega.nz/#!6tZRAabC!cwzTKOiyrTRBdDuVxlmuZgQe55OCoTKmw1ZZr_4pkKc)
 * 353
     * [Neural Networks and Learning Machines 3rd Haykin](https://mega.nz/#!gh0XmYaC!S_mJ200lOtY464Dq2fwAMsjihCWtRG3N9xvAVhmhCxg)
+    * [Understanding Machine Learning from Theory to Algorithms '14 Shalev-Shwartz Ben-David](https://mega.nz/#!EwsFHDLa!TX3Rj3XR3uo_rGH3XkKZv0HL9Fr2xqEpmEZJ1mEei7U)
+    * [Deep Learning '16 Goodfellow Bengio Courville](https://mega.nz/#!MhVVGR7b!n33DlJEefrI7kZdOZz_5hhNyz0atMi15fTGcOSxXPS0)
 * 355
     * [Computational Geometry in C 2nd O'Rourke](https://mega.nz/#!tkxQAQbQ!GNB5E7Zi3wK7oFtSRKsuPYTHHoMqYgwzO5pbXrTOFJw)
     * [Discrete and Computational Geometry 2011 Devadoss, O'Rourke](https://mega.nz/#!U9J2EC5I!xAdZj96GzwXsPGz3BLaYucRYDhxrehx2FdTVcOCE5Tw)
@@ -172,6 +175,8 @@ Note: 320 is taught using the third edition, but the pdf quality for the second 
 )
     * [Introduction to Algorithms 3rd Cormen, Leiserson, Rivest, Stein](https://mega.nz/#!lgNHRSIA!FsfpSa6NGIb6lxwHEhl5B3jRh3C44WTgn9CcfvhXipM)  
 aka the "CLRS book"
+* 390 - NLP
+    * [Speech and Language Processing 3rd Draft Jurafsky Martin](https://mega.nz/#!B5NXhR4D!-E3chd7eotiEhyJOfWytZqxH9vfUW__62PD2GeXPxmM)
 * 519
     * [The Data Science Design Manual 1st Skiena](https://mega.nz/#!tpkUHKiZ!OU2M6eh0YCnYMH1Xij4ntRBBuw5bEJ7PZK9IbPJ21Gg)
 * Misc.
