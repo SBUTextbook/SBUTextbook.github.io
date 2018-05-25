@@ -1,13 +1,10 @@
 ---
 title: Title
 ---
+The full list is [here](/)
 
 
-# SBU Textbook PDF List
-
-The full list is [here](http://sbutextbook.github.io)
-
-## How to contribute
+# How to contribute
 
 * If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, or you want to report a dead link please get in touch
 
