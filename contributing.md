@@ -1,3 +1,8 @@
+---
+title: Title
+---
+
+
 # SBU Textbook PDF List
 
 The full list is [here](http://sbutextbook.github.io)
