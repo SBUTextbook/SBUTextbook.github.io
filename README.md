@@ -114,7 +114,7 @@ https://mega.co.nz/#!Kk1TFS7Z!OYeE-EUr4BTJlsSnIWMZIZ6FTmrHdqgNnBm3yegCv7g)
 
 * 101
     * [Computation Thinking for the Modern Problem Solver '14 Riley, Hunt](https://mega.nz/#!1pd1HZwA!_A-zowlw9oGXtXiY-jvZbVzsY8YevJ74p2VyCMSvLBk)
-    * [Explorations in Computing: An Introduction to Computer Science and Python Programming](https://mega.nz/#!aXxgSQpS!IDfBePadiaP_7HTFhUaf-5dT6L3rKtpQn3iyASjqKpw)
+    * [Explorations in Computing: An Introduction to Computer Science and Python Programming, Conery](https://mega.nz/#!aXxgSQpS!IDfBePadiaP_7HTFhUaf-5dT6L3rKtpQn3iyASjqKpw)
 * 114
     * [Introduction to Java Programming - Brief 9th Liang](
 https://mega.co.nz/#!Ttl3hKiK!IWsNL2TkTgnfV5dTcLaHfIu8NovoYageViW5tYw8MJY)
