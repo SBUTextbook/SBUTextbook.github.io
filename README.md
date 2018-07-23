@@ -1,4 +1,4 @@
-Last edited: May 24, 2018
+Last edited: July 22, 2018
 
 
 ## Hello
@@ -20,6 +20,9 @@ Last edited: May 24, 2018
     * [Statistics for Life 4th Samuel, Wirmer Schaffner](https://mega.co.nz/#!v8dg0DQa!1tCrBFUuHdgp7El478EpuktLZyPLbk2-rFUdjzMCyxA)
 * 161
     * [Calculus: Single Variable 6th Hughes-Hallett, McCallum, Gleason, Connally](https://mega.nz/#!41d0VbQR!dXSQqAfL6PLByLfJG3iaDU4i8q9YUW6tklnH7QXTZq0)
+* 210
+    * [A Unified Introduction to Linear Algebra: Models, Methods, and Theory, Tucker](https://mega.nz/#!iTonjJAb!FXO4S6ra4ksgZEX6L-aXuQTbyu9ngNxAdRWNg_f-6Co)
+    <br> Note: AMS 210 is currently taught using a different edition of this textbook; do not use this one for homework as the problems and page numbers may not be the same. If you have the correct version in pdf format, please consider submitting it here.
 * 261
     * [Multivariable Calculus 10th Ron Larson, Bruce H Edwards](https://mega.co.nz/#!T11TnDZT!VVohd-DSMa-Rr5koBRcfVKfz5H-onikumQHKGriyC9o) 
 * 301
@@ -111,6 +114,7 @@ https://mega.co.nz/#!Kk1TFS7Z!OYeE-EUr4BTJlsSnIWMZIZ6FTmrHdqgNnBm3yegCv7g)
 
 * 101
     * [Computation Thinking for the Modern Problem Solver '14 Riley, Hunt](https://mega.nz/#!1pd1HZwA!_A-zowlw9oGXtXiY-jvZbVzsY8YevJ74p2VyCMSvLBk)
+    * [Explorations in Computing: An Introduction to Computer Science and Python Programming](https://mega.nz/#!aXxgSQpS!IDfBePadiaP_7HTFhUaf-5dT6L3rKtpQn3iyASjqKpw)
 * 114
     * [Introduction to Java Programming - Brief 9th Liang](
 https://mega.co.nz/#!Ttl3hKiK!IWsNL2TkTgnfV5dTcLaHfIu8NovoYageViW5tYw8MJY)
