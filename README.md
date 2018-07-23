@@ -19,7 +19,8 @@ Last edited: July 22, 2018
 * 110
     * [Statistics for Life 4th Samuel, Wirmer Schaffner](https://mega.co.nz/#!v8dg0DQa!1tCrBFUuHdgp7El478EpuktLZyPLbk2-rFUdjzMCyxA)
 * 151/161
-    * [Calculus: Single Variable 6th Hughes-Hallett, McCallum, Gleason, Connally](https://mega.nz/#!41d0VbQR!dXSQqAfL6PLByLfJG3iaDU4i8q9YUW6tklnH7QXTZq0)
+    * [Single Variable Calculus 4th James Stewart](https://mega.co.nz/#!blVxGRID!kLCgezkkpmmDPtWGnBjh9DPQETKjh5fGvWL53H9iB18)
+    * [Calculus: Single Variable 6th Hughes-Hallett, McCallum, Gleason, Connally](https://mega.nz/#!41d0VbQR!dXSQqAfL6PLByLfJG3iaDU4i8q9YUW6tklnH7QXTZq0)<b> (No longer used)</b> 
 * 210
     * [A Unified Introduction to Linear Algebra: Models, Methods, and Theory, Tucker](https://mega.nz/#!iTonjJAb!FXO4S6ra4ksgZEX6L-aXuQTbyu9ngNxAdRWNg_f-6Co)
     <br> Note: AMS 210 is currently taught using a different edition of this textbook; do not use this one for homework as the problems and page numbers may not be the same. If you have the correct version in pdf format, please consider submitting it here.
