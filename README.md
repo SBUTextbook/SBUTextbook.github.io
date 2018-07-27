@@ -1,4 +1,4 @@
-Last edited: July 22, 2018
+Last edited: July 26, 2018
 
 
 ## Hello
@@ -9,7 +9,7 @@ Last edited: July 22, 2018
 
 ## Jump to subject 
 
-[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [BIO](#BIO) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [GEO](#GEO) \| [HIS](#HIS) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHY](#PHY) \| [PSY](#PSY) \| [THR](#THR) \| [WRT](#WRT)
+[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [BIO](#BIO) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHY](#PHY) \| [PSY](#PSY) \| [THR](#THR) \| [WRT](#WRT)
 
 ## The Links
 
@@ -203,6 +203,12 @@ aka the "CLRS book"
     * [Computer Architecture: A Quantitative Approach 5th Hennessy Patterson](https://mega.nz/#!2xoXCQaK!QKSUJSvYMZ6x4-KDjdFZLZtdvqXEuUQg1UDfTQOVoU8)
 * 555
     * [Advanced VLSI Systems Design 1. CMOS VLSI Desgin 4th Weste Harris](https://mega.nz/#!yhw2kJKZ!Ch8JuyhsYmaA_fOlQthpa3GPuLHdLbDodoN1fNwuCNM)
+    
+<a name="EST"></a>
+### EST
+
+* 320
+    * [Principles of Computer Networks and Communications, Dumas Schwartz](https://mega.nz/#!XSpgSaQA!AASXSJfgI7AJxLhBT4oinCkr6X4imRu5V0E7Q4TGuV8)
 
 <a name="GEO"></a>
 ### GEO
