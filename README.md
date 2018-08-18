@@ -193,12 +193,20 @@ aka the "CLRS book"
 <a name="ESE"></a>
 ### ESE
 
+* 122
+    * [Discrete Mathematics with Applications 4th, Epp](https://mega.nz/#!K1EXBZqZ!ZULhhMyVhN4oU3VBsCNpf5aZvG90l8rUhFme9LxnTZg)
 * 124
     * [Programming in Objective-C 3rd Kochan](https://mega.nz/#!a9NCGIBS!5-uPLWvFCR2q0SXnzDBJDSCgUwT14EwHfqx2_VQsfaA)
 * 218
     * [Digital Design With An Introduction To The Verilog HDL 5th Mano Ciletti](https://mega.nz/#!OoMmhBSL!pXmYICD6aYApuQZkgWmZCzZKby_E6brwBQjoMDFtrrc)
 * 271
     * [Fundamentals of Electric Circuits 4th Alexander Sadiku](https://mega.nz/#!j9dynbIQ!ItAkYJfu9xscF08NNfa3XTMjikJXCjswDhzi20XzJMk)
+* 301
+    * [Engineering Ethics 4th, Fleddermann](https://mega.nz/#!yKxnhCqb!WLV3g6Rvk_aMC5TbwsAsOkdkfHP43s-y-xMx3bWuBuI)
+* 305
+    * [Signals and Systems 2nd, Oppenheim Willsky Nawab](https://mega.nz/#!rC4T0IrJ!q7jjZsbk-_JdZFKGSbPs5_BahWDq5m3ZWlkz8_zT61s)
+* 340
+    * [Mobile Wireless Communications, Schwartz](https://mega.nz/#!ze4l1ADL!cKw6QTVRvM7t6OXVv5l2QZMzHtdw5VTCLv_ApPO39ZA)
 * 382
     * [VHDL For Engineers 1st Kenneth L. Short](https://mega.nz/#!f5NVBZjL!Bqrh-bTLhCYKo9p3hshtAGcpJ215XuGCnVJU-GPwqsk)
 * 545
