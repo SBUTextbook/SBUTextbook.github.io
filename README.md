@@ -1,4 +1,4 @@
-Last edited: July 26, 2018
+Last edited: August 18, 2018
 
 
 ## Hello
@@ -9,7 +9,7 @@ Last edited: July 26, 2018
 
 ## Jump to subject 
 
-[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [BIO](#BIO) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHY](#PHY) \| [PSY](#PSY) \| [THR](#THR) \| [WRT](#WRT)
+[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [BIO](#BIO) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [ISE](#ISE) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHY](#PHY) \| [PSY](#PSY) \| [THR](#THR) \| [WRT](#WRT)
 
 ## The Links
 
@@ -23,7 +23,6 @@ Last edited: July 26, 2018
     * [Calculus: Single Variable 6th Hughes-Hallett, McCallum, Gleason, Connally](https://mega.nz/#!41d0VbQR!dXSQqAfL6PLByLfJG3iaDU4i8q9YUW6tklnH7QXTZq0)<b> (No longer used)</b> 
 * 210
     * [A Unified Introduction to Linear Algebra: Models, Methods, and Theory, Tucker](https://mega.nz/#!iTonjJAb!FXO4S6ra4ksgZEX6L-aXuQTbyu9ngNxAdRWNg_f-6Co)
-    <br> Note: AMS 210 is currently taught using a different edition of this textbook; do not use this one for homework as the problems and page numbers may not be the same. If you have the correct version in pdf format, please consider submitting it here.
 * 261
     * [Multivariable Calculus 10th Ron Larson, Bruce H Edwards](https://mega.co.nz/#!T11TnDZT!VVohd-DSMa-Rr5koBRcfVKfz5H-onikumQHKGriyC9o) 
 * 301
@@ -116,6 +115,9 @@ https://mega.co.nz/#!Kk1TFS7Z!OYeE-EUr4BTJlsSnIWMZIZ6FTmrHdqgNnBm3yegCv7g)
 * 101
     * [Computation Thinking for the Modern Problem Solver '14 Riley, Hunt](https://mega.nz/#!1pd1HZwA!_A-zowlw9oGXtXiY-jvZbVzsY8YevJ74p2VyCMSvLBk)
     * [Explorations in Computing: An Introduction to Computer Science and Python Programming, Conery](https://mega.nz/#!aXxgSQpS!IDfBePadiaP_7HTFhUaf-5dT6L3rKtpQn3iyASjqKpw)
+* 102
+    * [Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics
+4th edition, Niederst Robbins](https://mega.nz/#!qWAXWYKa!GCfJmJVg-sGC3CJXIPGxdfl0b4pN4EbJ8MC0YvwyS80)
 * 114
     * [Introduction to Java Programming - Brief 9th Liang](
 https://mega.co.nz/#!Ttl3hKiK!IWsNL2TkTgnfV5dTcLaHfIu8NovoYageViW5tYw8MJY)
@@ -221,6 +223,13 @@ aka the "CLRS book"
 
 * 104
     * [America: A Concise History Volumes I and II combined 4th Henretta, Brody](https://mega.nz/#!hxlnxKwD!V62Xc10x8tzAUFnvduKoGUYIN1kKu3uTSSRChnZiFGU)
+    
+<a name="ISE"></a>
+### ISE
+
+* 102
+    * [Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics
+4th edition, Niederst Robbins](https://mega.nz/#!qWAXWYKa!GCfJmJVg-sGC3CJXIPGxdfl0b4pN4EbJ8MC0YvwyS80)
 
 <a name="MAT"></a>
 ### MAT
