@@ -161,6 +161,8 @@ https://mega.nz/#!HxtzFJBD!l8Aw9dxJ2VcjSYoCag9VP73pHqNKK1J8pRh8OJ0Tcj0)
     * [Computer Systems: A Programmer's Perspective 2nd Bryant O'Hallaron](https://mega.nz/#!8ktm3ILT!C44qU4Xl8GJZPtrIxVdJx00_8ba8AqYKPIIP7CzEIl0)
     * [Computer Systems: A Programmer's Perspective 3rd Bryant O'Hallaron](https://mega.nz/#!g10DHCRA!bWLg1WgBdEZtIOIAwzNIBTUWOGK1nPS_9RAdtKNxPpk)  
 Note: 320 is taught using the third edition, but the pdf quality for the second edition is a lot better. You're encouraged to download both, using mainly the second edition but using the third when they differ.
+* 323
+    * [Designing for Interaction: Creating Innovative Applications and Devices, Saffer](https://mega.nz/#!HTh3FbAI!sFrSQErDiWhUtk5OYqIdEglgzf51QF-BhaahE1Ig0tc)
 * 327
     * [Computer Vision: Algorithms and Applications Draft Szeliski](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
     * [Computer Vision A Modern Approach 2nd Forsyth Ponce](https://mega.nz/#!Usk1FDJR!eDYFJ1GGg5vDf_Yrr_WjNYieyEdDsR9I8vJZ4L5Mxf4)
@@ -211,6 +213,8 @@ aka the "CLRS book"
 
 * 320
     * [Principles of Computer Networks and Communications, Dumas Schwartz](https://mega.nz/#!XSpgSaQA!AASXSJfgI7AJxLhBT4oinCkr6X4imRu5V0E7Q4TGuV8)
+* 323
+    * [Designing for Interaction: Creating Innovative Applications and Devices, Saffer](https://mega.nz/#!HTh3FbAI!sFrSQErDiWhUtk5OYqIdEglgzf51QF-BhaahE1Ig0tc)
 
 <a name="GEO"></a>
 ### GEO
@@ -232,6 +236,8 @@ aka the "CLRS book"
 4th edition, Niederst Robbins](https://mega.nz/#!qWAXWYKa!GCfJmJVg-sGC3CJXIPGxdfl0b4pN4EbJ8MC0YvwyS80)
 * 312
     * [The Gift of Fire 4th Baase](https://mega.nz/#!VpNzGJQT!vwYWduKRNIBk5EGhH8P_mM1XpV6IGAZpmJ4XdAGgsWg)
+* 323
+    * [Designing for Interaction: Creating Innovative Applications and Devices, Saffer](https://mega.nz/#!HTh3FbAI!sFrSQErDiWhUtk5OYqIdEglgzf51QF-BhaahE1Ig0tc)
 
 <a name="MAT"></a>
 ### MAT
@@ -261,6 +267,8 @@ https://mega.co.nz/#!T11TnDZT!VVohd-DSMa-Rr5koBRcfVKfz5H-onikumQHKGriyC9o)
     * [MATLAB Programming for Engineers 4th Chapman](https://mega.nz/#!htsHzBAL!aPiVU44BZ4_QmMQXmfcwqzYrzb98Uu7t2n2k2_kA_w4)
 * 203
     * [Engineering Graphic Essentials 4th Plantenberg](https://mega.nz/#!oxtiSQoR!693xscEw0IPjAbBuNcw7TooCdsITww2GnG9nO8-WOU0)
+* 220
+    * [The Art of Electronics 3rd, Horowitz and Hill](https://mega.nz/#!vb4VGToQ!YYFXYG7FZ-iFPBeaqH8Uv9i8Fm7c91skVdtxzNht9Oc)
 
 <a name="MUS"></a>
 ### MUS
