@@ -20,7 +20,6 @@ Last edited: August 18, 2018
     * [Statistics for Life 4th Samuel, Wirmer Schaffner](https://mega.co.nz/#!v8dg0DQa!1tCrBFUuHdgp7El478EpuktLZyPLbk2-rFUdjzMCyxA)
 * 151/161
     * [Single Variable Calculus 4th James Stewart](https://mega.co.nz/#!blVxGRID!kLCgezkkpmmDPtWGnBjh9DPQETKjh5fGvWL53H9iB18)
-    * [Calculus: Single Variable 6th Hughes-Hallett, McCallum, Gleason, Connally](https://mega.nz/#!41d0VbQR!dXSQqAfL6PLByLfJG3iaDU4i8q9YUW6tklnH7QXTZq0)<b> (No longer used)</b> 
 * 210
     * [A Unified Introduction to Linear Algebra: Models, Methods, and Theory, Tucker](https://mega.nz/#!iTonjJAb!FXO4S6ra4ksgZEX6L-aXuQTbyu9ngNxAdRWNg_f-6Co)
 * 261
@@ -113,7 +112,6 @@ https://mega.co.nz/#!Kk1TFS7Z!OYeE-EUr4BTJlsSnIWMZIZ6FTmrHdqgNnBm3yegCv7g)
 ### CSE
 
 * 101
-    * [Computation Thinking for the Modern Problem Solver '14 Riley, Hunt](https://mega.nz/#!1pd1HZwA!_A-zowlw9oGXtXiY-jvZbVzsY8YevJ74p2VyCMSvLBk)
     * [Explorations in Computing: An Introduction to Computer Science and Python Programming, Conery](https://mega.nz/#!aXxgSQpS!IDfBePadiaP_7HTFhUaf-5dT6L3rKtpQn3iyASjqKpw)
 * 102
     * [Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics
