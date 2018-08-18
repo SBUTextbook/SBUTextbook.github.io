@@ -207,6 +207,8 @@ aka the "CLRS book"
     * [Signals and Systems 2nd, Oppenheim Willsky Nawab](https://mega.nz/#!rC4T0IrJ!q7jjZsbk-_JdZFKGSbPs5_BahWDq5m3ZWlkz8_zT61s)
 * 340
     * [Mobile Wireless Communications, Schwartz](https://mega.nz/#!ze4l1ADL!cKw6QTVRvM7t6OXVv5l2QZMzHtdw5VTCLv_ApPO39ZA)
+* 372
+    * [Microelectronic Circuits 7th, Sedra & Smith](https://mega.nz/#!3GRzVQoY!-g33MbCur-Ss6Cj3ka6mYLO3PYZcB4X6lHvXO2XhOa4)
 * 382
     * [VHDL For Engineers 1st Kenneth L. Short](https://mega.nz/#!f5NVBZjL!Bqrh-bTLhCYKo9p3hshtAGcpJ215XuGCnVJU-GPwqsk)
 * 545
