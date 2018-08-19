@@ -219,6 +219,8 @@ aka the "CLRS book"
 <a name="EST"></a>
 ### EST
 
+* 310
+    * [Game Design Workshop: A Playcentric Approach to Creating Innovative Games, Fullerton & Tracy](https://mega.nz/#!nXIRkKhD!IYckftCkxaA6xxHTrVqewKx9oFoaJjvufL84AsYkX-Q)
 * 320
     * [Principles of Computer Networks and Communications, Dumas Schwartz](https://mega.nz/#!XSpgSaQA!AASXSJfgI7AJxLhBT4oinCkr6X4imRu5V0E7Q4TGuV8)
 * 323
@@ -246,6 +248,8 @@ aka the "CLRS book"
     * [The Gift of Fire 4th Baase](https://mega.nz/#!VpNzGJQT!vwYWduKRNIBk5EGhH8P_mM1XpV6IGAZpmJ4XdAGgsWg)
 * 323
     * [Designing for Interaction: Creating Innovative Applications and Devices, Saffer](https://mega.nz/#!HTh3FbAI!sFrSQErDiWhUtk5OYqIdEglgzf51QF-BhaahE1Ig0tc)
+* 340
+    * [Game Design Workshop: A Playcentric Approach to Creating Innovative Games, Fullerton & Tracy](https://mega.nz/#!nXIRkKhD!IYckftCkxaA6xxHTrVqewKx9oFoaJjvufL84AsYkX-Q)
 
 <a name="MAT"></a>
 ### MAT
