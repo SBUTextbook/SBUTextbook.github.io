@@ -63,6 +63,8 @@ Last edited: August 18, 2018
 <a name="AST"></a>
 ### AST
 
+* 101
+    * [The Essential Cosmic Perspective 6th, Bennet Donahue Scheidner Voit](https://mega.nz/#!nOQ3DSJK!5QpTxUst-MKi8Vf3NIXY5lfmn0ag-f_TI2lZVj5n2pU)
 * 203
     * [Astronomy A Physical Perspective 2nd Kutner](https://mega.nz/#!9w8RBZzb!KMGz-oWmlfL2fdwiwYagvryNh89_T3xGVU7cjqcXoFg)
     
@@ -103,6 +105,8 @@ Last edited: August 18, 2018
     * [Chemistry the Molecular Nature 7th Silberberg](https://mega.co.nz/#!K8dnQaJa!n78IHUfxoAxlnZyactICygHel_YMh4qkX_KHuRQsc-s)
     * [Study Guide](https://mega.nz/#!Zp0jGAaR!Re2ha8ExWWMP9C8ictVs2rkwDh7GgGM8JpcvHPJkDXI)
 * 321/322
+    * [Organic Chemistry as a Second Language: First Semester Topics 4th, Klein](https://mega.nz/#!XfBHBQxS!4oa3zHtuCVfK4IL2f2-U8htoW1VqqA5fy21QeWJhiLc)
+    * [Organic Chemistry as a Second Language: Second Semester Topics 4th, Klein](https://mega.nz/#!6DJ3HSwI!EbS6F2XuVhlcoXxuPr-jApDT8uwa68FYTrvwF2dx7Sg)
     * [Organic Chemistry 10th Solomons, Fryhle](
 https://mega.co.nz/#!Kk1TFS7Z!OYeE-EUr4BTJlsSnIWMZIZ6FTmrHdqgNnBm3yegCv7g)
     * [Organic Chemistry I As a Second Language 2nd David Klein](https://mega.co.nz/#!3oMwRJCC!lnjr50JyxOiO_60U8exn4jw6Fl3gVFbhaMrfcUsYGlU)
