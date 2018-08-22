@@ -45,6 +45,8 @@ Last edited: August 18, 2018
     * [Discrete and Computational Geometry 2011 Devadoss, O'Rourke](https://mega.nz/#!U9J2EC5I!xAdZj96GzwXsPGz3BLaYucRYDhxrehx2FdTVcOCE5Tw)
 * 351
     * [Numbers Groups and Codes 2nd Humphreys, Prest](https://mega.nz/#!n4pCgDqQ!g3Ofv85bA2P0bwVhZQVEqFMNV4My6OrAxlhLf_VGjzE)
+* 361
+    * [Lectures, Problems, and Solutions for Ordinary Differential Equations, Deng](https://mega.nz/#!eCYAXS7B!tYahhPmn9_ZrpK2v34JiYdDigGCIjNvpaPUwDagRjUk)
 
 <a name="ANT"></a>
 ### ANT
@@ -71,6 +73,8 @@ Last edited: August 18, 2018
 <a name="BIO"></a>
 ### BIO
 
+* 201
+    * [Biology, Rye Wise Jurukovski DeSaix Choi Avissar](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Biology-OP_xQoZM8Z.pdf)
 * 202
     * [Biology 9th Campbell, Reece](https://mega.co.nz/#!y0tWhDLA!2uQz0Qx8RyeYJsbBDL-FKXeDozh7HmtDjE63JxXQB_A)
     * [Biology 10th Campbell, Reece](https://mega.co.nz/#!39l1SKAI!UfJffvEVKJRmyew2g-nGAzXAfYG4tMwBExAbXJrVF8s)
@@ -235,6 +239,7 @@ aka the "CLRS book"
 ### GEO
 
 * 102
+    * [Essentials of Geology 4th, Marshak](https://mega.nz/#!bDJSiQJT!TccYhSS62sZRXie7wtairXkcgc2ClAb8R0SGOFanqkY)
     * [Earth: An Introduction to Physical Geology 12th Tarbuck Lutgens](https://mega.nz/#!Jh9SWTxa!tVW4QVWuMpfYokvl5ITKtsJrKFbjBzdaM8HD55u-uw0)
 
 <a name="HIS"></a>
