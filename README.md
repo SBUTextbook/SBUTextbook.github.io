@@ -113,7 +113,7 @@ Last edited: August 22, 2018
 ### CHE
 
 * 131/132
-    * [Chemistry the Science in Context 3rd Gilbert](https://mega.co.nz/#!v5k1UBwJ!emxu5M6jJv5E9RO239FkdwCngwMv5IeOCvDaUSX7Ja0)
+    * [Chemistry: The Science in Context 5th, Gilbert Kirss Foster Bretz Davies](https://mega.nz/#!GehHwTCL!2ItLLd9Qhw__Q1NfyOl-qSjy1imqPCqGYZM3yt_PbtA)
     * [Chemistry the Molecular Nature 7th Silberberg](https://mega.co.nz/#!K8dnQaJa!n78IHUfxoAxlnZyactICygHel_YMh4qkX_KHuRQsc-s)
     * [Study Guide](https://mega.nz/#!Zp0jGAaR!Re2ha8ExWWMP9C8ictVs2rkwDh7GgGM8JpcvHPJkDXI)
 * 321/322
