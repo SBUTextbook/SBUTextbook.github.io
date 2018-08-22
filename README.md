@@ -313,6 +313,7 @@ https://mega.co.nz/#!T11TnDZT!VVohd-DSMa-Rr5koBRcfVKfz5H-onikumQHKGriyC9o)
 * 121/122
     * [College Physics A Strategic Approach 3rd Randall Knight](https://mega.co.nz/#!r8UmnZYL!4ctW4t616Tht-u181ormK_w4K0Yp0jiWqC4tPujEq8M)
 * 126/131/132
+    * [Physics for Scientists and Engineers 1st, Katz](https://mega.nz/#!OOYCTKDa!JwVBvA8T0_hlmVpfskFktGX0leQmPWQvTeJSYxnuPoM)
     * [Physics for Scientists and Engineers with Modern Physics 4th Giancoli](https://mega.co.nz/#!etNFFZjB!Oh4mpkTHB0wBEOqLs5k-69xXOwQpPRFXkPOHlyNauOA)
     * [Physics for Scientists and Engineers with Modern Physics Solutions Manual 4th Giancoli](https://mega.co.nz/#!OsUi1YBQ!4D6AmK1ZAaZN0MpR1R1ad-WILrCA9_K5yYTgoqRMSIE)
 * 251
