@@ -18,9 +18,9 @@ Last edited: August 28, 2018
 ### AMS
 
 * 110
-    * [Statistics for Life 4th Samuel, Wirmer Schaffner](https://mega.co.nz/#!v8dg0DQa!1tCrBFUuHdgp7El478EpuktLZyPLbk2-rFUdjzMCyxA)
+    * [Statistics for the Life Sciences 4th Samuel, Wirmer Schaffner](https://mega.nz/#!HDpB1RIQ!biVYL_pB8cIbFCQn-TVbt2gkObkWGInH8lmwZBLjHI8)
 * 151/161
-    * [Single Variable Calculus 4th James Stewart](https://mega.co.nz/#!blVxGRID!kLCgezkkpmmDPtWGnBjh9DPQETKjh5fGvWL53H9iB18)
+    * [Single Variable Calculus 4th James Stewart](https://mega.nz/#!aTp3jT4B!o1Gtw-JTjm8vNbsx0kM1ezyf8g6Su4X_5diFGUEYvzc)
 * 210
     * [A Unified Introduction to Linear Algebra: Models, Methods, and Theory, Tucker](https://mega.nz/#!iTonjJAb!FXO4S6ra4ksgZEX6L-aXuQTbyu9ngNxAdRWNg_f-6Co)
 * 261
@@ -273,7 +273,7 @@ aka the "CLRS book"
 ### MAT
 
 * 125-132
-    * [Single Variable Calculus 4th James Stewart](https://mega.co.nz/#!blVxGRID!kLCgezkkpmmDPtWGnBjh9DPQETKjh5fGvWL53H9iB18)
+    * [Single Variable Calculus 4th James Stewart](https://mega.nz/#!aTp3jT4B!o1Gtw-JTjm8vNbsx0kM1ezyf8g6Su4X_5diFGUEYvzc)
 * 200
     * [An Introduction to Mathematical Reasoning Part I '07 Eccles](http://www.maths.manchester.ac.uk/~nige/IMRpartI.pdf)
     * [An Introduction to Mathematical Reasoning Part II '07 Eccles](http://www.maths.manchester.ac.uk/~nige/partII.pdf)
