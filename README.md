@@ -88,7 +88,7 @@ Last edited: August 28, 2018
     * [Biology, Rye Wise Jurukovski DeSaix Choi Avissar](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Biology-OP_xQoZM8Z.pdf)
 * 202
     * [Biology 9th Campbell, Reece](https://mega.co.nz/#!y0tWhDLA!2uQz0Qx8RyeYJsbBDL-FKXeDozh7HmtDjE63JxXQB_A)
-    * [Biology 10th Campbell, Reece](https://mega.co.nz/#!39l1SKAI!UfJffvEVKJRmyew2g-nGAzXAfYG4tMwBExAbXJrVF8s)
+    * [Biology 10th Campbell, Reece](https://mega.nz/#!CKAiXKoB!EBPvoQ28QMmiHbKVLHnJNLjRYEyO7Gz-UhDRYV0y8RA)
 * 203
     * [Human Physiology: An Integrated Approach 6th Silverthorn](https://mega.nz/#!tFlBDDKS!Zk0DQD7wi5ub--KmMK4zSI7X_uzhAWw0aEnAZVHLRZ8)
 * 205
@@ -170,7 +170,7 @@ https://mega.nz/#!HxtzFJBD!l8Aw9dxJ2VcjSYoCag9VP73pHqNKK1J8pRh8OJ0Tcj0)
     * [Operating Systems Internals and Design Principles 8th Stallings](https://mega.nz/#!E9lj0BQJ!B_A9zIhNCowjNZRuyk6N_YJXbchIJeKPGrvzZ4pbFUw)
     * [Introduction to Operating System Design and Implementation The OSP2 Approach Kifer, Smolka](https://mega.nz/#!dt80zToT!wdL0W49ouzp88dHY5rg7p0QSrqYeMHSRYltnD8nXwpo)
 * 310
-    * [Computer Networking: A top-down approach 6th Kurose Ross](https://mega.nz/#!Jx0TXTbJ!bbyYL4AApO5_88xUyOC3ikjMIxk7lhjpoKk5ls2sCAA)
+    * [Computer Networking: A top-down approach 7th Kurose Ross](https://mega.nz/#!fSZw0A4J!dcL6uSFRlOYJutoNFcs3ibRuNoJFRevMbDFzTvBtFag)
 * 311
     * [UNIX and Linux System Administration Handbook 4th Nemeth, Snyder, Hein, Whaley](https://mega.nz/#!ulBwVbCC!TYOUaCDFDNxA8X8BFMpPs0M4599WTfW6XBjnRhe-fu0)
 * 312
