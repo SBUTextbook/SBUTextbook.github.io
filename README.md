@@ -8,6 +8,9 @@ Last edited: August 28, 2018
 * #### **Please contribute!** If you have a textbook that isn't listed here, use <a href="https://form.jotform.com/82298286578274">this form</a> to submit it.
 <!--If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here](contributing) for instructions.-->
 
+## About the recent takedowns...
+*  As you may have noticed, a bunch of textbooks were removed from MEGA recently. This is being worked on - please be patient, as all the pdfs have to be reuploaded.
+
 ## Jump to subject 
 
 [AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [ISE](#ISE) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHY](#PHY) \| [PSY](#PSY) \| [THR](#THR) \| [WRT](#WRT)
@@ -222,6 +225,8 @@ aka the "CLRS book"
     * [Engineering Ethics 4th, Fleddermann](https://mega.nz/#!yKxnhCqb!WLV3g6Rvk_aMC5TbwsAsOkdkfHP43s-y-xMx3bWuBuI)
 * 305
     * [Signals and Systems 2nd, Oppenheim Willsky Nawab](https://mega.nz/#!rC4T0IrJ!q7jjZsbk-_JdZFKGSbPs5_BahWDq5m3ZWlkz8_zT61s)
+* 319
+    * [Fundamentals of Applied Electromagnetics 7th, Ulaby Ravaioli](https://mega.nz/#!CO4hkRCC!Vv5TYQljUbN7vRXFY3sEGLucfIeb7mf9EFFyjsUz9qE)
 * 340
     * [Mobile Wireless Communications, Schwartz](https://mega.nz/#!ze4l1ADL!cKw6QTVRvM7t6OXVv5l2QZMzHtdw5VTCLv_ApPO39ZA)
 * 372
