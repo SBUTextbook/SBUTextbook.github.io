@@ -34,6 +34,7 @@ Last edited: August 28, 2018
     * [Introduction to Graph Theory 5th Wilson](https://mega.nz/#!58tkGCJY!c9w-ndrxpVMhxY_65kGw4RbvUMSrm0nQQtUyI1wA7lY)
 * 310
     * [Probability and Statistics for Science and Engineering with Examples in R 1st Edition Ahn](https://mega.nz/?fref=gc&dti=180130720983#!5DZWGIzS!zggdQoV96ySUWzWnjb33nbn2-hQhKVKY-4oVwpjPsns)
+    * Note: AMS 310 is currently taught with the 2nd edition, if you have it please submit it!
 * 311/507
     * [A First Course in Probability 9th Ross](https://mega.nz/#!YhETwLbT!oQVxwyuBjaDHQOa2I_nvWq2dZGQqlQ87VVTEVtRNRKQ)
 * 315
@@ -93,6 +94,8 @@ Last edited: August 28, 2018
     * [Human Physiology: An Integrated Approach 6th Silverthorn](https://mega.nz/#!tFlBDDKS!Zk0DQD7wi5ub--KmMK4zSI7X_uzhAWw0aEnAZVHLRZ8)
 * 205
     * [Handbook of Photosynthesis 2nd Pessarakli](https://mega.nz/#!8Y1RgTRD!mrRfP-_sS2U1sI3cCBzzCZNJfBiI7UD9dPKVnZKLkf8)
+* 314
+    * [The Biology of Cancer 2nd, Weinberg](https://mega.nz/#!7OAiHQhL!sx_PLNLdoblAebprEQld5M6oboyBiHO4S2ExawLLaUk)
 * 325
     * [Developmental Biology 11th Gilbert Barresi](https://mega.nz/#!wpMHEb6a!Pb5PQ_C2SsLEC5ssxH2bO8KKY-hWVnnp3raGWZfkBto)
 * 334
@@ -206,6 +209,8 @@ aka the "CLRS book"
     * [Speech and Language Processing 3rd Draft Jurafsky Martin](https://mega.nz/#!B5NXhR4D!-E3chd7eotiEhyJOfWytZqxH9vfUW__62PD2GeXPxmM)
 * 519
     * [The Data Science Design Manual 1st Skiena](https://mega.nz/#!tpkUHKiZ!OU2M6eh0YCnYMH1Xij4ntRBBuw5bEJ7PZK9IbPJ21Gg)
+* 529
+    * [Simulation Modeling and Analysis 5th, Law](https://mega.nz/#!LGBkQIqK!L93GrwrkaYXJSgoFuB1Hi7x393IHBu9KZq8eaXLcw80)
 * Misc.
     * [Cracking the Coding Interview 6th McDowell](https://mega.nz/#!cskT0ZLA!_5YiYHXW8hvF_p865iaqK1Q30-9GcvT1U2dH4IeY79k
 )
@@ -219,6 +224,8 @@ aka the "CLRS book"
     * [Programming in Objective-C 3rd Kochan](https://mega.nz/#!a9NCGIBS!5-uPLWvFCR2q0SXnzDBJDSCgUwT14EwHfqx2_VQsfaA)
 * 218
     * [Digital Design With An Introduction To The Verilog HDL 5th Mano Ciletti](https://mega.nz/#!OoMmhBSL!pXmYICD6aYApuQZkgWmZCzZKby_E6brwBQjoMDFtrrc)
+* 224
+    * [C++ Programming: From Problem Analysis to Program Design 8th, Malik](https://mega.nz/#!SeBERCyS!MmJ6sYtrxQml8Wi5KNODkQgL05e-mgXnvgplTyrxFjI)
 * 271
     * [Fundamentals of Electric Circuits 4th Alexander Sadiku](https://mega.nz/#!j9dynbIQ!ItAkYJfu9xscF08NNfa3XTMjikJXCjswDhzi20XzJMk)
 * 301
@@ -227,6 +234,8 @@ aka the "CLRS book"
     * [Signals and Systems 2nd, Oppenheim Willsky Nawab](https://mega.nz/#!rC4T0IrJ!q7jjZsbk-_JdZFKGSbPs5_BahWDq5m3ZWlkz8_zT61s)
 * 319
     * [Fundamentals of Applied Electromagnetics 7th, Ulaby Ravaioli](https://mega.nz/#!CO4hkRCC!Vv5TYQljUbN7vRXFY3sEGLucfIeb7mf9EFFyjsUz9qE)
+* 330
+    * [Digital Integrated Circuits: A Design Perspective 2nd, Rabaey Chandrakasan Nikolic](https://mega.nz/#!yGJmCIpC!R4inProzzjZVmq0dOYLE6jfTc8YFoWnno2BDu2o3Fh4)
 * 340
     * [Mobile Wireless Communications, Schwartz](https://mega.nz/#!ze4l1ADL!cKw6QTVRvM7t6OXVv5l2QZMzHtdw5VTCLv_ApPO39ZA)
 * 372
@@ -247,6 +256,8 @@ aka the "CLRS book"
     * [Principles of Computer Networks and Communications, Dumas Schwartz](https://mega.nz/#!XSpgSaQA!AASXSJfgI7AJxLhBT4oinCkr6X4imRu5V0E7Q4TGuV8)
 * 323
     * [Designing for Interaction: Creating Innovative Applications and Devices, Saffer](https://mega.nz/#!HTh3FbAI!sFrSQErDiWhUtk5OYqIdEglgzf51QF-BhaahE1Ig0tc)
+* 441
+    * [The Nature of Technology: What it is and How it Evolves, Arthur](https://mega.nz/#!7GJwTK5D!Gmi4GR9dFAxsdIVtQ6QJQCjHlo__KQLhbp9C6a4i-xk)
 
 <a name="GEO"></a>
 ### GEO
@@ -277,6 +288,8 @@ aka the "CLRS book"
 <a name="MAT"></a>
 ### MAT
 
+* 123
+    * [Precalculus 10th, Sullivan](https://mega.nz/#!vDAmlYQZ!mqSCE_H7K71860hknzYcrY0sgKOycaQmv3L17KonHYQ)
 * 125-132
     * [Single Variable Calculus 4th James Stewart](https://mega.nz/#!aTp3jT4B!o1Gtw-JTjm8vNbsx0kM1ezyf8g6Su4X_5diFGUEYvzc)
 * 200
