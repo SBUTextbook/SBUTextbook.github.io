@@ -34,7 +34,7 @@ Last edited: August 28, 2018
     * [Introduction to Graph Theory 5th Wilson](https://mega.nz/#!58tkGCJY!c9w-ndrxpVMhxY_65kGw4RbvUMSrm0nQQtUyI1wA7lY)
 * 310
     * [Probability and Statistics for Science and Engineering with Examples in R 1st Edition Ahn](https://mega.nz/?fref=gc&dti=180130720983#!5DZWGIzS!zggdQoV96ySUWzWnjb33nbn2-hQhKVKY-4oVwpjPsns)
-    * Note: AMS 310 is currently taught with the 2nd edition, if you have it please submit it!
+    Note: AMS 310 is currently taught with the 2nd edition, if you have it please submit it!
 * 311/507
     * [A First Course in Probability 9th Ross](https://mega.nz/#!YhETwLbT!oQVxwyuBjaDHQOa2I_nvWq2dZGQqlQ87VVTEVtRNRKQ)
 * 315
@@ -151,8 +151,8 @@ https://mega.co.nz/#!Ttl3hKiK!IWsNL2TkTgnfV5dTcLaHfIu8NovoYageViW5tYw8MJY)
     * [Data Structures and Other Objects using Java 4th Main](https://mega.nz/#!FtkQyIgK!-JsY7Lj7oled61DHqsr3G7talnKSUTCu3P4I9pzX6O4)
 * 215
     * [Discrete Mathematics: An Introduction to Mathematical Reasoning - Brief '11 Susanna Epp](
-https://mega.nz/#!HxtzFJBD!l8Aw9dxJ2VcjSYoCag9VP73pHqNKK1J8pRh8OJ0Tcj0)
-    * [Discrete Mathematics: An Introduction to Mathematical Reasoning - Comprehensive '11 Susanna Epp](https://mega.nz/#!K1EXBZqZ!ZULhhMyVhN4oU3VBsCNpf5aZvG90l8rUhFme9LxnTZg)
+https://mega.nz/#!rXBm0Kyb!f615mIf2pVwmFihgXsAHyjGsTUi6UVdoN0DiW7EwTcU)
+    * [Discrete Mathematics with Applications - Comprehensive '11 Susanna Epp](https://mega.nz/#!3e5lVBQY!4BawuJJdkvHmur3qJVO17LMW37zuhOS0VrKTNlyhbpI)
 * 219
     * [Midterm Study Guide](https://mega.nz/#!15ljlIJJ!B7ynXY2QpD11eNTpDls5qNIQf4atKC8Ff0HT-rwwqoY
 )
