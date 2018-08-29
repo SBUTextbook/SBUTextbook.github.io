@@ -120,7 +120,7 @@ Last edited: August 28, 2018
 
 * 131/132
     * [Chemistry: The Science in Context 5th, Gilbert Kirss Foster Bretz Davies](https://mega.nz/#!GehHwTCL!2ItLLd9Qhw__Q1NfyOl-qSjy1imqPCqGYZM3yt_PbtA)
-    * [Chemistry the Molecular Nature 7th Silberberg](https://mega.co.nz/#!K8dnQaJa!n78IHUfxoAxlnZyactICygHel_YMh4qkX_KHuRQsc-s)
+    * [Chemistry the Molecular Nature 7th Silberberg](https://mega.nz/#!3XIiDQSC!jKfiXdpDmd2T1PHjYY9XADKn-Bsq58bzjSkRGL2p-wM)
     * [Study Guide](https://mega.nz/#!Zp0jGAaR!Re2ha8ExWWMP9C8ictVs2rkwDh7GgGM8JpcvHPJkDXI)
 * 321/322
     * [Organic Chemistry as a Second Language: First Semester Topics 4th, Klein](https://mega.nz/#!XfBHBQxS!4oa3zHtuCVfK4IL2f2-U8htoW1VqqA5fy21QeWJhiLc)
@@ -141,8 +141,8 @@ https://mega.co.nz/#!Kk1TFS7Z!OYeE-EUr4BTJlsSnIWMZIZ6FTmrHdqgNnBm3yegCv7g)
 4th edition, Niederst Robbins](https://mega.nz/#!qWAXWYKa!GCfJmJVg-sGC3CJXIPGxdfl0b4pN4EbJ8MC0YvwyS80)
 * 114
     * [Introduction to Java Programming - Brief 9th Liang](
-https://mega.co.nz/#!Ttl3hKiK!IWsNL2TkTgnfV5dTcLaHfIu8NovoYageViW5tYw8MJY)
-    * [Introduction to Java Programming - Comprehensive 10th Liang](https://mega.co.nz/#!KklVjZZK!vCdVg0B4no9X2YyoOiti5joPLk8zPulVQPJ_yOc-f6Q)
+https://mega.nz/#!XfJAxYRS!LLawuOvCsflbUi0IfsakUe5uJv04SRwESgLzMkXyBNA)
+    * [Introduction to Java Programming - Comprehensive 10th Liang](https://mega.nz/#!LCZkRCIC!2-uqwTjn-7nBpBHZuFDZv7NJc0LaPx6JSLJAWViTGrw)
 * 150
     * [Mathematics for Computer Science '10 Lehman Leighton Meyer](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)
 * 160
@@ -304,6 +304,8 @@ https://mega.co.nz/#!T11TnDZT!VVohd-DSMa-Rr5koBRcfVKfz5H-onikumQHKGriyC9o)
     * [Differential Equations with Boundary Value Problems: Computing and Modelling 5th Edwards, Penney, Calvis](https://mega.nz/#!s0hGwKYK!m4UWewHnPnITz806CLIWAh_15WDqRPoTJMRS-QSKT_E)
 * 310
     * [Linear Algebra 4th Friedberg, Insel, and Spence](https://mega.nz/#!x8pDRA5L!Z44kZK2FvQhB5ksJNbROvIR8Y664Ca7N76TDhbzFNjQ)
+* 342
+    * [Complex Variables and Applications 8th, Brown Churchill](https://mega.nz/#!naQUSSQa!ABtSQzVbG6oKh2_a_qmqKYtnQPdWUOWTxm6rx8HTcvk)
 * 543
     * [Harmonic Measure '05 Garnett, Marshal](https://mega.nz/#!Rgk3iKYD!9dRi9JF9dbdeNHo9X0sM9HaThXyiwT1FxKZoeo3L-Hk)
 
