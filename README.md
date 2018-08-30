@@ -1,4 +1,4 @@
-Last edited: August 28, 2018
+Last edited: August 30, 2018
 
 
 ## Hello
@@ -33,8 +33,8 @@ Last edited: August 28, 2018
 * 303
     * [Introduction to Graph Theory 5th Wilson](https://mega.nz/#!58tkGCJY!c9w-ndrxpVMhxY_65kGw4RbvUMSrm0nQQtUyI1wA7lY)
 * 310
-    * [Probability and Statistics for Science and Engineering with Examples in R 1st Edition Ahn](https://mega.nz/?fref=gc&dti=180130720983#!5DZWGIzS!zggdQoV96ySUWzWnjb33nbn2-hQhKVKY-4oVwpjPsns)
-    Note: AMS 310 is currently taught with the 2nd edition, if you have it please submit it!
+    * [Probability and Statistics for Science and Engineering with Examples in R 1st Edition, Ahn](https://mega.nz/?fref=gc&dti=180130720983#!5DZWGIzS!zggdQoV96ySUWzWnjb33nbn2-hQhKVKY-4oVwpjPsns)
+    * [Probability and Statistics for Science and Engineering with Examples in R 2nd Edition, Ahn](https://mega.nz/#!ieYkGayb!t0fucoyUotHFYCIJb19Px-Ga6OWQhfdNBcemkXqulCE)
 * 311/507
     * [A First Course in Probability 9th Ross](https://mega.nz/#!YhETwLbT!oQVxwyuBjaDHQOa2I_nvWq2dZGQqlQ87VVTEVtRNRKQ)
 * 315
