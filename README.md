@@ -13,7 +13,7 @@ Last edited: August 30, 2018
 
 ## Jump to subject 
 
-[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [ISE](#ISE) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHY](#PHY) \| [PSY](#PSY) \| [THR](#THR) \| [WRT](#WRT)
+[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BME](#BME) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [ISE](#ISE) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHY](#PHY) \| [PSY](#PSY) \| [THR](#THR) \| [WRT](#WRT)
 
 ## The Links
 
@@ -74,6 +74,8 @@ Last edited: August 30, 2018
     * [The Essential Cosmic Perspective 6th, Bennet Donahue Scheidner Voit](https://mega.nz/#!nOQ3DSJK!5QpTxUst-MKi8Vf3NIXY5lfmn0ag-f_TI2lZVj5n2pU)
 * 203
     * [Astronomy A Physical Perspective 2nd Kutner](https://mega.nz/#!9w8RBZzb!KMGz-oWmlfL2fdwiwYagvryNh89_T3xGVU7cjqcXoFg)
+* 248
+    * [Life in the Universe 3rd ed, Bennett Shostak](https://mega.nz/#!GDBk2aSD!JvjU7xZ7ZYd6gE1oe2SBFF2wRdaeZnx7H53xJUVy0fY)
     
 <a name="ATM"></a>
 ### ATM
@@ -100,7 +102,13 @@ Last edited: August 30, 2018
     * [Developmental Biology 11th Gilbert Barresi](https://mega.nz/#!wpMHEb6a!Pb5PQ_C2SsLEC5ssxH2bO8KKY-hWVnnp3raGWZfkBto)
 * 334
     * [Vertebrate Life 9th Pough](https://mega.nz/#!j0xAzYSb!2EfPdZEYSmfqT0h1dUaDTPsnXyoXRtcJMhPmcQh-B4A)
+* 361
+    * [Principles of Biochemistry, Leningher](https://mega.nz/#!SCB20KpK!-JJYwEKNtb7jc08OW0b3Qjjon3KPU5TJG2SNltBAbWg)
 
+<a name="BME"></a>
+### BME
+* 304
+    * [An Introduction to Genetic Engineering 3rd Edition, Nicholl](https://mega.nz/#!HfRGRS4b!8ZzPCg2JO6ubqIZKgnUHmw_g26jlVo34bLMdG_yX7Uo)
 
 <a name="BUS"></a>
 ### BUS
@@ -109,7 +117,6 @@ Last edited: August 30, 2018
     * [Marketing Management, Millenium Edition Kotler](https://mega.nz/#!cwVBmDIR!vg_uvcBqSV9tYwQ8L6a0-FOW1-2i7uaOhGhWcgNnoE8)
 
 <a name="CCS"></a>
-
 ### CCS
 
 * 101
@@ -304,6 +311,7 @@ https://mega.nz/#!nb5nSLDC!2XJYbU2SxSIsRLRqvr0jSNv43B67ylNu4Wa4PrnBTl8)
     * [Differential Equations with Boundary Value Problems: Computing and Modelling 5th Edwards, Penney, Calvis](https://mega.nz/#!s0hGwKYK!m4UWewHnPnITz806CLIWAh_15WDqRPoTJMRS-QSKT_E)
 * 310
     * [Linear Algebra 4th Friedberg, Insel, and Spence](https://mega.nz/#!x8pDRA5L!Z44kZK2FvQhB5ksJNbROvIR8Y664Ca7N76TDhbzFNjQ)
+    * [Linear Algebra Done Right 3rd edition, Axler](https://mega.nz/#!zTIUUQDB!iEeeQ0AM1jqseKI-FAecYCn2mvhED79_WQLTxm_oOok)
 * 342
     * [Complex Variables and Applications 8th, Brown Churchill](https://mega.nz/#!naQUSSQa!ABtSQzVbG6oKh2_a_qmqKYtnQPdWUOWTxm6rx8HTcvk)
 * 543
@@ -316,7 +324,8 @@ https://mega.nz/#!nb5nSLDC!2XJYbU2SxSIsRLRqvr0jSNv43B67ylNu4Wa4PrnBTl8)
 * 102
     * [MATLAB Programming for Engineers 4th Chapman](https://mega.nz/#!htsHzBAL!aPiVU44BZ4_QmMQXmfcwqzYrzb98Uu7t2n2k2_kA_w4)
 * 203
-    * [Engineering Graphic Essentials 4th Plantenberg](https://mega.nz/#!oxtiSQoR!693xscEw0IPjAbBuNcw7TooCdsITww2GnG9nO8-WOU0)
+    * [Engineering Graphics Essentials 5th Plantenberg](https://mega.nz/#!qPAkXCRT!-mBRpdiQcxm5xEkdYfD6HtHa8Mh7o0LlKmlpiTn7rKk)
+    * [Engineering Graphics Essentials 4th Plantenberg](https://mega.nz/#!oxtiSQoR!693xscEw0IPjAbBuNcw7TooCdsITww2GnG9nO8-WOU0)
 * 220
     * [The Art of Electronics 3rd, Horowitz and Hill](https://mega.nz/#!vb4VGToQ!YYFXYG7FZ-iFPBeaqH8Uv9i8Fm7c91skVdtxzNht9Oc)
 
