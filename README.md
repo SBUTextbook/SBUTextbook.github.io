@@ -13,7 +13,7 @@ Last edited: August 30, 2018
 
 ## Jump to subject 
 
-[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BME](#BME) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [ISE](#ISE) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHY](#PHY) \| [PSY](#PSY) \| [THR](#THR) \| [WRT](#WRT)
+[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BME](#BME) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [HON](#HON) \| [ISE](#ISE) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHI](#PHI) \| [PHY](#PHY) \| [PSY](#PSY) \| [THR](#THR) \| [WRT](#WRT)
 
 ## The Links
 
@@ -279,6 +279,12 @@ aka the "CLRS book"
 * 104
     * [America: A Concise History Volumes I and II combined 4th Henretta, Brody](https://mega.nz/#!hxlnxKwD!V62Xc10x8tzAUFnvduKoGUYIN1kKu3uTSSRChnZiFGU)
     
+<a name="HON"></a>
+### HON
+
+* 105
+    * [Rhetor Response: A Theory and Practice of Literary Affordance, Khost](https://mega.nz/#!aL5TxQya!aEuZvauaW235Y_6mUSEIPuqPFlP-Kt-wd0RuwlXNmW8)
+    
 <a name="ISE"></a>
 ### ISE
 
@@ -336,6 +342,12 @@ https://mega.nz/#!nb5nSLDC!2XJYbU2SxSIsRLRqvr0jSNv43B67ylNu4Wa4PrnBTl8)
     * [Listen 8th Edition Joseph Kerman, Gary Tomlinson](https://mega.nz/#!jsFgVSYD!S5us7zWWhejbjvd9QWd9QrZgiftWWXyUgwLYErk5Ez4)  
 6 CD set not included; track list found in the book (use YouTube)
 
+<a name="PHI"></a>
+### PHI
+
+* 112
+    * [Philosophy of Technology: The Technological Condition and Anthology 2nd, Scharff & Dusek](https://mega.nz/#!3b43gIjJ!JuUmwuee9zYNoU-Yn_l3q_SMX8cKujIR7aq2xfYkotQ)
+
 <a name="PHY"></a>
 ### PHY
 
@@ -343,7 +355,7 @@ https://mega.nz/#!nb5nSLDC!2XJYbU2SxSIsRLRqvr0jSNv43B67ylNu4Wa4PrnBTl8)
     * [College Physics A Strategic Approach 3rd Randall Knight](https://mega.co.nz/#!r8UmnZYL!4ctW4t616Tht-u181ormK_w4K0Yp0jiWqC4tPujEq8M)
 * 126/131/132
     * [Physics for Scientists and Engineers 1st, Katz](https://mega.nz/#!OOYCTKDa!JwVBvA8T0_hlmVpfskFktGX0leQmPWQvTeJSYxnuPoM)
-    * [Physics for Scientists and Engineers with Modern Physics 4th Giancoli](https://mega.co.nz/#!etNFFZjB!Oh4mpkTHB0wBEOqLs5k-69xXOwQpPRFXkPOHlyNauOA)
+    * [Physics for Scientists and Engineers with Modern Physics 4th Giancoli](https://mega.nz/#!LDgjhQAC!KnCbDZ8Iov3sDj3yecw8Cf5n7hjGs7TPlBqV1Md_DEU)
     * [Physics for Scientists and Engineers with Modern Physics Solutions Manual 4th Giancoli](https://mega.co.nz/#!OsUi1YBQ!4D6AmK1ZAaZN0MpR1R1ad-WILrCA9_K5yYTgoqRMSIE)
 * 251
     * [Data Analysis for Physical Science Students '91 Lyons](https://drive.google.com/a/stonybrook.edu/file/d/0B1epQSoYuhziVFV4Mzl2bDdJamM/view?usp=sharing)
