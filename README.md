@@ -1,4 +1,4 @@
-Last edited: August 30, 2018
+Last edited: September 3, 2018
 
 
 ## Hello
@@ -412,6 +412,6 @@ https://mega.co.nz/#!ux9EnS6C!KgiJkJQJvQGojNbus3LHMTAmyXrRDeRXL-5IzWH-vlQ)
 ### WRT
 
 * 101
-    * [The Bedford Reader 12th Edition X. J. Kennedy, Dorothy M. Kennedy, Jane E. Aaron, Ellen Kuhl Repetto](https://mega.co.nz/#!X5kFUYSb!hFQvC91-sJkmeKpEE5HG4WDjKtwxglyZIGnSZ5LQX8k)
+    * [The Bedford Reader 12th Edition X. J. Kennedy, Dorothy M. Kennedy, Jane E. Aaron, Ellen Kuhl Repetto](https://mega.nz/#!Hb4FHJwR!DOEZRg8kWwn8gk9sf2dsA_1ziQPHPLtJ6A1bxB630sY)
 * 102
-    * [Critical Thinking, Reading, and Writing A Brief Guide to Argument - Sylvan Barnet, Hugo Bedau](https://mega.co.nz/#!7g1zSDBL!Oe0ep3LztO8QCheUBLBfNaDQ_e0b90qbrzqEgdEwFxE)
+    * [Critical Thinking, Reading, and Writing A Brief Guide to Argument - Sylvan Barnet, Hugo Bedau](https://mega.nz/#!bSxH0ZBA!82RTJY-nBqav8IF1qbHMrNd2L-GE5Z1XpTxI4CVDQHk)
