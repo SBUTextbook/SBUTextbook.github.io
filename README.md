@@ -13,7 +13,7 @@ Last edited: August 30, 2018
 
 ## Jump to subject 
 
-[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BME](#BME) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [HON](#HON) \| [ISE](#ISE) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHI](#PHI) \| [PHY](#PHY) \| [PSY](#PSY) \| [THR](#THR) \| [WRT](#WRT)
+[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BME](#BME) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [HON](#HON) \| [ISE](#ISE) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHI](#PHI) \| [PHY](#PHY) \| [PSY](#PSY) \| [SOC](#SOC) \| [THR](#THR) \| [WRT](#WRT)
 
 ## The Links
 
@@ -273,6 +273,8 @@ aka the "CLRS book"
 * 102
     * [Essentials of Geology 4th, Marshak](https://mega.nz/#!bDJSiQJT!TccYhSS62sZRXie7wtairXkcgc2ClAb8R0SGOFanqkY)
     * [Earth: An Introduction to Physical Geology 12th Tarbuck Lutgens](https://mega.nz/#!Jh9SWTxa!tVW4QVWuMpfYokvl5ITKtsJrKFbjBzdaM8HD55u-uw0)
+* 103
+    * [Earth System History 3rd, Stanley](https://mega.nz/#!fDoV3J6T!tgxKyTP11zRBv_C0Clb37zXSKOolHodSkTrqS7Itw5k)
 
 <a name="HIS"></a>
 ### HIS
@@ -320,6 +322,8 @@ https://mega.nz/#!nb5nSLDC!2XJYbU2SxSIsRLRqvr0jSNv43B67ylNu4Wa4PrnBTl8)
 * 310
     * [Linear Algebra 4th Friedberg, Insel, and Spence](https://mega.nz/#!x8pDRA5L!Z44kZK2FvQhB5ksJNbROvIR8Y664Ca7N76TDhbzFNjQ)
     * [Linear Algebra Done Right 3rd edition, Axler](https://mega.nz/#!zTIUUQDB!iEeeQ0AM1jqseKI-FAecYCn2mvhED79_WQLTxm_oOok)
+* 319
+    * [Elementary Analysis: The Theory of Calculus 2nd, Ross](https://mega.nz/#!yG4BnJoT!uAB7I3T0qMTWi_M5OXeZYrnBv86iW_g7db_QdpCOjE4)
 * 342
     * [Complex Variables and Applications 8th, Brown Churchill](https://mega.nz/#!naQUSSQa!ABtSQzVbG6oKh2_a_qmqKYtnQPdWUOWTxm6rx8HTcvk)
 * 543
@@ -389,6 +393,14 @@ https://mega.nz/#!nb5nSLDC!2XJYbU2SxSIsRLRqvr0jSNv43B67ylNu4Wa4PrnBTl8)
 https://mega.co.nz/#!ux9EnS6C!KgiJkJQJvQGojNbus3LHMTAmyXrRDeRXL-5IzWH-vlQ)
 * 201
     * [Statistics for Psychology 6th Aron, Coups, Aron](https://mega.nz/#!0okHTaSL!uNukKWZVz6nfrKgD3WKKrvnGtl-7ZwXsZXXqddM0bSQ)
+
+ <a name="SOC"></a>
+### SOC
+
+* 105
+    * [Essentials of Sociology: A Down-to-Earth Approach 11th, Henslin](https://mega.nz/#!nKxVnbIT!GteIa4eLfdPt03PhPT-1oR0FJI2C6jza5qlM4Pt4x5g)
+* 344
+    * [Twenty Lessons in Environmental Sociology 2nd, Gould & Lewis](https://mega.nz/#!KH4hhLrL!ScYuSCypX7fgsc9z55JMA8f7x-oSHGk1Cm36uwAbNbU)
 
 <a name="THR"></a>
 ### THR
