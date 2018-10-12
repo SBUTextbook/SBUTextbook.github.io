@@ -1,4 +1,4 @@
-Last edited: September 3, 2018
+Last edited: October 12, 2018
 
 
 ## Hello
@@ -8,8 +8,8 @@ Last edited: September 3, 2018
 * #### **Please contribute!** If you have a textbook that isn't listed here, use <a href="https://form.jotform.com/82298286578274">this form</a> to submit it.
 <!--If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here](contributing) for instructions.-->
 
-## About the recent takedowns...
-*  As you may have noticed, a bunch of textbooks were removed from MEGA recently. This is being worked on - please be patient, as all the pdfs have to be reuploaded.
+## Update (10/12/18)
+*  More books were taken down from MEGA, mostly the same ones that were taken down before. A solution is being worked on.
 
 ## Jump to subject 
 
