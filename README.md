@@ -23,7 +23,7 @@ Last edited: October 12, 2018
 * 110
     * [Statistics for the Life Sciences 4th Samuel, Wirmer Schaffner](https://mega.nz/#!HDpB1RIQ!biVYL_pB8cIbFCQn-TVbt2gkObkWGInH8lmwZBLjHI8)
 * 151/161
-    * [Single Variable Calculus 4th James Stewart](https://mega.nz/#!aTp3jT4B!o1Gtw-JTjm8vNbsx0kM1ezyf8g6Su4X_5diFGUEYvzc)
+    * [Single Variable Calculus 4th James Stewart](http://download.library1.org/main/772000/c7199fc5ab20a0b9a052c710400a0bd4/James%20Stewart-Calculus_%20Concepts%20and%20Contexts%2C%204th%20Edition%20%20-Cengage%20Learning%20%282010%29.pdf)
 * 210
     * [A Unified Introduction to Linear Algebra: Models, Methods, and Theory, Tucker](https://mega.nz/#!iTonjJAb!FXO4S6ra4ksgZEX6L-aXuQTbyu9ngNxAdRWNg_f-6Co)
 * 261
