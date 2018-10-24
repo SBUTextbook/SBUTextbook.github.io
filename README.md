@@ -93,6 +93,7 @@ Last edited: October 24, 2018
 * 202
     * [Biology 9th Campbell, Reece](https://mega.co.nz/#!y0tWhDLA!2uQz0Qx8RyeYJsbBDL-FKXeDozh7HmtDjE63JxXQB_A)
     * [Biology 10th Campbell, Reece](https://mega.nz/#!CKAiXKoB!EBPvoQ28QMmiHbKVLHnJNLjRYEyO7Gz-UhDRYV0y8RA)
+    * [Biology 11th Campbell](https://mega.nz/#!veBinCzC!19fboERh208Ds2qImTY3c52gbzrW7LH2BX8uMR8qxB4)
 * 203
     * [Human Physiology: An Integrated Approach 6th Silverthorn](https://mega.nz/#!tFlBDDKS!Zk0DQD7wi5ub--KmMK4zSI7X_uzhAWw0aEnAZVHLRZ8)
 * 205
@@ -264,6 +265,10 @@ aka the "CLRS book"
     * [Principles of Computer Networks and Communications, Dumas Schwartz](https://mega.nz/#!XSpgSaQA!AASXSJfgI7AJxLhBT4oinCkr6X4imRu5V0E7Q4TGuV8)
 * 323
     * [Designing for Interaction: Creating Innovative Applications and Devices, Saffer](https://mega.nz/#!HTh3FbAI!sFrSQErDiWhUtk5OYqIdEglgzf51QF-BhaahE1Ig0tc)
+* 326
+    * [Modern Management: Concepts & Skills, Certo](https://mega.nz/#!rKIUzS6S!3hBO3ag3kU9eQIHAYuATKgJQgd0UFcuN4a_G8F4MYO4)
+* 391
+    * [Technology in Context: Technology Assessment for Managers, Braun](https://mega.nz/#!aGZmgKZC!O12N76ha8q49EWpLkjnFyO5G5MkKL5Xsdg8ilmIptYA}
 * 441
     * [The Nature of Technology: What it is and How it Evolves, Arthur](https://mega.nz/#!7GJwTK5D!Gmi4GR9dFAxsdIVtQ6QJQCjHlo__KQLhbp9C6a4i-xk)
 
@@ -392,6 +397,8 @@ aka the "CLRS book"
 https://mega.co.nz/#!ux9EnS6C!KgiJkJQJvQGojNbus3LHMTAmyXrRDeRXL-5IzWH-vlQ)
 * 201
     * [Statistics for Psychology 6th Aron, Coups, Aron](https://mega.nz/#!0okHTaSL!uNukKWZVz6nfrKgD3WKKrvnGtl-7ZwXsZXXqddM0bSQ)
+* 250
+    * [Biopsychology 10th, Pinel Barnes](https://mega.nz/#!WPQGVYbJ!r80Qjo92bjv0X3PYwEXSIOQ0miHPFcaaP_PGJQB6m1Q)
 
  <a name="SOC"></a>
 ### SOC
