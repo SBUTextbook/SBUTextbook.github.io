@@ -8,9 +8,6 @@ Last edited: October 24, 2018
 * #### **Please contribute!** If you have a textbook that isn't listed here, please consider submitting it. The preferred method is to use <a href="https://form.jotform.com/82298286578274">this form</a> to submit it. Sometimes the form will run out of storage space; if that's the case, you can email the pdf to stonybrook.textbooks[at]gmail[dot]com or send a link to it to u/SBUTextbooks on reddit.
 <!--If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here](contributing) for instructions.-->
 
-## Update (10/12/18)
-*  More books were taken down from MEGA, mostly the same ones that were taken down before. A solution is being worked on.
-
 ## Jump to subject 
 
 [AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BME](#BME) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [HON](#HON) \| [ISE](#ISE) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHI](#PHI) \| [PHY](#PHY) \| [PSY](#PSY) \| [SOC](#SOC) \| [THR](#THR) \| [WRT](#WRT)
@@ -40,6 +37,8 @@ Last edited: October 24, 2018
     * [A First Course in Probability 9th Ross](https://mega.nz/#!YhETwLbT!oQVxwyuBjaDHQOa2I_nvWq2dZGQqlQ87VVTEVtRNRKQ)
 * 315
     * [An Introduction to Statistical Methods and Data Analysis 6th Ott Longnecker](https://mega.nz/#!ZgdUFSDZ!VgvZBnAiLk3n-WVL3JR_Uhpw36-KZEiUB7ADwrJt1aw)
+* 318
+    * [Mathematical Interest Theory 2nd, Vaaler Daniel](https://mega.nz/#!LWYmkADD!4P5x6v3aZu97oT6uICFazRuhXsqVsm2-L5-vIGGrrIg)
 * 320
     * [Options, Futures, and Other Derivatives 8th Hull](https://mega.nz/#!E9kn0SRb!sw0t8lWcomwkI69UP9SNEplAtQyuO7RXjougBQUerOk)
     * [Options, Futures, and Other Derivatives Solutions Manual 8th Hull](https://mega.nz/#!FpFy0ZaQ!ivHtwtBrpT6sMduD9plFbzFBcJKZVOkV3WFedECfHgs)
