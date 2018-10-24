@@ -1,11 +1,11 @@
-Last edited: October 12, 2018
+Last edited: October 24, 2018
 
 
 ## Hello
 * This is a crowd-sourced list of links to free PDFs of textbooks for various courses at SBU. This page is updated whenever a new PDF is found, especially around the start of each semester. 
 * If this page does not contain the book you need, [Library Genesis](http://gen.lib.rus.ec) is always a good way to find books. If you do find a book for a class not listed here, remember to submit it with the link below.
 * If this page is ever deleted, [check for posts by /u/SBUTextbooks on Reddit](https://www.reddit.com/user/SBUTextbooks/submitted/) where the new URL will be posted
-* #### **Please contribute!** If you have a textbook that isn't listed here, use <a href="https://form.jotform.com/82298286578274">this form</a> to submit it.
+* #### **Please contribute!** If you have a textbook that isn't listed here, please consider submitting it. The preferred method is to use <a href="https://form.jotform.com/82298286578274">this form</a> to submit it. Sometimes the form will run out of storage space; if that's the case, you can email the pdf to stonybrook.textbooks[at]gmail[dot]com or send a link to it to u/SBUTextbooks on reddit.
 <!--If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here](contributing) for instructions.-->
 
 ## Update (10/12/18)
@@ -27,7 +27,7 @@ Last edited: October 12, 2018
 * 210
     * [A Unified Introduction to Linear Algebra: Models, Methods, and Theory, Tucker](https://mega.nz/#!iTonjJAb!FXO4S6ra4ksgZEX6L-aXuQTbyu9ngNxAdRWNg_f-6Co)
 * 261
-    * [Multivariable Calculus 10th Ron Larson, Bruce H Edwards](https://mega.nz/#!nb5nSLDC!2XJYbU2SxSIsRLRqvr0jSNv43B67ylNu4Wa4PrnBTl8)
+    * [Multivariable Calculus 10th Ron Larson, Bruce H Edwards](http://download.library1.org/main/2275000/951ec64140e115cc2f8f69ffa2452334/Ron%20Larson%2C%20Bruce%20Edwards-Multivariable%20Calculus.pdf)
     * [Calculus 11th Ron Larson, Bruce H Edwards](https://mega.nz/#!XXoXhC4b!WABSfkBhn_IvL3UDvW2UBBVNm86vA3tYcfJ5LgEpaPk)
 * 301
     * [Applied Combinatorics 6th Alan Tucker](https://mega.nz/#!NkFhmQ5L!41mmKv-ZcBRpdRPHYwJXwN6KO0DLEXLhGbb86xQsoqE)
@@ -313,8 +313,7 @@ aka the "CLRS book"
     * [An Introduction to Mathematical Reasoning Part II '07 Eccles](http://www.maths.manchester.ac.uk/~nige/partII.pdf)
 * 203
     * [Calculus 11th Ron Larson, Bruce H Edwards](https://mega.nz/#!XXoXhC4b!WABSfkBhn_IvL3UDvW2UBBVNm86vA3tYcfJ5LgEpaPk)
-    * [Multivariable Calculus 10th Ron Larson, Bruce H Edwards](
-https://mega.nz/#!nb5nSLDC!2XJYbU2SxSIsRLRqvr0jSNv43B67ylNu4Wa4PrnBTl8)
+    * [Multivariable Calculus 10th Ron Larson, Bruce H Edwards](http://download.library1.org/main/2275000/951ec64140e115cc2f8f69ffa2452334/Ron%20Larson%2C%20Bruce%20Edwards-Multivariable%20Calculus.pdf)
 * 211
     * [Linear Algebra with Applications 5th Bretcher](https://mega.nz/#!d9cmlDib!EpyeBKaLi7oaGcT05EUZhiupq8lox0jSz9lJdYm5Xuw)
 * 303
