@@ -1,4 +1,4 @@
-Last edited: October 24, 2018
+Last edited: October 28, 2018
 
 
 ## Hello
@@ -81,7 +81,7 @@ Last edited: October 24, 2018
 ### ATM
 
 * 103
-    * [Extreme Weather & Climate, Ahrens Samson](https://mega.nz/#!fO42haTL!bV33uWSsY_f3S4ehxulIgGlg5usJJ5CZkH9BAmjrBo0)
+    * [Extreme Weather & Climate, Ahrens Samson](http://download.library1.org/main/747000/6255ce303e8a8a37c9d0e0bd43327c4b/C.%20Donald%20Ahrens%2C%20Perry%20J.%20Samson-Extreme%20Weather%20and%20Climate%20%20-Brooks%20Cole%20%282010%29.pdf)
     * [The Atmosphere: An Introduction to Meteorology 12th, Tarbuck Lutgens](https://mega.nz/#!iWgG2aiD!y2VWpTd-d0pUFOCHSBURVRDN6VQRmUgZ4CjsCcPMCZg)
     
 <a name="BIO"></a>
@@ -90,7 +90,6 @@ Last edited: October 24, 2018
 * 201
     * [Biology, Rye Wise Jurukovski DeSaix Choi Avissar](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Biology-OP_xQoZM8Z.pdf)
 * 202
-    * [Biology 9th Campbell, Reece](https://mega.co.nz/#!y0tWhDLA!2uQz0Qx8RyeYJsbBDL-FKXeDozh7HmtDjE63JxXQB_A)
     * [Biology 10th Campbell, Reece](https://mega.nz/#!CKAiXKoB!EBPvoQ28QMmiHbKVLHnJNLjRYEyO7Gz-UhDRYV0y8RA)
     * [Biology 11th Campbell](https://mega.nz/#!veBinCzC!19fboERh208Ds2qImTY3c52gbzrW7LH2BX8uMR8qxB4)
 * 203
@@ -134,9 +133,9 @@ Last edited: October 24, 2018
     * [Organic Chemistry as a Second Language: First Semester Topics 4th, Klein](https://mega.nz/#!XfBHBQxS!4oa3zHtuCVfK4IL2f2-U8htoW1VqqA5fy21QeWJhiLc)
     * [Organic Chemistry as a Second Language: Second Semester Topics 4th, Klein](https://mega.nz/#!6DJ3HSwI!EbS6F2XuVhlcoXxuPr-jApDT8uwa68FYTrvwF2dx7Sg)
     * [Organic Chemistry 10th Solomons, Fryhle](
-https://mega.co.nz/#!Kk1TFS7Z!OYeE-EUr4BTJlsSnIWMZIZ6FTmrHdqgNnBm3yegCv7g)
-    * [Organic Chemistry I As a Second Language 2nd David Klein](https://mega.co.nz/#!3oMwRJCC!lnjr50JyxOiO_60U8exn4jw6Fl3gVFbhaMrfcUsYGlU)
-    * [Organic Chemistry Study Guide & Solutions Manual 10th Solomons, Fryhle](https://mega.co.nz/#!CpsHyJyC!hshjjB0lkRK03Sh-1Rn4B7pvhiFvj5fzN3hziR-GDxo)
+http://download.library1.org/main/778000/dfc5bbc26536b01729022dd2747a4efd/T.%20W.%20Graham%20Solomons%2C%20Craig%20Fryhle-Organic%20Chemistry%2C%2010th%20Edition%20%20-Wiley%20%282009%29.pdf)
+    * [Organic Chemistry I as a Second Language: Translating the Basic Concepts 2nd, David Klein](http://download.library1.org/main/798000/b8267873ddbcc313d76528f02b29f9dd/David%20M.%20Klein-Organic%20Chemistry%20I%20as%20a%20Second%20Language_%20Translating%20the%20Basic%20Concepts-John%20Wiley%20and%20Sons%20%282007%29.pdf)
+    * [Organic Chemistry Study Guide & Solutions Manual 10th Solomons, Fryhle](http://download.library1.org/main/898000/bf079e859ed2d7dee364b9f8909853c5/T.%20W.%20Graham%20Solomons%2C%20Craig%20B.%20Fryhle%2C%20Robert%20G.%20Johnson-Organic%20Chemistry_%20Study%20Guide%20and%20Solutions%20Manual-Wiley%20%282008%29.pdf)
     * [Organic Chemistry 6th Loudon Parise](https://mega.nz/#!x1dXzTJb!QnwAN66iicKzF_zHUaWUd1_5qJmVHb8P9Adjmzlzze4)
 
 <a name="CSE"></a>
