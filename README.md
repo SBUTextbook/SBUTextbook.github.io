@@ -267,7 +267,7 @@ aka the "CLRS book"
 * 326
     * [Modern Management: Concepts & Skills, Certo](https://mega.nz/#!rKIUzS6S!3hBO3ag3kU9eQIHAYuATKgJQgd0UFcuN4a_G8F4MYO4)
 * 391
-    * [Technology in Context: Technology Assessment for Managers, Braun](https://mega.nz/#!aGZmgKZC!O12N76ha8q49EWpLkjnFyO5G5MkKL5Xsdg8ilmIptYA}
+    * [Technology in Context: Technology Assessment for Managers, Braun](https://mega.nz/#!aGZmgKZC!O12N76ha8q49EWpLkjnFyO5G5MkKL5Xsdg8ilmIptYA)
 * 441
     * [The Nature of Technology: What it is and How it Evolves, Arthur](https://mega.nz/#!7GJwTK5D!Gmi4GR9dFAxsdIVtQ6QJQCjHlo__KQLhbp9C6a4i-xk)
 
@@ -311,7 +311,7 @@ aka the "CLRS book"
 * 123
     * [Precalculus 10th, Sullivan](https://mega.nz/#!vDAmlYQZ!mqSCE_H7K71860hknzYcrY0sgKOycaQmv3L17KonHYQ)
 * 125-132
-    * [Single Variable Calculus 4th James Stewart](https://mega.nz/#!aTp3jT4B!o1Gtw-JTjm8vNbsx0kM1ezyf8g6Su4X_5diFGUEYvzc)
+    * [Single Variable Calculus 4th James Stewart](http://download.library1.org/main/772000/c7199fc5ab20a0b9a052c710400a0bd4/James%20Stewart-Calculus_%20Concepts%20and%20Contexts%2C%204th%20Edition%20%20-Cengage%20Learning%20%282010%29.pdf)
 * 200
     * [An Introduction to Mathematical Reasoning Part I '07 Eccles](http://www.maths.manchester.ac.uk/~nige/IMRpartI.pdf)
     * [An Introduction to Mathematical Reasoning Part II '07 Eccles](http://www.maths.manchester.ac.uk/~nige/partII.pdf)
