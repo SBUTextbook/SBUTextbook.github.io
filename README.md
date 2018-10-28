@@ -360,17 +360,18 @@ aka the "CLRS book"
 ### PHY
 
 * 121/122
-    * [College Physics A Strategic Approach 3rd Randall Knight](https://mega.co.nz/#!r8UmnZYL!4ctW4t616Tht-u181ormK_w4K0Yp0jiWqC4tPujEq8M)
+    * [College Physics A Strategic Approach 3rd Randall Knight](http://download.library1.org/main/1307000/6d7373b87f7fc4ad120f8694d5770f3b/Randall%20D.%20Knight%2C%20Brian%20Jones%2C%20Stuart%20Field-College%20Physics_%20A%20Strategic%20Approach-Addison-Wesley%20%282014%29.pdf)
 * 126/131/132
     * [Physics for Scientists and Engineers 1st, Katz](https://mega.nz/#!OOYCTKDa!JwVBvA8T0_hlmVpfskFktGX0leQmPWQvTeJSYxnuPoM)
-    * [Physics for Scientists and Engineers with Modern Physics 4th Giancoli](https://mega.nz/#!LDgjhQAC!KnCbDZ8Iov3sDj3yecw8Cf5n7hjGs7TPlBqV1Md_DEU)
-    * [Physics for Scientists and Engineers with Modern Physics Solutions Manual 4th Giancoli](https://mega.co.nz/#!OsUi1YBQ!4D6AmK1ZAaZN0MpR1R1ad-WILrCA9_K5yYTgoqRMSIE)
+    * [Physics for Scientists and Engineers with Modern Physics 4th Giancoli](http://download.library1.org/main/790000/41ba69f943c67672bc5bbed161a30a83/Douglas%20C.%20Giancoli-Physics%20for%20Scientists%20%26%20Engineers%20with%20Modern%20Physics-Addison-Wesley%20%282008%29.pdf)
+    * [Physics for Scientists and Engineers with Modern Physics Solutions Manual 4th Giancoli](http://download.library1.org/main/906000/75af6ffda47e1bad5c5fb5d0da57431e/Giancoli%2C%20Douglas%20C-Solutions%20Manual%20for%20Physics%20for%20Scientists%20%26%20Engineers%20with%20Modern%20Physics-Addison-Wesley%20%282009%29.pdf)
 * 251
-    * [Data Analysis for Physical Science Students '91 Lyons](https://drive.google.com/a/stonybrook.edu/file/d/0B1epQSoYuhziVFV4Mzl2bDdJamM/view?usp=sharing)
-    * [Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles 2nd Eisberg Resnick](https://drive.google.com/a/stonybrook.edu/file/d/0B1epQSoYuhziWGZXcVlBOFpJcUk/view?usp=sharing)
-    * [Special Relativity MIT Introduction '68 French](https://drive.google.com/a/stonybrook.edu/file/d/0B1epQSoYuhziNTEwZWdrb3dRck0/view) 
+    * [Data Analysis for Physical Science Students '91 Lyons](http://download.library1.org/main/291000/533698690129e945ffb70dded99c8fd8/Louis%20Lyons-A%20practical%20guide%20to%20data%20analysis%20for%20physical%20science%20students-Cambridge%20University%20Press%20%281991%29.djvu)
+    * [Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles 2nd Eisberg Resnick](http://download.library1.org/main/562000/23ecb76d738eaeb66e6853f0d6ef8fc3/Robert%20Eisberg%2C%20Robert%20Resnick-Quantum%20Physics%20of%20Atoms%2C%20Molecules%2C%20Solids%2C%20Nuclei%2C%20and%20Particles-Wiley%20%281985%29.pdf)
+    * [Special Relativity MIT Introduction '68 French](http://download.library1.org/main/75000/6650030f077579eacbf0fd6e476fdd17/%28M.I.T.%20Introductory%20Physics%20Series%29%20A.P.%20French-Special%20relativity-W.%20W.%20Norton%20%26%20Company%20%281968%29.djvu) 
 * 277
-    * [Absolute C++ 1st Savitch](https://drive.google.com/a/stonybrook.edu/file/d/0B1epQSoYuhziQUdfNXk1cWhBR1E/view)
+    * [Absolute C++ 1st Savitch](http://download.library1.org/main/736000/36bb2ab288fff4de3889a7cf31697685/Walter%20Savitch-Absolute%20C%2B%2B%2C%20First%20edition%20%20-Addison%20Wesley%20%282002%29.pdf)
+    * [Absolute C++ 5th Savitch](http://download.library1.org/main/871000/80a421ba4d1508330008faf3145fd5a8/%285th%20Edition%29%20Walter%20Savitch%2C%20Kenrick%20Mock-Absolute%20C%2B%2B-Addison-Wesley%20%282012%29.pdf)
     * [Fortran 95/2003 for Scientists and Engineers 3rd Chapman](https://mega.nz/#!1w9liZBT!h3U-tFFf3O9o1vdJrkH3k4BVwe5LczxpkRGrrJ9gNYQ)
 * 300
     * [Vibrations and Waves French](https://mega.nz/#!wk0RQIaQ!qsMvetm_oukOwdu_Lw7G2bJpM_naGjUQHVZeedvgkZg)
@@ -392,7 +393,7 @@ aka the "CLRS book"
 
 * 103
     * [Psychology and Life 20th Richard Gerrig](
-https://mega.co.nz/#!ux9EnS6C!KgiJkJQJvQGojNbus3LHMTAmyXrRDeRXL-5IzWH-vlQ)
+http://download.library1.org/main/1195000/89ee5553ac7f0b543d8d795a312f1555/Richard%20J.%20Gerrig-Psychology%20and%20Life-Pearson%20%282012%29.pdf)
 * 201
     * [Statistics for Psychology 6th Aron, Coups, Aron](https://mega.nz/#!0okHTaSL!uNukKWZVz6nfrKgD3WKKrvnGtl-7ZwXsZXXqddM0bSQ)
 * 250
