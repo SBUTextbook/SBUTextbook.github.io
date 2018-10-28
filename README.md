@@ -36,7 +36,7 @@ Last edited: October 24, 2018
 * 311/507
     * [A First Course in Probability 9th Ross](https://mega.nz/#!YhETwLbT!oQVxwyuBjaDHQOa2I_nvWq2dZGQqlQ87VVTEVtRNRKQ)
 * 315
-    * [An Introduction to Statistical Methods and Data Analysis 6th Ott Longnecker](https://mega.nz/#!ZgdUFSDZ!VgvZBnAiLk3n-WVL3JR_Uhpw36-KZEiUB7ADwrJt1aw)
+    * [An Introduction to Statistical Methods and Data Analysis 7th Ott Longnecker](http://download.library1.org/main/1640000/2a801a91a5584e690d9f5b98011445fd/R.%20Lyman%20Ott%2C%20Micheal%20T.%20Longnecker-An%20Introduction%20to%20Statistical%20Methods%20and%20Data%20Analysis-Brooks%20Cole%20%282015%29.pdf)
 * 318
     * [Mathematical Interest Theory 2nd, Vaaler Daniel](https://mega.nz/#!LWYmkADD!4P5x6v3aZu97oT6uICFazRuhXsqVsm2-L5-vIGGrrIg)
 * 320
