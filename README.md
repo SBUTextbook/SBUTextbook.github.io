@@ -226,7 +226,7 @@ aka the "CLRS book"
 ### ESE
 
 * 122
-    * [Discrete Mathematics with Applications 4th, Epp](https://mega.nz/#!3e5lVBQY!4BawuJJdkvHmur3qJVO17LMW37zuhOS0VrKTNlyhbpI)
+    * [Discrete Mathematics with Applications 4th, Epp](http://download.library1.org/main/741000/4c814d19909a7168cf62dfcb410f5960/Susanna%20S.%20Epp-Discrete%20Mathematics%20with%20Applications%2C%204th%20Edition%20%20-Brooks%20Cole%20%282010%29.pdf)
 * 124
     * [Programming in Objective-C 3rd Kochan](https://mega.nz/#!a9NCGIBS!5-uPLWvFCR2q0SXnzDBJDSCgUwT14EwHfqx2_VQsfaA)
 * 218
@@ -336,7 +336,7 @@ aka the "CLRS book"
 ### MEC
 
 * 102
-    * [MATLAB Programming for Engineers 4th Chapman](https://mega.nz/#!htsHzBAL!aPiVU44BZ4_QmMQXmfcwqzYrzb98Uu7t2n2k2_kA_w4)
+    * [MATLAB Programming for Engineers 4th Chapman](http://download.library1.org/main/1183000/e8fc8a976b76ab0da20cbfa74b58891a/Stephen%20J%20Chapman-MATLAB%20programming%20for%20engineers-Thomson%20%282008%29.pdf)
 * 203
     * [Engineering Graphics Essentials 5th Plantenberg](https://mega.nz/#!qPAkXCRT!-mBRpdiQcxm5xEkdYfD6HtHa8Mh7o0LlKmlpiTn7rKk)
     * [Engineering Graphics Essentials 4th Plantenberg](https://mega.nz/#!oxtiSQoR!693xscEw0IPjAbBuNcw7TooCdsITww2GnG9nO8-WOU0)
@@ -347,7 +347,7 @@ aka the "CLRS book"
 ### MUS
 
 * 101
-    * [Listen 8th Edition Joseph Kerman, Gary Tomlinson](https://mega.nz/#!jsFgVSYD!S5us7zWWhejbjvd9QWd9QrZgiftWWXyUgwLYErk5Ez4)  
+    * [Listen 8th Edition Joseph Kerman, Gary Tomlinson](http://download.library1.org/main/1553000/42230e5136a54e514a538b409be23933/Joseph%20Kerman%2C%20Gary%20Tomlinson-Listen-Bedford_St.%20Martin%E2%80%99s%20%282015%29.pdf)  
 6 CD set not included; track list found in the book (use YouTube)
 
 <a name="PHI"></a>
