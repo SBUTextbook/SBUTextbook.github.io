@@ -25,7 +25,7 @@ Last edited: October 28, 2018
     * [A Unified Introduction to Linear Algebra: Models, Methods, and Theory, Tucker](https://mega.nz/#!iTonjJAb!FXO4S6ra4ksgZEX6L-aXuQTbyu9ngNxAdRWNg_f-6Co)
 * 261
     * [Multivariable Calculus 10th Ron Larson, Bruce H Edwards](http://download.library1.org/main/2275000/951ec64140e115cc2f8f69ffa2452334/Ron%20Larson%2C%20Bruce%20Edwards-Multivariable%20Calculus.pdf)
-    * [Calculus 11th Ron Larson, Bruce H Edwards](https://mega.nz/#!XXoXhC4b!WABSfkBhn_IvL3UDvW2UBBVNm86vA3tYcfJ5LgEpaPk)
+    * [Calculus 11th Ron Larson, Bruce H Edwards](http://download.library1.org/main/2162000/84b31aa08ed64122781ed8c41ba94670/Ron%20Larson%2C%20Bruce%20Edwards-Calculus-Cengage%20Learning%20%282017%29.pdf)
 * 301
     * [Applied Combinatorics 6th Alan Tucker](https://mega.nz/#!NkFhmQ5L!41mmKv-ZcBRpdRPHYwJXwN6KO0DLEXLhGbb86xQsoqE)
 * 303
@@ -315,7 +315,7 @@ aka the "CLRS book"
     * [An Introduction to Mathematical Reasoning Part I '07 Eccles](http://www.maths.manchester.ac.uk/~nige/IMRpartI.pdf)
     * [An Introduction to Mathematical Reasoning Part II '07 Eccles](http://www.maths.manchester.ac.uk/~nige/partII.pdf)
 * 203
-    * [Calculus 11th Ron Larson, Bruce H Edwards](https://mega.nz/#!XXoXhC4b!WABSfkBhn_IvL3UDvW2UBBVNm86vA3tYcfJ5LgEpaPk)
+    * [Calculus 11th Ron Larson, Bruce H Edwards](http://download.library1.org/main/2162000/84b31aa08ed64122781ed8c41ba94670/Ron%20Larson%2C%20Bruce%20Edwards-Calculus-Cengage%20Learning%20%282017%29.pdf)
     * [Multivariable Calculus 10th Ron Larson, Bruce H Edwards](http://download.library1.org/main/2275000/951ec64140e115cc2f8f69ffa2452334/Ron%20Larson%2C%20Bruce%20Edwards-Multivariable%20Calculus.pdf)
 * 211
     * [Linear Algebra with Applications 5th Bretcher](https://mega.nz/#!d9cmlDib!EpyeBKaLi7oaGcT05EUZhiupq8lox0jSz9lJdYm5Xuw)
