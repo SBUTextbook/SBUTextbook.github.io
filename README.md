@@ -5,7 +5,8 @@ Last edited: October 28, 2018
 * This is a crowd-sourced list of links to free PDFs of textbooks for various courses at SBU. This page is updated whenever a new PDF is found, especially around the start of each semester. 
 * If this page does not contain the book you need, [Library Genesis](http://gen.lib.rus.ec) is always a good way to find books. If you do find a book for a class not listed here, remember to submit it with the link below.
 * If this page is ever deleted, [check for posts by /u/SBUTextbooks on Reddit](https://www.reddit.com/user/SBUTextbooks/submitted/) where the new URL will be posted
-* #### **Please contribute!** If you have a textbook that isn't listed here, please consider submitting it. The preferred method is to use <a href="https://form.jotform.com/82298286578274">this form</a> to submit it. Sometimes the form will run out of storage space; if that's the case, you can email the pdf to stonybrook.textbooks[at]gmail[dot]com or send a link to it to u/SBUTextbooks on reddit.
+* #### **Please contribute!** If you have a textbook that isn't listed here, please consider submitting it. The preferred method is to use <a href="https://form.jotform.com/82298286578274">this form</a> to submit it. Sometimes the form will run out of storage space; if that's the case, you can email the pdf to stonybrook.textbooks[at]gmail[dot]com or send a link to it to u/SBUTextbooks on Reddit.
+* If you notice that a download isn't working, please email or send a PM on Reddit.
 <!--If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here](contributing) for instructions.-->
 
 ## Jump to subject 
