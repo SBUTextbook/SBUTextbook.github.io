@@ -1,4 +1,4 @@
-Last edited: October 28, 2018
+Last edited: October 30, 2018
 
 
 ## Hello
@@ -279,6 +279,7 @@ aka the "CLRS book"
     * [Earth: An Introduction to Physical Geology 12th Tarbuck Lutgens](https://mega.nz/#!Jh9SWTxa!tVW4QVWuMpfYokvl5ITKtsJrKFbjBzdaM8HD55u-uw0)
 * 103
     * [Earth System History 3rd, Stanley](https://mega.nz/#!fDoV3J6T!tgxKyTP11zRBv_C0Clb37zXSKOolHodSkTrqS7Itw5k)
+    * [Historical Geology 8th, Wicander & Monroe](http://download.library1.org/main/2056000/1c97f246fee2f05d5af6b290b410570f/Monroe%2C%20James%20Stewart_%20Wicander%2C%20Reed-Historical%20geology-Cengage%20Learning%20%282016%29.pdf)
 
 <a name="HIS"></a>
 ### HIS
