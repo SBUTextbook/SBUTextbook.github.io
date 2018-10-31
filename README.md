@@ -160,7 +160,7 @@ https://mega.nz/#!XfJAxYRS!LLawuOvCsflbUi0IfsakUe5uJv04SRwESgLzMkXyBNA)
 * 215
     * [Discrete Mathematics: An Introduction to Mathematical Reasoning - Brief '11 Susanna Epp](
 https://mega.nz/#!rXBm0Kyb!f615mIf2pVwmFihgXsAHyjGsTUi6UVdoN0DiW7EwTcU)
-    * [Discrete Mathematics with Applications - Comprehensive '11 Susanna Epp](https://mega.nz/#!3e5lVBQY!4BawuJJdkvHmur3qJVO17LMW37zuhOS0VrKTNlyhbpI)
+    * [Discrete Mathematics with Applications - Comprehensive '11 Susanna Epp](http://download.library1.org/main/741000/4c814d19909a7168cf62dfcb410f5960/Susanna%20S.%20Epp-Discrete%20Mathematics%20with%20Applications%2C%204th%20Edition%20%20-Brooks%20Cole%20%282010%29.pdf)
 * 219
     * [Midterm Study Guide](https://mega.nz/#!15ljlIJJ!B7ynXY2QpD11eNTpDls5qNIQf4atKC8Ff0HT-rwwqoY
 )
