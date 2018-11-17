@@ -1,4 +1,4 @@
-Last edited: October 30, 2018
+Last edited: November 17, 2018
 
 
 ## Hello
@@ -24,9 +24,8 @@ Last edited: October 30, 2018
     * [Single Variable Calculus 4th James Stewart](http://download.library1.org/main/772000/c7199fc5ab20a0b9a052c710400a0bd4/James%20Stewart-Calculus_%20Concepts%20and%20Contexts%2C%204th%20Edition%20%20-Cengage%20Learning%20%282010%29.pdf)
 * 210
     * [A Unified Introduction to Linear Algebra: Models, Methods, and Theory, Alan Tucker](https://mega.nz/#!iTonjJAb!FXO4S6ra4ksgZEX6L-aXuQTbyu9ngNxAdRWNg_f-6Co)
-    * [Introduction to Linear Algebra: Models, Methods and Theory, Alan Tucker](http://download.libgen.io/get.php?md5=9CDE8DABF9310C996B47A0628400E49D&key=WIEHEIPE4PP3BARY) 
-
-Note: AMS 210 is taught with the second book listed here as of Fall 2018. There is another version of the book with a blue cover that is identical in terms of content.
+    * [Introduction to Linear Algebra: Models, Methods and Theory, Alan Tucker](http://download.libgen.io/get.php?md5=9CDE8DABF9310C996B47A0628400E49D&key=WIEHEIPE4PP3BARY)  
+ Note: AMS 210 is taught with the second book listed here as of Fall 2018. There is another version of the book with a blue cover that is identical in terms of content. 
 * 261
     * [Multivariable Calculus 10th Ron Larson, Bruce H Edwards](http://download.library1.org/main/2275000/951ec64140e115cc2f8f69ffa2452334/Ron%20Larson%2C%20Bruce%20Edwards-Multivariable%20Calculus.pdf)
     * [Calculus 11th Ron Larson, Bruce H Edwards](http://download.library1.org/main/2162000/84b31aa08ed64122781ed8c41ba94670/Ron%20Larson%2C%20Bruce%20Edwards-Calculus-Cengage%20Learning%20%282017%29.pdf)
@@ -111,6 +110,8 @@ Note: AMS 210 is taught with the second book listed here as of Fall 2018. There 
 
 <a name="BME"></a>
 ### BME
+* 271
+    * [Electric Circuits 10th, Nilsson Riedel](http://download.library1.org/main/1567000/41737b78d464862b9e78d7d2a8d9ad67/James%20W.%20Nilsson%2C%20Susan%20Riedel-Electric%20Circuits%20%2810th%20Edition%29-Prentice%20Hall%20%282014%29.pdf)
 * 304
     * [An Introduction to Genetic Engineering 3rd Edition, Nicholl](https://mega.nz/#!HfRGRS4b!8ZzPCg2JO6ubqIZKgnUHmw_g26jlVo34bLMdG_yX7Uo)
 
