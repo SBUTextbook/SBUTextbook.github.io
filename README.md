@@ -1,4 +1,4 @@
-Last edited: November 17, 2018
+Last edited: December 5, 2018
 
 
 ## Hello
@@ -117,7 +117,9 @@ Last edited: November 17, 2018
 
 <a name="BUS"></a>
 ### BUS
-
+* 340
+    * [Essentials of MIS 12th Edition, Kenneth C. Laudon & Jane P. Laudon](http://dl4.libgen.io/get.php?md5=C9AF46E1F4DA2954891C65D8C09A045A&key=JD828J5ZGID43L03)
+    * [Information Systems: A Manager’s Guide to Harnessing Technology, John Gallaugher](http://download.libgen.io/get.php?md5=DF5F4E7A7D2DE1F41DB4FD4E0370CFDD&key=AR1DLSGMXJIHT461)
 * 348
     * [Marketing Management, Millenium Edition Kotler](https://mega.nz/#!cwVBmDIR!vg_uvcBqSV9tYwQ8L6a0-FOW1-2i7uaOhGhWcgNnoE8)
 
