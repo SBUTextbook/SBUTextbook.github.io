@@ -1,4 +1,4 @@
-Last edited: January 3, 2019
+Last edited: January 9, 2019
 
 
 ## Hello
@@ -9,6 +9,7 @@ Last edited: January 3, 2019
 * If you notice that a download isn't working, please email or send a PM on Reddit.
 <!--If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here](contributing) for instructions.-->
 
+**Note: if the link brings you to a Library Genesis page, just click "GET" to download the pdf.**
 ## Jump to subject 
 
 [AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BME](#BME) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [HON](#HON) \| [ISE](#ISE) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHI](#PHI) \| [PHY](#PHY) \| [PSY](#PSY) \| [SOC](#SOC) \| [THR](#THR) \| [WRT](#WRT)
@@ -97,6 +98,7 @@ Last edited: January 3, 2019
     * [Biology 11th Campbell](https://mega.nz/#!veBinCzC!19fboERh208Ds2qImTY3c52gbzrW7LH2BX8uMR8qxB4)
 * 203
     * [Human Physiology: An Integrated Approach 6th Silverthorn](https://mega.nz/#!tFlBDDKS!Zk0DQD7wi5ub--KmMK4zSI7X_uzhAWw0aEnAZVHLRZ8)
+    * [Human Physiology: An Integrated Approach 7th Silverthorn](http://download.library1.org/main/2224000/822b80d628e29c08689f8c01d5c037f8/Dee%20Unglaub%20Silverthorn%20-%20Human%20Physiology_%20An%20Integrated%20Approach-Pearson%20%282015%29.pdf)
 * 205
     * [Handbook of Photosynthesis 2nd Pessarakli](https://mega.nz/#!8Y1RgTRD!mrRfP-_sS2U1sI3cCBzzCZNJfBiI7UD9dPKVnZKLkf8)
 * 314
@@ -118,8 +120,8 @@ Last edited: January 3, 2019
 <a name="BUS"></a>
 ### BUS
 * 340
-    * [Essentials of MIS 12th Edition, Kenneth C. Laudon & Jane P. Laudon](http://dl4.libgen.io/get.php?md5=C9AF46E1F4DA2954891C65D8C09A045A&key=JD828J5ZGID43L03)
-    * [Information Systems: A Manager’s Guide to Harnessing Technology, John Gallaugher](http://download.libgen.io/get.php?md5=DF5F4E7A7D2DE1F41DB4FD4E0370CFDD&key=AR1DLSGMXJIHT461)
+    * [Essentials of MIS 12th Edition, Kenneth C. Laudon & Jane P. Laudon](https://mega.nz/#!HLRX0KYB!_zQ2Xw9fwW5VCTh9Wdr6NXJbEFw6hdS6K4MaBesw1eo)
+    * [Information Systems: A Manager’s Guide to Harnessing Technology, John Gallaugher](http://lib1.org/_ads/DF5F4E7A7D2DE1F41DB4FD4E0370CFDD)
 * 348
     * [Marketing Management, Millenium Edition Kotler](https://mega.nz/#!cwVBmDIR!vg_uvcBqSV9tYwQ8L6a0-FOW1-2i7uaOhGhWcgNnoE8)
 
@@ -363,6 +365,8 @@ aka the "CLRS book"
 <a name="PHI"></a>
 ### PHI
 
+* 104
+    * [Being Good: A Short Introduction to Ethics 2nd, Blackburn](http://download.library1.org/main/1401000/4639efde11415fb76716bc487e02699c/Simon%20Blackburn%20-%20Being%20Good_%20A%20Short%20Introduction%20to%20Ethics-Oxford%20Paperbacks%20%282003%29.pdf)
 * 112
     * [Philosophy of Technology: The Technological Condition and Anthology 2nd, Scharff & Dusek](https://mega.nz/#!3b43gIjJ!JuUmwuee9zYNoU-Yn_l3q_SMX8cKujIR7aq2xfYkotQ)
 
