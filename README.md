@@ -382,7 +382,7 @@ aka the "CLRS book"
     * [Physics for Scientists and Engineers with Modern Physics 4th Giancoli](http://download.library1.org/main/790000/41ba69f943c67672bc5bbed161a30a83/Douglas%20C.%20Giancoli-Physics%20for%20Scientists%20%26%20Engineers%20with%20Modern%20Physics-Addison-Wesley%20%282008%29.pdf)
     * [Physics for Scientists and Engineers with Modern Physics Solutions Manual 4th Giancoli](http://download.library1.org/main/906000/75af6ffda47e1bad5c5fb5d0da57431e/Giancoli%2C%20Douglas%20C-Solutions%20Manual%20for%20Physics%20for%20Scientists%20%26%20Engineers%20with%20Modern%20Physics-Addison-Wesley%20%282009%29.pdf)
 * 251
-    * [Data Analysis for Physical Science Students '91 Lyons](http://download.library1.org/main/291000/533698690129e945ffb70dded99c8fd8/Louis%20Lyons-A%20practical%20guide%20to%20data%20analysis%20for%20physical%20science%20students-Cambridge%20University%20Press%20%281991%29.djvu)
+    * [Data Analysis for Physical Science Students '91 Lyons](http://lib1.org/_ads/533698690129E945FFB70DDED99C8FD8)
     * [Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles 2nd Eisberg Resnick](http://download.library1.org/main/562000/23ecb76d738eaeb66e6853f0d6ef8fc3/Robert%20Eisberg%2C%20Robert%20Resnick-Quantum%20Physics%20of%20Atoms%2C%20Molecules%2C%20Solids%2C%20Nuclei%2C%20and%20Particles-Wiley%20%281985%29.pdf)
     * [Special Relativity MIT Introduction '68 French](http://download.library1.org/main/75000/6650030f077579eacbf0fd6e476fdd17/%28M.I.T.%20Introductory%20Physics%20Series%29%20A.P.%20French-Special%20relativity-W.%20W.%20Norton%20%26%20Company%20%281968%29.djvu) 
 * 277
