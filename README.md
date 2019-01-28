@@ -1,4 +1,4 @@
-Last edited: January 9, 2019
+Last edited: January 28, 2019
 
 
 ## Hello
@@ -302,6 +302,8 @@ aka the "CLRS book"
 
 * 105
     * [Rhetor Response: A Theory and Practice of Literary Affordance, Khost](https://mega.nz/#!aL5TxQya!aEuZvauaW235Y_6mUSEIPuqPFlP-Kt-wd0RuwlXNmW8)
+* 106
+    * [Les Liaisons Dangereuses, De Laclos](https://mega.nz/#!afpRCCJK!5YcoHhtlhgmJoiNwU4XWUTNdX9_C7zXPNAJDOL1zBMM)
     
 <a name="ISE"></a>
 ### ISE
@@ -408,6 +410,7 @@ aka the "CLRS book"
 * 103
     * [Psychology and Life 20th Richard Gerrig](
 http://download.library1.org/main/1195000/89ee5553ac7f0b543d8d795a312f1555/Richard%20J.%20Gerrig-Psychology%20and%20Life-Pearson%20%282012%29.pdf)
+    * [Introduction to Psychology 11th, Kalat](https://mega.nz/#!yWoRAKDI!_bquKJkUILUuF3lyJSApsbk4iGIjEO4Wf5Acv2f_CB0)
 * 201
     * [Statistics for Psychology 6th Aron, Coups, Aron](https://mega.nz/#!0okHTaSL!uNukKWZVz6nfrKgD3WKKrvnGtl-7ZwXsZXXqddM0bSQ)
 * 250
