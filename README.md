@@ -237,7 +237,7 @@ aka the "CLRS book"
 ### ESE
 
 * 122
-    * [Discrete Mathematics with Applications 4th, Epp](http://download.library1.org/main/741000/4c814d19909a7168cf62dfcb410f5960/Susanna%20S.%20Epp-Discrete%20Mathematics%20with%20Applications%2C%204th%20Edition%20%20-Brooks%20Cole%20%282010%29.pdf)
+    * [Discrete Mathematics with Applications 4th, Epp](http://booksdl.org/get.php?md5=84AAA3B663A81298EB307820077B0EF8&key=MS5130C9XPE3YWUH)
 * 124
     * [Programming in Objective-C 3rd Kochan](https://mega.nz/#!a9NCGIBS!5-uPLWvFCR2q0SXnzDBJDSCgUwT14EwHfqx2_VQsfaA)
 * 218
