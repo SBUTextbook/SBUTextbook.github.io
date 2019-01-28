@@ -169,7 +169,7 @@ https://mega.nz/#!XfJAxYRS!LLawuOvCsflbUi0IfsakUe5uJv04SRwESgLzMkXyBNA)
 https://mega.nz/#!rXBm0Kyb!f615mIf2pVwmFihgXsAHyjGsTUi6UVdoN0DiW7EwTcU)
     * [Discrete Mathematics with Applications - Comprehensive '11 Susanna Epp](http://download.library1.org/main/741000/4c814d19909a7168cf62dfcb410f5960/Susanna%20S.%20Epp-Discrete%20Mathematics%20with%20Applications%2C%204th%20Edition%20%20-Brooks%20Cole%20%282010%29.pdf)
 * 216
-    * [Programming Language Pragmatics 4th, Scott](http://download.library1.org/main/2168000/4bab4f05252ccc37ecd2993f5f00e0f4/Michael%20L.%20Scott%20-%20Programming%20Language%20Pragmatics-Morgan%20Kaufmann%20%282016%29.pdf)
+    * [Programming Language Pragmatics 4th, Scott](http://lib1.org/_ads/4BAB4F05252CCC37ECD2993F5F00E0F4)
 * 219
     * [Midterm Study Guide](https://mega.nz/#!15ljlIJJ!B7ynXY2QpD11eNTpDls5qNIQf4atKC8Ff0HT-rwwqoY
 )
