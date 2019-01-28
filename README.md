@@ -25,8 +25,7 @@ Last edited: January 28, 2019
     * [Single Variable Calculus 4th James Stewart](http://download.library1.org/main/772000/c7199fc5ab20a0b9a052c710400a0bd4/James%20Stewart-Calculus_%20Concepts%20and%20Contexts%2C%204th%20Edition%20%20-Cengage%20Learning%20%282010%29.pdf)
 * 210
     * [A Unified Introduction to Linear Algebra: Models, Methods, and Theory, Alan Tucker](https://mega.nz/#!iTonjJAb!FXO4S6ra4ksgZEX6L-aXuQTbyu9ngNxAdRWNg_f-6Co)
-    * [Introduction to Linear Algebra: Models, Methods and Theory, Alan Tucker](http://download.libgen.io/get.php?md5=9CDE8DABF9310C996B47A0628400E49D&key=WIEHEIPE4PP3BARY)  
- Note: AMS 210 is taught with the second book listed here as of Fall 2018. There is another version of the book with a blue cover that is identical in terms of content. 
+    * [Introduction to Linear Algebra: Models, Methods and Theory, Alan Tucker](https://commons.library.stonybrook.edu/ams-books/1/) 
 * 261
     * [Multivariable Calculus 10th Ron Larson, Bruce H Edwards](http://download.library1.org/main/2275000/951ec64140e115cc2f8f69ffa2452334/Ron%20Larson%2C%20Bruce%20Edwards-Multivariable%20Calculus.pdf)
     * [Calculus 11th Ron Larson, Bruce H Edwards](http://download.library1.org/main/2162000/84b31aa08ed64122781ed8c41ba94670/Ron%20Larson%2C%20Bruce%20Edwards-Calculus-Cengage%20Learning%20%282017%29.pdf)
