@@ -277,6 +277,8 @@ aka the "CLRS book"
     * [Modern Management: Concepts & Skills, Certo](https://mega.nz/#!rKIUzS6S!3hBO3ag3kU9eQIHAYuATKgJQgd0UFcuN4a_G8F4MYO4)
 * 391
     * [Technology in Context: Technology Assessment for Managers, Braun](https://mega.nz/#!aGZmgKZC!O12N76ha8q49EWpLkjnFyO5G5MkKL5Xsdg8ilmIptYA)
+* 392
+    * [Engineering Economy 8th Edition, Blank and Tarquin](https://mega.nz/#!GP4UnAxT!RoXmC76uIgo56yH51bLqmKXy-OvabIA9_fAXsJyp3TI)
 * 441
     * [The Nature of Technology: What it is and How it Evolves, Arthur](https://mega.nz/#!7GJwTK5D!Gmi4GR9dFAxsdIVtQ6QJQCjHlo__KQLhbp9C6a4i-xk)
 
@@ -355,6 +357,8 @@ aka the "CLRS book"
     * [Engineering Graphics Essentials 4th Plantenberg](https://mega.nz/#!oxtiSQoR!693xscEw0IPjAbBuNcw7TooCdsITww2GnG9nO8-WOU0)
 * 220
     * [The Art of Electronics 3rd, Horowitz and Hill](https://mega.nz/#!vb4VGToQ!YYFXYG7FZ-iFPBeaqH8Uv9i8Fm7c91skVdtxzNht9Oc)
+* 325
+    * [Fundamental of Modern Manufacturing 6th Solutions Manual, Groover](https://mega.nz/#!fG5WhSAZ!n6IFXrfigkfjTCz4TX0J3v8HF2r6iwmLnV_-4JTpQvo)
 
 <a name="MUS"></a>
 ### MUS
