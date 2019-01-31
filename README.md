@@ -392,6 +392,8 @@ aka the "CLRS book"
 * 101
     * [Listen 8th Edition Joseph Kerman, Gary Tomlinson](http://download.library1.org/main/1553000/42230e5136a54e514a538b409be23933/Joseph%20Kerman%2C%20Gary%20Tomlinson-Listen-Bedford_St.%20Martin%E2%80%99s%20%282015%29.pdf)  
 6 CD set not included; track list found in the book (use YouTube)
+* 119
+    * [Rudiments of Music 3rd, Goldstein](https://mega.nz/#!XXgQHaoA!wERl-GLkfCB6a4j0ARrAdt4g_8gZKtY2ypYb-TfLCeI)
 
 <a name="PHI"></a>
 ### PHI
