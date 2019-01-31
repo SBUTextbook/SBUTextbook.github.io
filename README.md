@@ -1,4 +1,4 @@
-Last edited: January 28, 2019
+Last edited: January 30, 2019
 
 
 ## Hello
@@ -12,7 +12,7 @@ Last edited: January 28, 2019
 **Note: if the link brings you to a Library Genesis page, just click "GET" to download the pdf.**
 ## Jump to subject 
 
-[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BME](#BME) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [HON](#HON) \| [ISE](#ISE) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHI](#PHI) \| [PHY](#PHY) \| [PSY](#PSY) \| [SOC](#SOC) \| [THR](#THR) \| [WRT](#WRT)
+[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BME](#BME) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [HON](#HON) \| [ISE](#ISE) \| [JRN](#JRN) \|[MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHI](#PHI) \| [PHY](#PHY) \| [PSY](#PSY) \| [SOC](#SOC) \| [THR](#THR) \| [WRT](#WRT)
 
 ## The Links
 
@@ -102,6 +102,8 @@ Last edited: January 28, 2019
     * [Handbook of Photosynthesis 2nd Pessarakli](https://mega.nz/#!8Y1RgTRD!mrRfP-_sS2U1sI3cCBzzCZNJfBiI7UD9dPKVnZKLkf8)
 * 314
     * [The Biology of Cancer 2nd, Weinberg](https://mega.nz/#!7OAiHQhL!sx_PLNLdoblAebprEQld5M6oboyBiHO4S2ExawLLaUk)
+* 320
+    * [Genetics: From Genes to Genomes 6th, Hartwell Goldberg Fischer Hood ](http://gen.lib.rus.ec/book/index.php? md5=B02665C6CE0308C519BC5CA8CBBD02F0)
 * 325
     * [Developmental Biology 11th Gilbert Barresi](https://mega.nz/#!wpMHEb6a!Pb5PQ_C2SsLEC5ssxH2bO8KKY-hWVnnp3raGWZfkBto)
 * 334
@@ -319,6 +321,12 @@ aka the "CLRS book"
 * 340
     * [Game Design Workshop: A Playcentric Approach to Creating Innovative Games, Fullerton & Tracy](https://mega.nz/#!nXIRkKhD!IYckftCkxaA6xxHTrVqewKx9oFoaJjvufL84AsYkX-Q)
 
+<a name="JRN"></a>
+### JRN
+
+* 111
+    * [Working with Words: A Handbook for Media Writers and Editors 7th, Brooks Pinson Wilson](http://gen.lib.rus.ec/book/index.php?md5=DDBD2E7A4277FC7239B3B1232866576F)
+    
 <a name="MAT"></a>
 ### MAT
 
@@ -416,6 +424,9 @@ http://download.library1.org/main/1195000/89ee5553ac7f0b543d8d795a312f1555/Richa
     * [Introduction to Psychology 11th, Kalat](https://mega.nz/#!yWoRAKDI!_bquKJkUILUuF3lyJSApsbk4iGIjEO4Wf5Acv2f_CB0)
 * 201
     * [Statistics for Psychology 6th Aron, Coups, Aron](https://mega.nz/#!0okHTaSL!uNukKWZVz6nfrKgD3WKKrvnGtl-7ZwXsZXXqddM0bSQ)
+    * [Statistics for the Behavioral Sciences 9th, Gravetter & Wallnau](http://gen.lib.rus.ec/book/index.php?md5=D98E8466A95536378E1057816DD8F6AD)
+* 220
+    * [How Children Develop, Siegler DeLoache Eisenberg](http://lib1.org/_ads/0c0e7a523f12a3010eb89fe1958b629b)
 * 250
     * [Biopsychology 10th, Pinel Barnes](https://mega.nz/#!WPQGVYbJ!r80Qjo92bjv0X3PYwEXSIOQ0miHPFcaaP_PGJQB6m1Q)
 
