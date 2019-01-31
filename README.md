@@ -147,6 +147,8 @@ http://download.library1.org/main/778000/dfc5bbc26536b01729022dd2747a4efd/T.%20W
     * [Organic Chemistry I as a Second Language: Translating the Basic Concepts 2nd, David Klein](http://download.library1.org/main/798000/b8267873ddbcc313d76528f02b29f9dd/David%20M.%20Klein-Organic%20Chemistry%20I%20as%20a%20Second%20Language_%20Translating%20the%20Basic%20Concepts-John%20Wiley%20and%20Sons%20%282007%29.pdf)
     * [Organic Chemistry Study Guide & Solutions Manual 10th Solomons, Fryhle](http://download.library1.org/main/898000/bf079e859ed2d7dee364b9f8909853c5/T.%20W.%20Graham%20Solomons%2C%20Craig%20B.%20Fryhle%2C%20Robert%20G.%20Johnson-Organic%20Chemistry_%20Study%20Guide%20and%20Solutions%20Manual-Wiley%20%282008%29.pdf)
     * [Organic Chemistry 6th Loudon Parise](https://mega.nz/#!x1dXzTJb!QnwAN66iicKzF_zHUaWUd1_5qJmVHb8P9Adjmzlzze4)
+* 331/332
+    * [Organic Chemistry 2nd, Clayden](https://mega.nz/#!iawwnQKI!XTbOgrvEhxr6r5qe5YFOXnI7fxrBYgzqzRzFVkTBnsk)
 
 <a name="CSE"></a>
 ### CSE
@@ -181,6 +183,8 @@ https://mega.nz/#!rXBm0Kyb!f615mIf2pVwmFihgXsAHyjGsTUi6UVdoN0DiW7EwTcU)
     * [Digital Design and Computer Architecture 2nd Harris, Harris](https://mega.nz/#!w9cXhYKC!KCd_PYmkKZgrAdf4IzDkO4o_957zH6Do1h6OT9pImIM)
 * 260
     * [Object Oriented Design & Patterns 2nd Horstmann](https://mega.nz/#!N9MjgDhD!sOnvLcyxg7Jcru5cKO6lyftuRy8EWB5YZhfhFUYQZks)
+* 300
+    * [Technical Communication 11th, Markel](https://mega.nz/#!SO422QJQ!vmBqPvzE1XdMMKKxztNso5VLlbwdCK63E8Lj4BwL84E)
 * 303
     * [Elements of the Theory of Computation 2nd Lewis](https://mega.nz/#!t99XDajZ!Dze6ATuX22eDxnwyN95bEnkNxg5BlLmpq_w7qL1BIL8)
     * [Introduction to the Theory of Computation 3rd Lewis](https://mega.nz/#!k8dSzaKC!HWEFx28zEVeNkowfgZZvhTGyiQ_YURsB-lL3K3iB6UI)
@@ -257,6 +261,8 @@ aka the "CLRS book"
     * [Digital Integrated Circuits: A Design Perspective 2nd, Rabaey Chandrakasan Nikolic](https://mega.nz/#!yGJmCIpC!R4inProzzjZVmq0dOYLE6jfTc8YFoWnno2BDu2o3Fh4)
 * 340
     * [Mobile Wireless Communications, Schwartz](https://mega.nz/#!ze4l1ADL!cKw6QTVRvM7t6OXVv5l2QZMzHtdw5VTCLv_ApPO39ZA)
+* 350
+    * [Power System Analysis and Design 6th, Glover](https://mega.nz/#!KfpwgIoY!e009W3uuHd_vqCfmQmzH_e_h5UrC8DbR8sRXoNwk7Yc)
 * 372
     * [Microelectronic Circuits 7th, Sedra & Smith](https://mega.nz/#!3GRzVQoY!-g33MbCur-Ss6Cj3ka6mYLO3PYZcB4X6lHvXO2XhOa4)
 * 382
@@ -349,6 +355,8 @@ aka the "CLRS book"
     * [Linear Algebra Done Right 3rd edition, Axler](https://mega.nz/#!zTIUUQDB!iEeeQ0AM1jqseKI-FAecYCn2mvhED79_WQLTxm_oOok)
 * 319
     * [Elementary Analysis: The Theory of Calculus 2nd, Ross](https://mega.nz/#!yG4BnJoT!uAB7I3T0qMTWi_M5OXeZYrnBv86iW_g7db_QdpCOjE4)
+* 322
+    * [Analysis on Manifolds, Munkres](https://mega.nz/#!aGw00YYR!HgYbJIS-CIvui5QrqsJb9UuP4oePnyBtT6jL-4SeUI8)
 * 342
     * [Complex Variables and Applications 8th, Brown Churchill](https://mega.nz/#!naQUSSQa!ABtSQzVbG6oKh2_a_qmqKYtnQPdWUOWTxm6rx8HTcvk)
 * 543
