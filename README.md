@@ -12,7 +12,7 @@ Last edited: January 30, 2019
 **Note: if the link brings you to a Library Genesis page, just click "GET" to download the pdf.**
 ## Jump to subject 
 
-[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BME](#BME) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [HON](#HON) \| [ISE](#ISE) \| [JRN](#JRN) \|[MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHI](#PHI) \| [PHY](#PHY) \| [PSY](#PSY) \| [SOC](#SOC) \| [THR](#THR) \| [WRT](#WRT)
+[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BME](#BME) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [HON](#HON) \| [ISE](#ISE) \| [JRN](#JRN) \|[LIN](#LIN) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHI](#PHI) \| [PHY](#PHY) \| [PSY](#PSY) \| [SOC](#SOC) \| [THR](#THR) \| [WRT](#WRT)
 
 ## The Links
 
@@ -139,6 +139,8 @@ Last edited: January 30, 2019
     * [Chemistry: The Science in Context 5th, Gilbert Kirss Foster Bretz Davies](https://mega.nz/#!GehHwTCL!2ItLLd9Qhw__Q1NfyOl-qSjy1imqPCqGYZM3yt_PbtA)
     * [Chemistry the Molecular Nature 7th Silberberg](https://mega.nz/#!3XIiDQSC!jKfiXdpDmd2T1PHjYY9XADKn-Bsq58bzjSkRGL2p-wM)
     * [Study Guide](https://mega.nz/#!Zp0jGAaR!Re2ha8ExWWMP9C8ictVs2rkwDh7GgGM8JpcvHPJkDXI)
+* 312
+    * [Physical Chemistry: Principals and Applications in Biological Sciences 5th, Tinoco Sauer et al.](https://mega.nz/#!bXhATSoC!kDYJ_bE8zyImmS1cc3nI5C8ai6OIwfpeMK4vt-JqDeI)
 * 321/322
     * [Organic Chemistry as a Second Language: First Semester Topics 4th, Klein](https://mega.nz/#!XfBHBQxS!4oa3zHtuCVfK4IL2f2-U8htoW1VqqA5fy21QeWJhiLc)
     * [Organic Chemistry as a Second Language: Second Semester Topics 4th, Klein](https://mega.nz/#!6DJ3HSwI!EbS6F2XuVhlcoXxuPr-jApDT8uwa68FYTrvwF2dx7Sg)
@@ -333,6 +335,12 @@ aka the "CLRS book"
 * 111
     * [Working with Words: A Handbook for Media Writers and Editors 7th, Brooks Pinson Wilson](http://gen.lib.rus.ec/book/index.php?md5=DDBD2E7A4277FC7239B3B1232866576F)
     
+<a name="LIN"></a>
+### LIN
+
+* 321
+    * [What is Morphology 2nd, Aronoff & Fudeman](https://mega.nz/#!uahSBQrK!scgkNMaQMBE1tPHL3BLEPvTLJXK_nMAG9w2RVsH29Sk)
+
 <a name="MAT"></a>
 ### MAT
 
