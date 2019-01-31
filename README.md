@@ -175,7 +175,7 @@ https://mega.nz/#!XfJAxYRS!LLawuOvCsflbUi0IfsakUe5uJv04SRwESgLzMkXyBNA)
 https://mega.nz/#!rXBm0Kyb!f615mIf2pVwmFihgXsAHyjGsTUi6UVdoN0DiW7EwTcU)
     * [Discrete Mathematics with Applications - Comprehensive '11 Susanna Epp](http://download.library1.org/main/741000/4c814d19909a7168cf62dfcb410f5960/Susanna%20S.%20Epp-Discrete%20Mathematics%20with%20Applications%2C%204th%20Edition%20%20-Brooks%20Cole%20%282010%29.pdf)
 * 216
-    * [Programming Language Pragmatics 4th, Scott](http://lib1.org/_ads/4BAB4F05252CCC37ECD2993F5F00E0F4)
+    * [Programming Language Pragmatics 4th, Scott](http://lib1.org/_ads/9006E3C672726689767509B65C889202)
 * 219
     * [Midterm Study Guide](https://mega.nz/#!15ljlIJJ!B7ynXY2QpD11eNTpDls5qNIQf4atKC8Ff0HT-rwwqoY
 )
@@ -197,6 +197,8 @@ https://mega.nz/#!rXBm0Kyb!f615mIf2pVwmFihgXsAHyjGsTUi6UVdoN0DiW7EwTcU)
 * 306
     * [Operating Systems Internals and Design Principles 8th Stallings](https://mega.nz/#!E9lj0BQJ!B_A9zIhNCowjNZRuyk6N_YJXbchIJeKPGrvzZ4pbFUw)
     * [Introduction to Operating System Design and Implementation The OSP2 Approach Kifer, Smolka](https://mega.nz/#!dt80zToT!wdL0W49ouzp88dHY5rg7p0QSrqYeMHSRYltnD8nXwpo)
+* 307
+    * [Programming Language Pragmatics 4th, Scott](http://lib1.org/_ads/9006E3C672726689767509B65C889202)
 * 310
     * [Computer Networking: A top-down approach 7th Kurose Ross](https://mega.nz/#!fSZw0A4J!dcL6uSFRlOYJutoNFcs3ibRuNoJFRevMbDFzTvBtFag)
 * 311
@@ -451,6 +453,8 @@ http://download.library1.org/main/1195000/89ee5553ac7f0b543d8d795a312f1555/Richa
 
 * 105
     * [Essentials of Sociology: A Down-to-Earth Approach 11th, Henslin](https://mega.nz/#!nKxVnbIT!GteIa4eLfdPt03PhPT-1oR0FJI2C6jza5qlM4Pt4x5g)
+* 247
+    * [The Gendered Society 6th, Kimmel](http://gen.lib.rus.ec/book/index.php?md5=F798C798320DF7650DABFB34E7FBC8E4)
 * 344
     * [Twenty Lessons in Environmental Sociology 2nd, Gould & Lewis](https://mega.nz/#!KH4hhLrL!ScYuSCypX7fgsc9z55JMA8f7x-oSHGk1Cm36uwAbNbU)
 
