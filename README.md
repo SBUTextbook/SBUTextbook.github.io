@@ -1,4 +1,4 @@
-Last edited: January 30, 2019
+Last edited: February 12, 2019
 
 
 ## Hello
@@ -12,7 +12,7 @@ Last edited: January 30, 2019
 **Note: if the link brings you to a Library Genesis page, just click "GET" to download the pdf.**
 ## Jump to subject 
 
-[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BME](#BME) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HIS](#HIS) \| [HON](#HON) \| [ISE](#ISE) \| [JRN](#JRN) \|[LIN](#LIN) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHI](#PHI) \| [PHY](#PHY) \| [PSY](#PSY) \| [SOC](#SOC) \| [THR](#THR) \| [WRT](#WRT)
+[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BME](#BME) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HAN](#HAN) \| [HIS](#HIS) \| [HON](#HON) \| [ISE](#ISE) \| [JRN](#JRN) \| [LIN](#LIN) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHI](#PHI) \| [PHY](#PHY) \| [POL](#POL) \| [PSY](#PSY) \| [SOC](#SOC) \| [THR](#THR) \| [WRT](#WRT)
 
 ## The Links
 
@@ -232,6 +232,7 @@ Note: 320 is taught using the third edition, but the pdf quality for the second 
 )
     * [Introduction to Algorithms 3rd Cormen, Leiserson, Rivest, Stein](https://mega.nz/#!lgNHRSIA!FsfpSa6NGIb6lxwHEhl5B3jRh3C44WTgn9CcfvhXipM)  
 aka the "CLRS book"
+    * [Algorithm Design, Kleinberg & Tardos](http://lib1.org/_ads/E2BA8AC3905F8761B0485ED386A9F77C)
 * 390 - NLP
     * [Speech and Language Processing 3rd Draft Jurafsky Martin](https://mega.nz/#!B5NXhR4D!-E3chd7eotiEhyJOfWytZqxH9vfUW__62PD2GeXPxmM)
 * 519
@@ -303,6 +304,12 @@ aka the "CLRS book"
 * 103
     * [Earth System History 3rd, Stanley](https://mega.nz/#!fDoV3J6T!tgxKyTP11zRBv_C0Clb37zXSKOolHodSkTrqS7Itw5k)
     * [Historical Geology 8th, Wicander & Monroe](http://download.library1.org/main/2056000/1c97f246fee2f05d5af6b290b410570f/Monroe%2C%20James%20Stewart_%20Wicander%2C%20Reed-Historical%20geology-Cengage%20Learning%20%282016%29.pdf)
+
+<a name="HAN"></a>
+### HAN
+
+* 200
+    * [Human Anatomy and Physiology 11th, Elaine N. Marieb & Katja Hoehn](http://eteka.info/ads.php?md5=85ccb651d7613751bba3447d03de1ea5)
 
 <a name="HIS"></a>
 ### HIS
@@ -435,6 +442,12 @@ aka the "CLRS book"
     * [Introduction to Quantum Mechanics Griffith solutions](https://mega.nz/#!l9N3XIqL!0JixY7jCP2kyFFGZ8g2xfPLfGThr6sm8qVYuMTZDj5I)
 * A ton more Physics textbooks are [here](https://mega.nz/#F!hFEnWbDS!8__Td5k6AXWRSRqQ-AceJw). If you know which courses each of these textbooks correspond to, get in touch.
 
+<a name="POL"></a>
+### POL
+
+* 102
+    * [Gateways to Democracy: An Introduction to American Government - The Essentials 1st Edition, Geer et al.](http://lib1.org/_ads/E74BB97A69AAA6EC45BA72B3608EB006)
+    
 <a name="PSY"></a>
 ### PSY
 
