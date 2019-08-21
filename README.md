@@ -20,41 +20,40 @@ Last edited: February 12, 2019
 ### AMS
 
 * 110
-    * [Statistics for the Life Sciences 4th Samuel, Wirmer Schaffner](https://mega.nz/#!HDpB1RIQ!biVYL_pB8cIbFCQn-TVbt2gkObkWGInH8lmwZBLjHI8)
+    * [Statistics for the Life Sciences 4th Samuel, Wirmer Schaffner](https://libgen.is/book/index.php?md5=76BAFD06FABF8D27EE431EE511DCA834)
 * 151/161
-    * [Single Variable Calculus 4th James Stewart](http://download.library1.org/main/772000/c7199fc5ab20a0b9a052c710400a0bd4/James%20Stewart-Calculus_%20Concepts%20and%20Contexts%2C%204th%20Edition%20%20-Cengage%20Learning%20%282010%29.pdf)
+    * [Single Variable Calculus 4th James Stewart](https://libgen.is/book/index.php?md5=34E9D4E3E749703986409B4E29EB770F)
 * 210
-    * [A Unified Introduction to Linear Algebra: Models, Methods, and Theory, Alan Tucker](https://mega.nz/#!iTonjJAb!FXO4S6ra4ksgZEX6L-aXuQTbyu9ngNxAdRWNg_f-6Co)
     * [Introduction to Linear Algebra: Models, Methods and Theory, Alan Tucker](https://commons.library.stonybrook.edu/ams-books/1/) 
 * 261
-    * [Multivariable Calculus 10th Ron Larson, Bruce H Edwards](http://download.library1.org/main/2275000/951ec64140e115cc2f8f69ffa2452334/Ron%20Larson%2C%20Bruce%20Edwards-Multivariable%20Calculus.pdf)
-    * [Calculus 11th Ron Larson, Bruce H Edwards](http://download.library1.org/main/2162000/84b31aa08ed64122781ed8c41ba94670/Ron%20Larson%2C%20Bruce%20Edwards-Calculus-Cengage%20Learning%20%282017%29.pdf)
+    * [Multivariable Calculus 10th Ron Larson, Bruce H Edwards](https://libgen.is/book/index.php?md5=951EC64140E115CC2F8F69FFA2452334)
+    * [Calculus 11th Ron Larson, Bruce H Edwards](https://libgen.is/book/index.php?md5=5426DABC9E64E34EDBA829013AA294AB)
 * 301
-    * [Applied Combinatorics 6th Alan Tucker](https://mega.nz/#!NkFhmQ5L!41mmKv-ZcBRpdRPHYwJXwN6KO0DLEXLhGbb86xQsoqE)
+    * [Applied Combinatorics 6th Alan Tucker](https://libgen.is/book/index.php?md5=BD6E28F31448758F0870E15077703E28)
 * 303
-    * [Introduction to Graph Theory 5th Wilson](https://mega.nz/#!58tkGCJY!c9w-ndrxpVMhxY_65kGw4RbvUMSrm0nQQtUyI1wA7lY)
+    * [Introduction to Graph Theory 5th Wilson](https://libgen.is/book/index.php?md5=B15AE07760D387B0AD784A9FCF25D309)
 * 310
-    * [Probability and Statistics for Science and Engineering with Examples in R 1st Edition, Ahn](https://mega.nz/?fref=gc&dti=180130720983#!5DZWGIzS!zggdQoV96ySUWzWnjb33nbn2-hQhKVKY-4oVwpjPsns)
-    * [Probability and Statistics for Science and Engineering with Examples in R 2nd Edition, Ahn](https://mega.nz/#!ieYkGayb!t0fucoyUotHFYCIJb19Px-Ga6OWQhfdNBcemkXqulCE)
+    * [Probability and Statistics for Science and Engineering with Examples in R 2nd Edition, Ahn](https://libgen.is/book/index.php?md5=52F0E7A577653A80C6295DEFA4A4561D)
+    * [Probability and Statistics for Science and Engineering with Examples in R 1st Edition, Ahn](https://libgen.is/book/index.php?md5=420C6A4DD16A0FFA13D24F4D4350A4C5)
 * 311/507
-    * [A First Course in Probability 9th Ross](https://mega.nz/#!YhETwLbT!oQVxwyuBjaDHQOa2I_nvWq2dZGQqlQ87VVTEVtRNRKQ)
+    * [A First Course in Probability 9th Ross](https://libgen.is/book/index.php?md5=DA92D2754CB0F14B8B738977D76B0FB3)
 * 315
-    * [An Introduction to Statistical Methods and Data Analysis 7th Ott Longnecker](http://download.library1.org/main/1640000/2a801a91a5584e690d9f5b98011445fd/R.%20Lyman%20Ott%2C%20Micheal%20T.%20Longnecker-An%20Introduction%20to%20Statistical%20Methods%20and%20Data%20Analysis-Brooks%20Cole%20%282015%29.pdf)
+    * [An Introduction to Statistical Methods and Data Analysis 7th Ott Longnecker](https://libgen.is/book/index.php?md5=A9325516862CAFCA8C71A63C77C572FA)
 * 318
-    * [Mathematical Interest Theory 2nd, Vaaler Daniel](https://mega.nz/#!LWYmkADD!4P5x6v3aZu97oT6uICFazRuhXsqVsm2-L5-vIGGrrIg)
+    * [Mathematical Interest Theory 2nd, Vaaler Daniel](https://libgen.is/book/index.php?md5=A7B6DDC61F9B7783C4F2B31AAB6C85EC)
 * 320
-    * [Options, Futures, and Other Derivatives 8th Hull](https://mega.nz/#!E9kn0SRb!sw0t8lWcomwkI69UP9SNEplAtQyuO7RXjougBQUerOk)
-    * [Options, Futures, and Other Derivatives Solutions Manual 8th Hull](https://mega.nz/#!FpFy0ZaQ!ivHtwtBrpT6sMduD9plFbzFBcJKZVOkV3WFedECfHgs)
+    * [Options, Futures, and Other Derivatives 8th Hull](https://libgen.is/book/index.php?md5=FE800DE338F4C1E540C3F12B06D6119A)
+    * [Options, Futures, and Other Derivatives Solutions Manual 8th Hull](https://libgen.is/book/index.php?md5=66DCAA39DE7E75377A247B8F6A857B65)
 * 341
-    * [Operations Research: Applications and Algorithms 4th Winston](https://mega.nz/#!YwoxjZCJ!WYJG97xm08XgHBjmYOhx_susN7yXgtK-IZcUw8ryPLo)
+    * [Operations Research: Applications and Algorithms 4th Winston](https://libgen.is/book/index.php?md5=FE874ED98ED1CC2457052DAFA798B215)
 * 345
-    * [Computational Geometry in C 2nd O'Rourke](https://mega.nz/#!tkxQAQbQ!GNB5E7Zi3wK7oFtSRKsuPYTHHoMqYgwzO5pbXrTOFJw)
-    * [Discrete and Computational Geometry 2011 Devadoss, O'Rourke](https://mega.nz/#!U9J2EC5I!xAdZj96GzwXsPGz3BLaYucRYDhxrehx2FdTVcOCE5Tw)
+    * [Computational Geometry in C 2nd O'Rourke](https://libgen.is/book/index.php?md5=150E4E29E2844C9F1569D031C85091A7)
+    * [Discrete and Computational Geometry 2011 Devadoss, O'Rourke](https://libgen.is/book/index.php?md5=674E84A6F9A04108EF45AF1E1BA945BE)
 * 351
-    * [Numbers Groups and Codes 2nd Humphreys, Prest](https://mega.nz/#!n4pCgDqQ!g3Ofv85bA2P0bwVhZQVEqFMNV4My6OrAxlhLf_VGjzE)
+    * [Numbers Groups and Codes 2nd Humphreys, Prest](https://libgen.is/book/index.php?md5=57E699B604A9C706977203C1D9A199F6)
 * 361
-    * [Lectures, Problems, and Solutions for Ordinary Differential Equations, Deng](https://mega.nz/#!eCYAXS7B!tYahhPmn9_ZrpK2v34JiYdDigGCIjNvpaPUwDagRjUk)
-    * [Elementary Differential Equations 6th, Edwards Penney](https://mega.nz/#!fOgQFQoA!jxnu3GDGpuv_BUr1Sd_D5w6bIcVqRPYIXCk9iyYTyts)
+    * [Lectures, Problems, and Solutions for Ordinary Differential Equations 2nd, Deng](https://libgen.is/book/index.php?md5=65B11190B9E505B6D4B4B7AEB2C4B3AD)
+    * [Elementary Differential Equations 6th, Edwards Penney](https://libgen.is/book/index.php?md5=46D5266437EB11A3B4A2C4C84EA2FACE)
 
 <a name="ANT"></a>
 ### ANT
