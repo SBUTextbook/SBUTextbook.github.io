@@ -59,7 +59,7 @@ Last edited: August 21, 2019
 ### ANT
 
 * 102
-    * [The Cocktail Waitress 1975 Spradley, Mann](https://mega.nz/#!Xlp2kaYa!hrtg2kEDiKiuf09WXcNAIFEGx8jCr6kJBPX8eQDPavo)
+    * [The Cocktail Waitress 1975 Spradley, Mann](https://libgen.is/book/index.php?md5=AD7386BA3B81B8B70C421E37D730A4C6)
     * [The Netsilik Eskimo 1970 Balikci](https://mega.nz/#!21JyRB7I!nu835_2BQpbpHCq9DlxVpSRviuCgssFiGHY9NbJxSbk)
     * [Tetum Ghosts and Kin 2nd Hicks](https://mega.nz/#!3lpyxZ5Z!qoa1y2PL7eMzf7FvkzeQpOAVRB2aQfgN-VIfLIitua4)
 
@@ -67,17 +67,18 @@ Last edited: August 21, 2019
 ### ARH
 
 * 208
-    * [A World History of Photography 3rd Rosenblum](https://mega.nz/#!4plECYCS!66-Oy7-k-U7nZZRlethkrtDwC-Wp4Md-8f2h8wgf0EY)
+    * [A World History of Photography 3rd Rosenblum](https://libgen.is/book/index.php?md5=174981D79502CECF9E7C94B442B89B72)
 
 <a name="AST"></a>
 ### AST
 
 * 101
-    * [The Essential Cosmic Perspective 6th, Bennet Donahue Scheidner Voit](https://mega.nz/#!nOQ3DSJK!5QpTxUst-MKi8Vf3NIXY5lfmn0ag-f_TI2lZVj5n2pU)
+    * [The Essential Cosmic Perspective 6th, Bennet Donahue Scheidner Voit](https://libgen.is/book/index.php?md5=4C976F84352ECB0510B613968D3E0C41)
+    * [The Essential Cosmic Perspective 7th w/ Test Bank, Bennet Donahue Scheidner Voit](https://libgen.is/book/index.php?md5=B4734A9D7E02A03B46F8421C7A5F4A78)
 * 203
-    * [Astronomy A Physical Perspective 2nd Kutner](https://mega.nz/#!9w8RBZzb!KMGz-oWmlfL2fdwiwYagvryNh89_T3xGVU7cjqcXoFg)
+    * [Astronomy A Physical Perspective 2nd Kutner](https://libgen.is/book/index.php?md5=ECBF7E6EF82D8A16FFCF1119E130401D)
 * 248
-    * [Life in the Universe 3rd ed, Bennett Shostak](https://mega.nz/#!GDBk2aSD!JvjU7xZ7ZYd6gE1oe2SBFF2wRdaeZnx7H53xJUVy0fY)
+    * [Life in the Universe 3rd ed, Bennett Shostak](https://libgen.is/book/index.php?md5=2D0FF6854E7D115F4233C21FE4A4EC58)
     
 <a name="ATM"></a>
 ### ATM
