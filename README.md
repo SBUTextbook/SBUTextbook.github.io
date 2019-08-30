@@ -93,21 +93,20 @@ Last edited: August 21, 2019
 * 201
     * [Biology, Rye Wise Jurukovski DeSaix Choi Avissar](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Biology-OP_xQoZM8Z.pdf)
 * 202
-    * [Biology 10th Campbell, Reece](https://mega.nz/#!CKAiXKoB!EBPvoQ28QMmiHbKVLHnJNLjRYEyO7Gz-UhDRYV0y8RA)
-    * [Biology 11th Campbell](https://mega.nz/#!veBinCzC!19fboERh208Ds2qImTY3c52gbzrW7LH2BX8uMR8qxB4)
+    * [Biology 11th Campbell](http://gen.lib.rus.ec/book/index.php?md5=EEDC6CFC9E0CE4439369C1AB7D3E3B63)
 * 203
-    * [Human Physiology: An Integrated Approach 6th Silverthorn](https://mega.nz/#!tFlBDDKS!Zk0DQD7wi5ub--KmMK4zSI7X_uzhAWw0aEnAZVHLRZ8)
-    * [Human Physiology: An Integrated Approach 7th Silverthorn](http://download.library1.org/main/2224000/822b80d628e29c08689f8c01d5c037f8/Dee%20Unglaub%20Silverthorn%20-%20Human%20Physiology_%20An%20Integrated%20Approach-Pearson%20%282015%29.pdf)
+    * [Human Physiology: An Integrated Approach 6th Silverthorn](http://gen.lib.rus.ec/book/index.php?md5=44E10EFC4282A70197D5BCB6870F74E4)
+    * [Human Physiology: An Integrated Approach 7th Silverthorn](http://gen.lib.rus.ec/book/index.php?md5=822B80D628E29C08689F8C01D5C037F8)
 * 205
-    * [Handbook of Photosynthesis 2nd Pessarakli](https://mega.nz/#!8Y1RgTRD!mrRfP-_sS2U1sI3cCBzzCZNJfBiI7UD9dPKVnZKLkf8)
+    * [Handbook of Photosynthesis 2nd Pessarakli](http://gen.lib.rus.ec/book/index.php?md5=F64BFCF4A284F016EEB750B2D9D74727)
 * 314
-    * [The Biology of Cancer 2nd, Weinberg](https://mega.nz/#!7OAiHQhL!sx_PLNLdoblAebprEQld5M6oboyBiHO4S2ExawLLaUk)
+    * [The Biology of Cancer 2nd, Weinberg](http://gen.lib.rus.ec/book/index.php?md5=5EEDF7AEE5921695902FC9AB57124CA7)
 * 320
     * [Genetics: From Genes to Genomes 6th, Hartwell Goldberg Fischer Hood ](http://gen.lib.rus.ec/book/index.php? md5=B02665C6CE0308C519BC5CA8CBBD02F0)
 * 325
-    * [Developmental Biology 11th Gilbert Barresi](https://mega.nz/#!wpMHEb6a!Pb5PQ_C2SsLEC5ssxH2bO8KKY-hWVnnp3raGWZfkBto)
+    * [Developmental Biology 11th Gilbert Barresi](http://gen.lib.rus.ec/book/index.php?md5=C69432A6F67E499EAEA07C43C84C937D)
 * 334
-    * [Vertebrate Life 9th Pough](https://mega.nz/#!j0xAzYSb!2EfPdZEYSmfqT0h1dUaDTPsnXyoXRtcJMhPmcQh-B4A)
+    * [Vertebrate Life 9th Pough](http://gen.lib.rus.ec/book/index.php?md5=EDCF7C559BEA9631E680402EA6E8D5FA)
 * 361
     * [Principles of Biochemistry, Leningher](https://mega.nz/#!SCB20KpK!-JJYwEKNtb7jc08OW0b3Qjjon3KPU5TJG2SNltBAbWg)
 
