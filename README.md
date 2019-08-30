@@ -192,57 +192,59 @@ http://gen.lib.rus.ec/book/index.php?md5=70B4EABCBA5E062B34724DB463DD9A41)
     * [Elements of the Theory of Computation 2nd Lewis](http://gen.lib.rus.ec/book/index.php?md5=9FEFB4BD34BD272768E7D409D66C582E)
     * [Introduction to the Theory of Computation 3rd Sipser](http://gen.lib.rus.ec/book/index.php?md5=83B32C22675567F3E22C93BD6BD372BE)
 * 304/504
-    * [Engineering a Compiler 2nd Cooper, Torczon](https://mega.nz/#!m4AzQIAR!tHDTmPBUBlgGesfg2roDK-eKOEBt6FB38SAVftSUT-0)
+    * [Engineering a Compiler 2nd Cooper, Torczon](http://gen.lib.rus.ec/book/index.php?md5=E527F118CFFB5FAA3441EB51015E73E1)
 * 305
     * [Database Systems an Application Oriented Approach 2nd Kifer Bernstein Lewis](https://mega.nz/#!Ztl3gJKa!r-ieUK4dwfkZuxoqUWwsGT6lnEtdpH_97pKitbxhthM)
 * 306
-    * [Operating Systems Internals and Design Principles 8th Stallings](https://mega.nz/#!E9lj0BQJ!B_A9zIhNCowjNZRuyk6N_YJXbchIJeKPGrvzZ4pbFUw)
-    * [Introduction to Operating System Design and Implementation The OSP2 Approach Kifer, Smolka](https://mega.nz/#!dt80zToT!wdL0W49ouzp88dHY5rg7p0QSrqYeMHSRYltnD8nXwpo)
+    * [Operating Systems Internals and Design Principles 8th Stallings](http://gen.lib.rus.ec/book/index.php?md5=61479FB9C0BDDCD3DAC3C90D67BA0145)
+    * [Operating Systems Internals and Design Principles 8th Stallings](http://gen.lib.rus.ec/book/index.php?md5=A2644CA0474046D6711EA7D803B39354)
+    * [Introduction to Operating System Design and Implementation The OSP2 Approach Kifer, Smolka](http://gen.lib.rus.ec/book/index.php?md5=2BF67322E52A9762F5DC28AC2C71CFE5)
 * 307
-    * [Programming Language Pragmatics 4th, Scott](http://lib1.org/_ads/9006E3C672726689767509B65C889202)
+    * [Programming Language Pragmatics 4th, Scott](http://gen.lib.rus.ec/book/index.php?md5=4BAB4F05252CCC37ECD2993F5F00E0F4)
 * 310
-    * [Computer Networking: A top-down approach 7th Kurose Ross](https://mega.nz/#!fSZw0A4J!dcL6uSFRlOYJutoNFcs3ibRuNoJFRevMbDFzTvBtFag)
+    * [Computer Networking: A top-down approach 7th Kurose Ross](http://gen.lib.rus.ec/book/index.php?md5=2591F0B3DEF9B956B60B853697A6808C)
 * 311
-    * [UNIX and Linux System Administration Handbook 4th Nemeth, Snyder, Hein, Whaley](https://mega.nz/#!ulBwVbCC!TYOUaCDFDNxA8X8BFMpPs0M4599WTfW6XBjnRhe-fu0)
+    * [UNIX and Linux System Administration Handbook 5th Nemeth, Snyder, Hein, Whaley](http://gen.lib.rus.ec/book/index.php?md5=F90104A31DCE68CF521B96B29BE35DDE)
+    * [UNIX and Linux System Administration Handbook 4th Nemeth, Snyder, Hein, Whaley](http://gen.lib.rus.ec/book/index.php?md5=030A94B7B76DE313A774E6D76165249C)
 * 312
-    * [The Gift of Fire 4th Baase](https://mega.nz/#!VpNzGJQT!vwYWduKRNIBk5EGhH8P_mM1XpV6IGAZpmJ4XdAGgsWg)
+    * [The Gift of Fire 4th Baase](http://gen.lib.rus.ec/book/index.php?md5=71C2DB67766221A9988E2BB4F1555DD1)
 * 320
-    * [Computer Systems: A Programmer's Perspective 2nd Bryant O'Hallaron](https://mega.nz/#!8ktm3ILT!C44qU4Xl8GJZPtrIxVdJx00_8ba8AqYKPIIP7CzEIl0)
-    * [Computer Systems: A Programmer's Perspective 3rd Bryant O'Hallaron](https://mega.nz/#!g10DHCRA!bWLg1WgBdEZtIOIAwzNIBTUWOGK1nPS_9RAdtKNxPpk)  
+    * [Computer Systems: A Programmer's Perspective 2nd Bryant O'Hallaron](http://gen.lib.rus.ec/book/index.php?md5=A72A5F3225B52C3269544B18EA6B2FE0)
+    * [Computer Systems: A Programmer's Perspective 3rd Bryant O'Hallaron](http://gen.lib.rus.ec/book/index.php?md5=EBB9004FE72F0DA390BDEF45026B2786)  
 Note: 320 is taught using the third edition, but the pdf quality for the second edition is a lot better. You're encouraged to download both, using mainly the second edition but using the third when they differ.
 * 323
-    * [Designing for Interaction: Creating Innovative Applications and Devices, Saffer](https://mega.nz/#!HTh3FbAI!sFrSQErDiWhUtk5OYqIdEglgzf51QF-BhaahE1Ig0tc)
+    * [Designing for Interaction: Creating Innovative Applications and Devices 2nd, Saffer](http://gen.lib.rus.ec/book/index.php?md5=C0556CB6A8DEFA27335A537849B6AC25)
 * 327
     * [Computer Vision: Algorithms and Applications Draft Szeliski](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
-    * [Computer Vision A Modern Approach 2nd Forsyth Ponce](https://mega.nz/#!Usk1FDJR!eDYFJ1GGg5vDf_Yrr_WjNYieyEdDsR9I8vJZ4L5Mxf4)
+    * [Computer Vision A Modern Approach 2nd Forsyth Ponce](http://gen.lib.rus.ec/book/index.php?md5=9E052A7BD5EB18CA729F350B4C629A89)
 * 328
-    * [Computer Graphics with OpenGL 4th Hearn Baker Carithers](https://mega.nz/#!ksU0zCQL!ThDa93aQt586yzzVvKvSL_if5TmLhEeGZBJZQRHFDsQ)
+    * [Computer Graphics with OpenGL 4th Hearn Baker Carithers](http://gen.lib.rus.ec/book/index.php?md5=5ED22F29FBDDB6D72D7FAE8445AF74B3)
 * 336
-    * [Murach's Java Servlets and JSP 3rd Murach Urban](https://mega.nz/#!ttdXAbqB!KcqH_LTTRXq5ldtomK6Jmdonq0dCqU6V45KizP-CqU4)
+    * [Murach's Java Servlets and JSP 3rd Murach Urban](http://gen.lib.rus.ec/book/index.php?md5=8A40DBDB0897EF22D9301769334477FA)
 * 346
-    * [Networks and Grids: Technology and Theory Robertazzi](https://mega.nz/#!6tZRAabC!cwzTKOiyrTRBdDuVxlmuZgQe55OCoTKmw1ZZr_4pkKc)
+    * [Networks and Grids: Technology and Theory Robertazzi](http://gen.lib.rus.ec/book/index.php?md5=D77A160CED15875704A304685BD0E779)
 * 353
-    * [Neural Networks and Learning Machines 3rd Haykin](https://mega.nz/#!gh0XmYaC!S_mJ200lOtY464Dq2fwAMsjihCWtRG3N9xvAVhmhCxg)
-    * [Understanding Machine Learning from Theory to Algorithms '14 Shalev-Shwartz Ben-David](https://mega.nz/#!EwsFHDLa!TX3Rj3XR3uo_rGH3XkKZv0HL9Fr2xqEpmEZJ1mEei7U)
-    * [Deep Learning '16 Goodfellow Bengio Courville](https://mega.nz/#!MhVVGR7b!n33DlJEefrI7kZdOZz_5hhNyz0atMi15fTGcOSxXPS0)
+    * [Neural Networks and Learning Machines 3rd Haykin](http://gen.lib.rus.ec/book/index.php?md5=0239F16656E6E5E7DB7AAA160CF9F854)
+    * [Understanding Machine Learning from Theory to Algorithms '14 Shalev-Shwartz Ben-David](http://gen.lib.rus.ec/book/index.php?md5=0D5BA670702D773F47545864FB5D7533)
+    * [Deep Learning '16 Goodfellow Bengio Courville](http://gen.lib.rus.ec/book/index.php?md5=A05BE4942325AEA362E2AFF8C305B0DE)
 * 355
-    * [Computational Geometry in C 2nd O'Rourke](https://mega.nz/#!tkxQAQbQ!GNB5E7Zi3wK7oFtSRKsuPYTHHoMqYgwzO5pbXrTOFJw)
-    * [Discrete and Computational Geometry 2011 Devadoss, O'Rourke](https://mega.nz/#!U9J2EC5I!xAdZj96GzwXsPGz3BLaYucRYDhxrehx2FdTVcOCE5Tw)
+    * [Computational Geometry in C 2nd O'Rourke](http://gen.lib.rus.ec/book/index.php?md5=150E4E29E2844C9F1569D031C85091A7)
+    * [Discrete and Computational Geometry 2011 Devadoss, O'Rourke](http://gen.lib.rus.ec/book/index.php?md5=AAD60FE3783B29D487BBD261AC9E620E)
 * 373
-    * [The Algorithm Design Manual 2nd Skiena](https://mega.nz/#!85VUnCbZ!FiBO5bywmtL7lnH2FEXGlKsyvwNec4HP9PVTQtxtk0I
-)
-    * [Introduction to Algorithms 3rd Cormen, Leiserson, Rivest, Stein](https://mega.nz/#!lgNHRSIA!FsfpSa6NGIb6lxwHEhl5B3jRh3C44WTgn9CcfvhXipM)  
+    * [The Algorithm Design Manual 2nd Skiena](http://gen.lib.rus.ec/book/index.php?md5=E1C67D6CAE97AB4605F2431E8D7DB2FC)
+    * [Introduction to Algorithms 3rd Cormen, Leiserson, Rivest, Stein](http://gen.lib.rus.ec/book/index.php?md5=47214322FA81F9292AF442C9CAE67335)  
 aka the "CLRS book"
-    * [Algorithm Design, Kleinberg & Tardos](http://lib1.org/_ads/E2BA8AC3905F8761B0485ED386A9F77C)
-* 390 - NLP
-    * [Speech and Language Processing 3rd Draft Jurafsky Martin](https://mega.nz/#!B5NXhR4D!-E3chd7eotiEhyJOfWytZqxH9vfUW__62PD2GeXPxmM)
+    * [Introduction to Algorithms 3rd Solutions Cormen, Leiserson, Rivest, Stein](http://gen.lib.rus.ec/book/index.php?md5=A534ADBA70D6CF1EF1139C71E9000681)
+    * [Algorithm Design, Kleinberg & Tardos](http://gen.lib.rus.ec/book/index.php?md5=316F5AEC40BBA08FEFE2249F4A63617D)
+* 390 - Natural Language Processing
+    * [Speech and Language Processing 2nd Draft Jurafsky Martin](http://gen.lib.rus.ec/book/index.php?md5=8338888B85E90F0E2C8ABC8AE178C32E)
 * 519
-    * [The Data Science Design Manual 1st Skiena](https://mega.nz/#!tpkUHKiZ!OU2M6eh0YCnYMH1Xij4ntRBBuw5bEJ7PZK9IbPJ21Gg)
+    * [The Data Science Design Manual 1st Skiena](http://gen.lib.rus.ec/book/index.php?md5=A23092C930E674CB989AAA42F9FB9567)
 * 529
-    * [Simulation Modeling and Analysis 5th, Law](https://mega.nz/#!LGBkQIqK!L93GrwrkaYXJSgoFuB1Hi7x393IHBu9KZq8eaXLcw80)
+    * [Simulation Modeling and Analysis 5th, Law](http://gen.lib.rus.ec/book/index.php?md5=028D069D632D9AD57697D89E9DB7FBAB)
+    * [Simulation Modeling and Analysis 5th Solutions to Exercises, Law](http://gen.lib.rus.ec/book/index.php?md5=E6F7597CF75305AAD8D29E6268179597)
 * Misc.
-    * [Cracking the Coding Interview 6th McDowell](https://mega.nz/#!cskT0ZLA!_5YiYHXW8hvF_p865iaqK1Q30-9GcvT1U2dH4IeY79k
-)
+    * [Cracking the Coding Interview 6th McDowell](http://gen.lib.rus.ec/book/index.php?md5=FCB49F53D5E943CE8ACDC4469F63DC5D)
 
 <a name="ESE"></a>
 ### ESE
