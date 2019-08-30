@@ -133,27 +133,27 @@ Last edited: August 30, 2019
 ### CCS
 
 * 101
-    * [Looking at Movies An Introduction to Film 5th Barsam Monahan](https://mega.nz/#!d0tg1B5K!U8i4sUTVqo05BQ9g64rjcgS1dEGnceBH4KH6i6Hacu0)
+    * [Looking at Movies An Introduction to Film 5th Barsam Monahan](http://gen.lib.rus.ec/book/index.php?md5=E73B49FCD976BCD3627256012F2F1A42)
 
 <a name="CHE"></a>
 ### CHE
 
 * 131/132
     * [Chemistry: The Science in Context 5th, Gilbert Kirss Foster Bretz Davies](https://mega.nz/#!GehHwTCL!2ItLLd9Qhw__Q1NfyOl-qSjy1imqPCqGYZM3yt_PbtA)
-    * [Chemistry the Molecular Nature 7th Silberberg](https://mega.nz/#!3XIiDQSC!jKfiXdpDmd2T1PHjYY9XADKn-Bsq58bzjSkRGL2p-wM)
-    * [Study Guide](https://mega.nz/#!Zp0jGAaR!Re2ha8ExWWMP9C8ictVs2rkwDh7GgGM8JpcvHPJkDXI)
+    * [Chemistry the Molecular Nature 8th w/ Advanced Topics Silberberg](http://gen.lib.rus.ec/book/index.php?md5=A7DBB8DAFAAFDAF9275948634C688CD5)
+    * [Chemistry the Molecular Nature 7th Silberberg](http://gen.lib.rus.ec/book/index.php?md5=D6DA1B1F75ED9A6BC0C88465FB8F4F83)
 * 312
-    * [Physical Chemistry: Principals and Applications in Biological Sciences 5th, Tinoco Sauer et al.](https://mega.nz/#!bXhATSoC!kDYJ_bE8zyImmS1cc3nI5C8ai6OIwfpeMK4vt-JqDeI)
+    * [Physical Chemistry: Principals and Applications in Biological Sciences 5th, Tinoco Sauer et al.](http://gen.lib.rus.ec/book/index.php?md5=EA88287D9A8615E58B125B48A3EAB8D2)
 * 321/322
-    * [Organic Chemistry as a Second Language: First Semester Topics 4th, Klein](https://mega.nz/#!XfBHBQxS!4oa3zHtuCVfK4IL2f2-U8htoW1VqqA5fy21QeWJhiLc)
-    * [Organic Chemistry as a Second Language: Second Semester Topics 4th, Klein](https://mega.nz/#!6DJ3HSwI!EbS6F2XuVhlcoXxuPr-jApDT8uwa68FYTrvwF2dx7Sg)
-    * [Organic Chemistry 10th Solomons, Fryhle](
-http://download.library1.org/main/778000/dfc5bbc26536b01729022dd2747a4efd/T.%20W.%20Graham%20Solomons%2C%20Craig%20Fryhle-Organic%20Chemistry%2C%2010th%20Edition%20%20-Wiley%20%282009%29.pdf)
-    * [Organic Chemistry I as a Second Language: Translating the Basic Concepts 2nd, David Klein](http://download.library1.org/main/798000/b8267873ddbcc313d76528f02b29f9dd/David%20M.%20Klein-Organic%20Chemistry%20I%20as%20a%20Second%20Language_%20Translating%20the%20Basic%20Concepts-John%20Wiley%20and%20Sons%20%282007%29.pdf)
-    * [Organic Chemistry Study Guide & Solutions Manual 10th Solomons, Fryhle](http://download.library1.org/main/898000/bf079e859ed2d7dee364b9f8909853c5/T.%20W.%20Graham%20Solomons%2C%20Craig%20B.%20Fryhle%2C%20Robert%20G.%20Johnson-Organic%20Chemistry_%20Study%20Guide%20and%20Solutions%20Manual-Wiley%20%282008%29.pdf)
-    * [Organic Chemistry 6th Loudon Parise](https://mega.nz/#!x1dXzTJb!QnwAN66iicKzF_zHUaWUd1_5qJmVHb8P9Adjmzlzze4)
+    * [Organic Chemistry as a Second Language: First Semester Topics 4th, Klein](http://gen.lib.rus.ec/book/index.php?md5=23331EDF5156009692BC8C64FF03D21D)
+    * [Organic Chemistry as a Second Language: Second Semester Topics 4th, Klein](http://gen.lib.rus.ec/book/index.php?md5=68400BB7683B85CD73C387A8F85596FF)
+    * [Organic Chemistry 10th Solomons, Fryhle](http://gen.lib.rus.ec/book/index.php?md5=DFC5BBC26536B01729022DD2747A4EFD)
+    * [Organic Chemistry I as a Second Language: Translating the Basic Concepts 2nd, David Klein](http://gen.lib.rus.ec/book/index.php?md5=B8267873DDBCC313D76528F02B29F9DD)
+    * [Organic Chemistry Study Guide & Solutions Manual 10th Solomons, Fryhle](http://gen.lib.rus.ec/book/index.php?md5=BF079E859ED2D7DEE364B9F8909853C5)
+    * [Organic Chemistry 6th Loudon Parise](http://gen.lib.rus.ec/book/index.php?md5=4BCDB773880720B865F6B65E05879F93)
 * 331/332
-    * [Organic Chemistry 2nd, Clayden](https://mega.nz/#!iawwnQKI!XTbOgrvEhxr6r5qe5YFOXnI7fxrBYgzqzRzFVkTBnsk)
+    * [Organic Chemistry 2nd, Clayden](http://gen.lib.rus.ec/book/index.php?md5=082DE1A3391046E6FA867B499DCC74FB)
+    * [Organic Chemistry 2nd Solutions Manual, Clayden](http://gen.lib.rus.ec/book/index.php?md5=F87F4481D3B3322D2DB958C18ADBEB38)
 
 <a name="CSE"></a>
 ### CSE
