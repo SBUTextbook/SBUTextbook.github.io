@@ -113,9 +113,12 @@ Last edited: August 30, 2019
 <a name="BME"></a>
 ### BME
 * 271
-    * [Electric Circuits 10th, Nilsson Riedel](http://download.library1.org/main/1567000/41737b78d464862b9e78d7d2a8d9ad67/James%20W.%20Nilsson%2C%20Susan%20Riedel-Electric%20Circuits%20%2810th%20Edition%29-Prentice%20Hall%20%282014%29.pdf)
+    * [Electric Circuits 11th, Nilsson Riedel](http://gen.lib.rus.ec/book/index.php?md5=427C7698951D1602D02934669C6AF2FE)
+    * [Electric Circuits 11th Solutions Manual, Nilsson Riedel](http://gen.lib.rus.ec/book/index.php?md5=84B6FC923E6D97B9BBB1D287EF4C009A)
+    * [Electric Circuits 10th, Nilsson Riedel](http://gen.lib.rus.ec/book/index.php?md5=03056790A74181D7794410D104EB40DA)
+    * [Electric Circuits 10th Solutions Manual, Nilsson Riedel](http://gen.lib.rus.ec/book/index.php?md5=87D143AFB7721C649CA9D0312CFBFDAB)
 * 304
-    * [An Introduction to Genetic Engineering 3rd Edition, Nicholl](https://mega.nz/#!HfRGRS4b!8ZzPCg2JO6ubqIZKgnUHmw_g26jlVo34bLMdG_yX7Uo)
+    * [An Introduction to Genetic Engineering 3rd Edition, Nicholl](http://gen.lib.rus.ec/book/index.php?md5=A561931D8648FC0C4A405A4F596A5AFF)
 
 <a name="BUS"></a>
 ### BUS
