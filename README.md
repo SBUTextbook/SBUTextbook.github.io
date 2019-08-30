@@ -108,7 +108,7 @@ Last edited: August 30, 2019
 * 334
     * [Vertebrate Life 9th Pough](http://gen.lib.rus.ec/book/index.php?md5=EDCF7C559BEA9631E680402EA6E8D5FA)
 * 361
-    * [Principles of Biochemistry, Leningher](https://mega.nz/#!SCB20KpK!-JJYwEKNtb7jc08OW0b3Qjjon3KPU5TJG2SNltBAbWg)
+    * [Principles of Biochemistry, Leningher](https://libgen.is/book/index.php?md5=E35F327FB10EA963A32DB60884469682&open=0)
 
 <a name="BME"></a>
 ### BME
@@ -172,29 +172,25 @@ http://gen.lib.rus.ec/book/index.php?md5=13994D66759FDC775E7EA8AAE33FA2DA)
 * 150
     * [Mathematics for Computer Science '10 Lehman Leighton Meyer](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)
 * 160
-    * [Objects First with Java 5th Barnes Kolling](https://mega.nz/#!Nw9XVIDa!Jwj8f_BVwvm5War78-ZOWQ_9t8bO3z5XHcJNjhzhMl8)
+    * [Objects First with Java 5th Barnes Kolling](http://gen.lib.rus.ec/book/index.php?md5=498C64280E5C8E35668728CFBF5C6909)
 * 214
-    * [Data Structures and Other Objects using Java 4th Main](https://mega.nz/#!FtkQyIgK!-JsY7Lj7oled61DHqsr3G7talnKSUTCu3P4I9pzX6O4)
+    * [Data Structures and Other Objects using Java 4th Main](http://gen.lib.rus.ec/book/index.php?md5=140AE495671E5C308AD4FF5BC2BA82E1)
 * 215
     * [Discrete Mathematics: An Introduction to Mathematical Reasoning - Brief '11 Susanna Epp](
-https://mega.nz/#!rXBm0Kyb!f615mIf2pVwmFihgXsAHyjGsTUi6UVdoN0DiW7EwTcU)
-    * [Discrete Mathematics with Applications - Comprehensive '11 Susanna Epp](http://download.library1.org/main/741000/4c814d19909a7168cf62dfcb410f5960/Susanna%20S.%20Epp-Discrete%20Mathematics%20with%20Applications%2C%204th%20Edition%20%20-Brooks%20Cole%20%282010%29.pdf)
+http://gen.lib.rus.ec/book/index.php?md5=70B4EABCBA5E062B34724DB463DD9A41)
+    * [Discrete Mathematics with Applications - Comprehensive 5th Susanna Epp](http://gen.lib.rus.ec/book/index.php?md5=C9C77A6273584214855A3813301DFE61)
+    * [Discrete Mathematics with Applications - Comprehensive 4th Susanna Epp](http://gen.lib.rus.ec/book/index.php?md5=CEEC8850ABF1ED299C73E80863405164)
 * 216
-    * [Programming Language Pragmatics 4th, Scott](http://lib1.org/_ads/9006E3C672726689767509B65C889202)
-* 219
-    * [Midterm Study Guide](https://mega.nz/#!15ljlIJJ!B7ynXY2QpD11eNTpDls5qNIQf4atKC8Ff0HT-rwwqoY
-)
-    * [Head First Object Oriented Analysis & Design 2006 McLaughlin, Pollice, West](https://mega.nz/#!ZsMyRTbZ!5K_ZiJcAXnLYU-q8zVBloM31mcYXYJiyd21H6Ye-U1I)
-    * [Head First Design Patterns 2004 Freeman, Freeman, Sierra, Bates](https://mega.nz/#!lkdghBYA!vRFbDHPS-SW7S7WK6xI1nqkp_sYTxfzzFoZN_cSfmFc)
+    * [Programming Language Pragmatics 4th, Scott](http://gen.lib.rus.ec/book/index.php?md5=4BAB4F05252CCC37ECD2993F5F00E0F4)
 * 220
-    * [Digital Design and Computer Architecture 2nd Harris, Harris](https://mega.nz/#!w9cXhYKC!KCd_PYmkKZgrAdf4IzDkO4o_957zH6Do1h6OT9pImIM)
+    * [Digital Design and Computer Architecture 2nd Harris, Harris](http://gen.lib.rus.ec/book/index.php?md5=A0759FE57A183C40967F5C563082581D)
 * 260
-    * [Object Oriented Design & Patterns 2nd Horstmann](https://mega.nz/#!N9MjgDhD!sOnvLcyxg7Jcru5cKO6lyftuRy8EWB5YZhfhFUYQZks)
+    * [Object Oriented Design & Patterns 2nd Horstmann](http://gen.lib.rus.ec/book/index.php?md5=AD5BC51372AAB562698D4610B3A53C57)
 * 300
-    * [Technical Communication 11th, Markel](https://mega.nz/#!SO422QJQ!vmBqPvzE1XdMMKKxztNso5VLlbwdCK63E8Lj4BwL84E)
+    * [Technical Communication 11th, Markel](http://gen.lib.rus.ec/book/index.php?md5=35000339DF4C8226CA81E7960184E911)
 * 303
-    * [Elements of the Theory of Computation 2nd Lewis](https://mega.nz/#!t99XDajZ!Dze6ATuX22eDxnwyN95bEnkNxg5BlLmpq_w7qL1BIL8)
-    * [Introduction to the Theory of Computation 3rd Lewis](https://mega.nz/#!k8dSzaKC!HWEFx28zEVeNkowfgZZvhTGyiQ_YURsB-lL3K3iB6UI)
+    * [Elements of the Theory of Computation 2nd Lewis](http://gen.lib.rus.ec/book/index.php?md5=9FEFB4BD34BD272768E7D409D66C582E)
+    * [Introduction to the Theory of Computation 3rd Sipser](http://gen.lib.rus.ec/book/index.php?md5=83B32C22675567F3E22C93BD6BD372BE)
 * 304/504
     * [Engineering a Compiler 2nd Cooper, Torczon](https://mega.nz/#!m4AzQIAR!tHDTmPBUBlgGesfg2roDK-eKOEBt6FB38SAVftSUT-0)
 * 305
