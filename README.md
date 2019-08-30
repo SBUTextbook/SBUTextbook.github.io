@@ -102,7 +102,7 @@ Last edited: August 30, 2019
 * 314
     * [The Biology of Cancer 2nd, Weinberg](http://gen.lib.rus.ec/book/index.php?md5=5EEDF7AEE5921695902FC9AB57124CA7)
 * 320
-    * [Genetics: From Genes to Genomes 6th, Hartwell Goldberg Fischer Hood ](http://gen.lib.rus.ec/book/index.php? md5=B02665C6CE0308C519BC5CA8CBBD02F0)
+    * [Genetics: From Genes to Genomes 6th, Hartwell Goldberg Fischer Hood](http://gen.lib.rus.ec/book/index.php?md5=B02665C6CE0308C519BC5CA8CBBD02F0)
 * 325
     * [Developmental Biology 11th Gilbert Barresi](http://gen.lib.rus.ec/book/index.php?md5=C69432A6F67E499EAEA07C43C84C937D)
 * 334
