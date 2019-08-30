@@ -359,7 +359,7 @@ aka the "CLRS book"
 * 123
     * [Precalculus 10th, Sullivan](https://mega.nz/#!vDAmlYQZ!mqSCE_H7K71860hknzYcrY0sgKOycaQmv3L17KonHYQ)
 * 125-132
-    * [Single Variable Calculus 4th James Stewart](http://download.library1.org/main/772000/c7199fc5ab20a0b9a052c710400a0bd4/James%20Stewart-Calculus_%20Concepts%20and%20Contexts%2C%204th%20Edition%20%20-Cengage%20Learning%20%282010%29.pdf)
+    * [Single Variable Calculus 4th James Stewart](* [Single Variable Calculus 4th James Stewart](https://libgen.is/book/index.php?md5=34E9D4E3E749703986409B4E29EB770F)
 * 200
     * [An Introduction to Mathematical Reasoning Part I '07 Eccles](http://www.maths.manchester.ac.uk/~nige/IMRpartI.pdf)
     * [An Introduction to Mathematical Reasoning Part II '07 Eccles](http://www.maths.manchester.ac.uk/~nige/partII.pdf)
