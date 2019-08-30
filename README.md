@@ -123,10 +123,11 @@ Last edited: August 30, 2019
 <a name="BUS"></a>
 ### BUS
 * 340
-    * [Essentials of MIS 12th Edition, Kenneth C. Laudon & Jane P. Laudon](https://mega.nz/#!HLRX0KYB!_zQ2Xw9fwW5VCTh9Wdr6NXJbEFw6hdS6K4MaBesw1eo)
-    * [Information Systems: A Manager’s Guide to Harnessing Technology, John Gallaugher](http://lib1.org/_ads/DF5F4E7A7D2DE1F41DB4FD4E0370CFDD)
+    * [Essentials of MIS 12th Edition, Kenneth C. Laudon & Jane P. Laudon](http://gen.lib.rus.ec/book/index.php?md5=C9AF46E1F4DA2954891C65D8C09A045A)
+    * [Information Systems: A Manager’s Guide to Harnessing Technology Version 7.0, John Gallaugher](http://gen.lib.rus.ec/book/index.php?md5=0127C8200775FC5541FED889B55F655F)
+    * [Information Systems: A Manager’s Guide to Harnessing Technology Version 6.0, John Gallaugher](http://gen.lib.rus.ec/book/index.php?md5=A4A25B3C5B8E7B21C0B77C0B9E2808A2)
 * 348
-    * [Marketing Management, Millenium Edition Kotler](https://mega.nz/#!cwVBmDIR!vg_uvcBqSV9tYwQ8L6a0-FOW1-2i7uaOhGhWcgNnoE8)
+    * [Marketing Management, Millenium Edition Kotler](http://gen.lib.rus.ec/book/index.php?md5=B88E878198CBC8F7BE71FB0DD76139EB)
 
 <a name="CCS"></a>
 ### CCS
