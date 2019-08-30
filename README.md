@@ -159,14 +159,16 @@ Last edited: August 30, 2019
 ### CSE
 
 * 101
-    * [Explorations in Computing: An Introduction to Computer Science and Python Programming, Conery](https://mega.nz/#!aXxgSQpS!IDfBePadiaP_7HTFhUaf-5dT6L3rKtpQn3iyASjqKpw)
+    * [Explorations in Computing: An Introduction to Computer Science and Python Programming, Conery](http://gen.lib.rus.ec/book/index.php?md5=D53A9F0BF4255896D34E2D3F761763FB)
+    * [Explorations in Computing: An Introduction to Computer Science 1st, Conery](http://gen.lib.rus.ec/book/index.php?md5=5F702406AA3006FBA5007082A4349704)
 * 102
     * [Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics
-4th edition, Niederst Robbins](https://mega.nz/#!qWAXWYKa!GCfJmJVg-sGC3CJXIPGxdfl0b4pN4EbJ8MC0YvwyS80)
+4th edition, Niederst Robbins](http://gen.lib.rus.ec/book/index.php?md5=C114E65558C2022F64F6536E118D1673)
 * 114
     * [Introduction to Java Programming - Brief 9th Liang](
-https://mega.nz/#!XfJAxYRS!LLawuOvCsflbUi0IfsakUe5uJv04SRwESgLzMkXyBNA)
-    * [Introduction to Java Programming - Comprehensive 10th Liang](https://mega.nz/#!LCZkRCIC!2-uqwTjn-7nBpBHZuFDZv7NJc0LaPx6JSLJAWViTGrw)
+http://gen.lib.rus.ec/book/index.php?md5=13994D66759FDC775E7EA8AAE33FA2DA)
+    * [Introduction to Java Programming - Comprehensive 10th Liang](http://gen.lib.rus.ec/book/index.php?md5=537EB55955944CB65931AF1C04C95D8A)
+    * [Introduction to Java Programming - Comprehensive 11th Liang](http://gen.lib.rus.ec/book/index.php?md5=4D957409C7894A5FF61A3D2D6804917E)
 * 150
     * [Mathematics for Computer Science '10 Lehman Leighton Meyer](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)
 * 160
