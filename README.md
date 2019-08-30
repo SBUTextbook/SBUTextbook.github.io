@@ -364,8 +364,8 @@ aka the "CLRS book"
     * [An Introduction to Mathematical Reasoning Part I '07 Eccles](http://www.maths.manchester.ac.uk/~nige/IMRpartI.pdf)
     * [An Introduction to Mathematical Reasoning Part II '07 Eccles](http://www.maths.manchester.ac.uk/~nige/partII.pdf)
 * 203
-    * [Calculus 11th Ron Larson, Bruce H Edwards](http://download.library1.org/main/2162000/84b31aa08ed64122781ed8c41ba94670/Ron%20Larson%2C%20Bruce%20Edwards-Calculus-Cengage%20Learning%20%282017%29.pdf)
-    * [Multivariable Calculus 10th Ron Larson, Bruce H Edwards](http://download.library1.org/main/2275000/951ec64140e115cc2f8f69ffa2452334/Ron%20Larson%2C%20Bruce%20Edwards-Multivariable%20Calculus.pdf)
+    * [Multivariable Calculus 10th Ron Larson, Bruce H Edwards](https://libgen.is/book/index.php?md5=951EC64140E115CC2F8F69FFA2452334)
+    * [Calculus 11th Ron Larson, Bruce H Edwards](https://libgen.is/book/index.php?md5=5426DABC9E64E34EDBA829013AA294AB)
 * 211
     * [Linear Algebra with Applications 5th Bretcher](https://mega.nz/#!d9cmlDib!EpyeBKaLi7oaGcT05EUZhiupq8lox0jSz9lJdYm5Xuw)
 * 303
