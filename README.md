@@ -416,11 +416,11 @@ aka the "CLRS book"
 ### PHY
 
 * 121/122
-    * [College Physics A Strategic Approach 3rd Randall Knight](http://download.library1.org/main/1307000/6d7373b87f7fc4ad120f8694d5770f3b/Randall%20D.%20Knight%2C%20Brian%20Jones%2C%20Stuart%20Field-College%20Physics_%20A%20Strategic%20Approach-Addison-Wesley%20%282014%29.pdf)
+    * [College Physics A Strategic Approach 3rd Randall Knight](http://gen.lib.rus.ec/book/index.php?md5=6D7373B87F7FC4AD120F8694D5770F3B)
 * 126/131/132
-    * [Physics for Scientists and Engineers 1st, Katz](https://mega.nz/#!OOYCTKDa!JwVBvA8T0_hlmVpfskFktGX0leQmPWQvTeJSYxnuPoM)
-    * [Physics for Scientists and Engineers with Modern Physics 4th Giancoli](http://download.library1.org/main/790000/41ba69f943c67672bc5bbed161a30a83/Douglas%20C.%20Giancoli-Physics%20for%20Scientists%20%26%20Engineers%20with%20Modern%20Physics-Addison-Wesley%20%282008%29.pdf)
-    * [Physics for Scientists and Engineers with Modern Physics Solutions Manual 4th Giancoli](http://download.library1.org/main/906000/75af6ffda47e1bad5c5fb5d0da57431e/Giancoli%2C%20Douglas%20C-Solutions%20Manual%20for%20Physics%20for%20Scientists%20%26%20Engineers%20with%20Modern%20Physics-Addison-Wesley%20%282009%29.pdf)
+    * [Physics for Scientists and Engineers 1st, Katz](http://gen.lib.rus.ec/book/index.php?md5=01AE26237ED6462A003DE9C859DB3938)
+    * [Physics for Scientists and Engineers with Modern Physics 4th Giancoli](http://gen.lib.rus.ec/book/index.php?md5=41BA69F943C67672BC5BBED161A30A83)
+    * [Physics for Scientists and Engineers with Modern Physics Solutions Manual 4th Giancoli](http://gen.lib.rus.ec/book/index.php?md5=4860D43B3EF700957845F36C961390F1)
 * 251
     * [Data Analysis for Physical Science Students '91 Lyons](http://lib1.org/_ads/533698690129E945FFB70DDED99C8FD8)
     * [Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles 2nd Eisberg Resnick](http://download.library1.org/main/562000/23ecb76d738eaeb66e6853f0d6ef8fc3/Robert%20Eisberg%2C%20Robert%20Resnick-Quantum%20Physics%20of%20Atoms%2C%20Molecules%2C%20Solids%2C%20Nuclei%2C%20and%20Particles-Wiley%20%281985%29.pdf)
