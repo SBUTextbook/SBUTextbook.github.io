@@ -1,5 +1,5 @@
-Last edited: August 21, 2019
-# Update 8/21: Links for all AMS classes updated, working on the rest.
+Last edited: August 30, 2019
+# Update 8/30: Should hopefully have the rest fixed tonight.
 
 ## Hello
 * This is a crowd-sourced list of links to free PDFs of textbooks for various courses at SBU. This page is updated whenever a new PDF is found, especially around the start of each semester. 
