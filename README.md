@@ -392,7 +392,7 @@ aka the "CLRS book"
     * [Linear Algebra 4th Friedberg, Insel, and Spence](https://mega.nz/#!x8pDRA5L!Z44kZK2FvQhB5ksJNbROvIR8Y664Ca7N76TDhbzFNjQ)
     * [Linear Algebra Done Right 3rd edition, Axler](https://mega.nz/#!zTIUUQDB!iEeeQ0AM1jqseKI-FAecYCn2mvhED79_WQLTxm_oOok)
 * 319
-    * [Elementary Analysis: The Theory of Calculus 2nd, Ross](https://mega.nz/#!yG4BnJoT!uAB7I3T0qMTWi_M5OXeZYrnBv86iW_g7db_QdpCOjE4)
+    * [Elementary Analysis: The Theory of Calculus 2nd, Ross](http://gen.lib.rus.ec/book/index.php?md5=86DDB2D104E2932F86C03A6484F0F944)
 * 322
     * [Analysis on Manifolds, Munkres](https://mega.nz/#!aGw00YYR!HgYbJIS-CIvui5QrqsJb9UuP4oePnyBtT6jL-4SeUI8)
 * 342
