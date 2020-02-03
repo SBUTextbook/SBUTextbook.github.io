@@ -352,6 +352,8 @@ aka the "CLRS book"
 * 102
     * [Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics
 4th edition, Niederst Robbins](https://mega.nz/#!qWAXWYKa!GCfJmJVg-sGC3CJXIPGxdfl0b4pN4EbJ8MC0YvwyS80)
+* 218
+    * [Essentials of Computer Organization and Architecture 5th, Null](http://gen.lib.rus.ec/book/index.php?md5=A8A9A8C6AD6F84518B8CC417D0B0BC7E)
 * 312
     * [The Gift of Fire 4th Baase](https://mega.nz/#!VpNzGJQT!vwYWduKRNIBk5EGhH8P_mM1XpV6IGAZpmJ4XdAGgsWg)
 * 323
