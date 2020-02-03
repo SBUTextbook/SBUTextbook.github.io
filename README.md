@@ -1,3 +1,20 @@
+Last edited: February 3, 2020
+
+## Hello
+* This is a crowd-sourced list of links to free PDFs of textbooks for various courses at SBU. This page is updated whenever a new PDF is found, especially around the start of each semester. 
+* If this page does not contain the book you need, [Library Genesis](http://gen.lib.rus.ec) is always a good way to find books. If you do find a book for a class not listed here, remember to submit it with the link below.
+* If this page is ever deleted, [check for posts by /u/SBUTextbooks on Reddit](https://www.reddit.com/user/SBUTextbooks/submitted/) where the new URL will be posted
+* #### **Please contribute!** If you have a textbook that isn't listed here, please consider submitting it. The preferred method is to use <a href="https://form.jotform.com/82298286578274">this form</a> to submit it. If the main form is out of space, please use <a href="https://form.jotform.com/90274119831153">this alternate one</a>. If both are full, you can always email the pdf to stonybrook.textbooks@gmail.com or send a link to it to u/SBUTextbooks on Reddit.
+* If you notice that a download isn't working, please email or send a PM on Reddit.
+<!--If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here](contributing) for instructions.-->
+
+**Note: if the link brings you to a Library Genesis page, just click "GET" to download the pdf.**
+## Jump to subject 
+
+[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BME](#BME) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HAN](#HAN) \| [HIS](#HIS) \| [HON](#HON) \| [ISE](#ISE) \| [JRN](#JRN) \| [LIN](#LIN) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHI](#PHI) \| [PHY](#PHY) \| [POL](#POL) \| [PSY](#PSY) \| [SOC](#SOC) \| [THR](#THR) \| [WRT](#WRT)
+
+## The Links
+
 <a name="AMS"></a>
 ### AMS
 
@@ -490,3 +507,5 @@ http://download.library1.org/main/1195000/89ee5553ac7f0b543d8d795a312f1555/Richa
     * [The Bedford Reader 12th Edition X. J. Kennedy, Dorothy M. Kennedy, Jane E. Aaron, Ellen Kuhl Repetto](https://mega.nz/#!Hb4FHJwR!DOEZRg8kWwn8gk9sf2dsA_1ziQPHPLtJ6A1bxB630sY)
 * 102
     * [Critical Thinking, Reading, and Writing A Brief Guide to Argument - Sylvan Barnet, Hugo Bedau](https://mega.nz/#!bSxH0ZBA!82RTJY-nBqav8IF1qbHMrNd2L-GE5Z1XpTxI4CVDQHk)
+
+
