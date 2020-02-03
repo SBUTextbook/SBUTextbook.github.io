@@ -105,6 +105,7 @@ Last edited: February 3, 2020
 * 203
     * [Human Physiology: An Integrated Approach 6th Silverthorn](http://gen.lib.rus.ec/book/index.php?md5=44E10EFC4282A70197D5BCB6870F74E4)
     * [Human Physiology: An Integrated Approach 7th Silverthorn](http://gen.lib.rus.ec/book/index.php?md5=822B80D628E29C08689F8C01D5C037F8)
+    * [Human Physiology: An Integrated Approach 8th Silverthorn](https://drive.google.com/a/stonybrook.edu/file/d/1GrlSRfVDbQ5XIt7FCzpM47TNyM5b1X_b/view?usp=drive_web)
 * 205
     * [Handbook of Photosynthesis 2nd Pessarakli](http://gen.lib.rus.ec/book/index.php?md5=F64BFCF4A284F016EEB750B2D9D74727)
 * 314
@@ -302,7 +303,7 @@ aka the "CLRS book"
     * [Game Design Workshop: A Playcentric Approach to Creating Innovative Games 4th, Fullerton & Tracy](http://gen.lib.rus.ec/book/index.php?md5=62F872B1F40A53579536435C770DAD2F)
     * [Game Design Workshop: A Playcentric Approach to Creating Innovative Games 3rd, Fullerton & Tracy](http://gen.lib.rus.ec/book/index.php?md5=DBF357BD485DF635C2C2B6D756978A88)
 * 320
-    * [Principles of Computer Networks and Communications, Dumas Schwartz](https://mega.nz/#!XSpgSaQA!AASXSJfgI7AJxLhBT4oinCkr6X4imRu5V0E7Q4TGuV8)
+    * [Principles of Computer Networks and Communications, Dumas Schwartz](https://mega.nz/#!XSpgSaQA!AASXSJfgI7AJxLhBT4oinCkr6X4imRu5V0E7Q4TGuV8) <!-- BROKEN -->
 * 323
     * [Designing for Interaction: Creating Innovative Applications and Devices, Saffer](http://gen.lib.rus.ec/book/index.php?md5=C0556CB6A8DEFA27335A537849B6AC25)
 * 326
