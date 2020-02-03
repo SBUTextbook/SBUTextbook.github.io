@@ -473,9 +473,8 @@ aka the "CLRS book"
 ### PSY
 
 * 103
-    * [Psychology and Life 20th Richard Gerrig](
-http://download.library1.org/main/1195000/89ee5553ac7f0b543d8d795a312f1555/Richard%20J.%20Gerrig-Psychology%20and%20Life-Pearson%20%282012%29.pdf)
-    * [Introduction to Psychology 11th, Kalat](https://mega.nz/#!yWoRAKDI!_bquKJkUILUuF3lyJSApsbk4iGIjEO4Wf5Acv2f_CB0)
+    * [Psychology and Life 20th Richard Gerrig](http://gen.lib.rus.ec/book/index.php?md5=89EE5553AC7F0B543D8D795A312F1555)
+    * [Introduction to Psychology 11th, Kalat](http://gen.lib.rus.ec/book/index.php?md5=7D55A91608344D2C62D50BD384B6798B)
 * 201
     * [Statistics for Psychology 6th Aron, Coups, Aron](https://mega.nz/#!0okHTaSL!uNukKWZVz6nfrKgD3WKKrvnGtl-7ZwXsZXXqddM0bSQ)
     * [Statistics for the Behavioral Sciences 9th, Gravetter & Wallnau](http://gen.lib.rus.ec/book/index.php?md5=D98E8466A95536378E1057816DD8F6AD)
