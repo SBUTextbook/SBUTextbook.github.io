@@ -1,21 +1,3 @@
-Last edited: August 30, 2019
-# Update 8/30: Should hopefully have the rest fixed tonight.
-
-## Hello
-* This is a crowd-sourced list of links to free PDFs of textbooks for various courses at SBU. This page is updated whenever a new PDF is found, especially around the start of each semester. 
-* If this page does not contain the book you need, [Library Genesis](http://gen.lib.rus.ec) is always a good way to find books. If you do find a book for a class not listed here, remember to submit it with the link below.
-* If this page is ever deleted, [check for posts by /u/SBUTextbooks on Reddit](https://www.reddit.com/user/SBUTextbooks/submitted/) where the new URL will be posted
-* #### **Please contribute!** If you have a textbook that isn't listed here, please consider submitting it. The preferred method is to use <a href="https://form.jotform.com/82298286578274">this form</a> to submit it. If the main form is out of space, please use <a href="https://form.jotform.com/90274119831153">this alternate one</a>. If both are full, you can always email the pdf to stonybrook.textbooks@gmail.com or send a link to it to u/SBUTextbooks on Reddit.
-* If you notice that a download isn't working, please email or send a PM on Reddit.
-<!--If you have a digital copy of a textbook not listed here, a solutions manual, or a comprehensive study guide, please submit it! See [here](contributing) for instructions.-->
-
-**Note: if the link brings you to a Library Genesis page, just click "GET" to download the pdf.**
-## Jump to subject 
-
-[AMS](#AMS) \| [ANT](#ANT) \| [ARH](#ARH) \| [AST](#AST) \| [ATM](#ATM) \| [BIO](#BIO) \| [BME](#BME) \| [BUS](#BUS) \| [CCS](#CCS) \| [CHE](#CHE) \| [CSE](#CSE) \| [ESE](#ESE) \| [EST](#EST) \| [GEO](#GEO) \| [HAN](#HAN) \| [HIS](#HIS) \| [HON](#HON) \| [ISE](#ISE) \| [JRN](#JRN) \| [LIN](#LIN) \| [MAT](#MAT) \| [MEC](#MEC) \| [MUS](#MUS) \| [PHI](#PHI) \| [PHY](#PHY) \| [POL](#POL) \| [PSY](#PSY) \| [SOC](#SOC) \| [THR](#THR) \| [WRT](#WRT)
-
-## The Links
-
 <a name="AMS"></a>
 ### AMS
 
@@ -24,7 +6,8 @@ Last edited: August 30, 2019
 * 151/161
     * [Single Variable Calculus 4th James Stewart](https://libgen.is/book/index.php?md5=34E9D4E3E749703986409B4E29EB770F)
 * 210
-    * [Introduction to Linear Algebra: Models, Methods and Theory, Alan Tucker](https://commons.library.stonybrook.edu/ams-books/1/) 
+    * [A Unified Introduction to Linear Algebra: Models, Methods, and Theory, Alan Tucker](http://gen.lib.rus.ec/book/index.php?md5=B7DD7C83E18E9543D5312E372904E9BE)
+    * [Introduction to Linear Algebra: Models, Methods and Theory, Alan Tucker](https://commons.library.stonybrook.edu/ams-books/1/)
 * 261
     * [Multivariable Calculus 10th Ron Larson, Bruce H Edwards](https://libgen.is/book/index.php?md5=951EC64140E115CC2F8F69FFA2452334)
     * [Calculus 11th Ron Larson, Bruce H Edwards](https://libgen.is/book/index.php?md5=5426DABC9E64E34EDBA829013AA294AB)
@@ -54,14 +37,21 @@ Last edited: August 30, 2019
 * 361
     * [Lectures, Problems, and Solutions for Ordinary Differential Equations 2nd, Deng](https://libgen.is/book/index.php?md5=65B11190B9E505B6D4B4B7AEB2C4B3AD)
     * [Elementary Differential Equations 6th, Edwards Penney](https://libgen.is/book/index.php?md5=46D5266437EB11A3B4A2C4C84EA2FACE)
+* 394
+    * [Introductory Statistics with R 2nd, Peter Dalgaard](http://gen.lib.rus.ec/book/index.php?md5=9DD59E6C25D19581A5AA860D2CCFBB17)
+    * [Applied Statistics and the SAS Programming Language 5th, Ron P. Cody, Jeffrey K. Smith](http://gen.lib.rus.ec/book/index.php?md5=1A4EF3FEF748FC64B8E0C0FC5BF2CA99)
+* 412
+    * [Mathematical Statistics with Applications in R 2nd, Ramachandran & Tsokos](http://gen.lib.rus.ec/book/index.php?md5=A8428AC001DDE41408DA46AFDF548BB1)
 
 <a name="ANT"></a>
 ### ANT
 
 * 102
-    * [The Cocktail Waitress 1975 Spradley, Mann](https://libgen.is/book/index.php?md5=AD7386BA3B81B8B70C421E37D730A4C6)
-    * [The Netsilik Eskimo 1970 Balikci](https://mega.nz/#!21JyRB7I!nu835_2BQpbpHCq9DlxVpSRviuCgssFiGHY9NbJxSbk)
-    * [Tetum Ghosts and Kin 2nd Hicks](https://mega.nz/#!3lpyxZ5Z!qoa1y2PL7eMzf7FvkzeQpOAVRB2aQfgN-VIfLIitua4)
+    * [The Cocktail Waitress (1988), Spradley, Mann](https://libgen.is/book/index.php?md5=AD7386BA3B81B8B70C421E37D730A4C6)
+    * [The Cocktail Waitress (1975/reissued in 2008), Spradley, Mann](https://libgen.is/book/index.php?md5=0ebaaac494cdf9e6b62f21a72cef3b11)
+    * [The Netsilik Eskimo 1970 Balikci](https://libgen.is/book/index.php?md5=457a052fda3edadd8bcdd2aec99ee4a0)
+    * [Tetum Ghosts and Kin Reprinted Hicks](https://libgen.is/book/index.php?md5=6399a2f46d9412d497f01f5730419990)
+    * [Tetum Ghosts and Kin 2nd Edition Hicks](https://libgen.is/book/index.php?md5=6399a2f46d9412d497f01f5730419990)
 
 <a name="ARH"></a>
 ### ARH
@@ -79,14 +69,15 @@ Last edited: August 30, 2019
     * [Astronomy A Physical Perspective 2nd Kutner](https://libgen.is/book/index.php?md5=ECBF7E6EF82D8A16FFCF1119E130401D)
 * 248
     * [Life in the Universe 3rd ed, Bennett Shostak](https://libgen.is/book/index.php?md5=2D0FF6854E7D115F4233C21FE4A4EC58)
-    
+
 <a name="ATM"></a>
 ### ATM
 
 * 103
-    * [Extreme Weather & Climate, Ahrens Samson](http://download.library1.org/main/747000/6255ce303e8a8a37c9d0e0bd43327c4b/C.%20Donald%20Ahrens%2C%20Perry%20J.%20Samson-Extreme%20Weather%20and%20Climate%20%20-Brooks%20Cole%20%282010%29.pdf)
-    * [The Atmosphere: An Introduction to Meteorology 12th, Tarbuck Lutgens](https://mega.nz/#!iWgG2aiD!y2VWpTd-d0pUFOCHSBURVRDN6VQRmUgZ4CjsCcPMCZg)
-    
+    * [Extreme Weather & Climate, Ahrens Samson](http://gen.lib.rus.ec/book/index.php?md5=6255CE303E8A8A37C9D0E0BD43327C4B)
+    * [The Atmosphere: An Introduction to Meteorology 13th, Tarbuck Lutgens](http://gen.lib.rus.ec/book/index.php?md5=603CBB6127D04A0FE21F9CA1854AB382)
+    * [The Atmosphere: An Introduction to Meteorology 12th, Tarbuck Lutgens](http://gen.lib.rus.ec/book/index.php?md5=6E97ACA6FD16CA7599F2E54D1DC8960E)
+
 <a name="BIO"></a>
 ### BIO
 
@@ -139,7 +130,7 @@ Last edited: August 30, 2019
 ### CHE
 
 * 131/132
-    * [Chemistry: The Science in Context 5th, Gilbert Kirss Foster Bretz Davies](https://mega.nz/#!GehHwTCL!2ItLLd9Qhw__Q1NfyOl-qSjy1imqPCqGYZM3yt_PbtA)
+    * [Chemistry: The Science in Context 5th, Gilbert Kirss Foster Bretz Davies](https://mega.nz/#!GehHwTCL!2ItLLd9Qhw__Q1NfyOl-qSjy1imqPCqGYZM3yt_PbtA) <!--- BROKEN --->
     * [Chemistry the Molecular Nature 8th w/ Advanced Topics Silberberg](http://gen.lib.rus.ec/book/index.php?md5=A7DBB8DAFAAFDAF9275948634C688CD5)
     * [Chemistry the Molecular Nature 7th Silberberg](http://gen.lib.rus.ec/book/index.php?md5=D6DA1B1F75ED9A6BC0C88465FB8F4F83)
 * 312
@@ -208,10 +199,13 @@ http://gen.lib.rus.ec/book/index.php?md5=70B4EABCBA5E062B34724DB463DD9A41)
     * [UNIX and Linux System Administration Handbook 4th Nemeth, Snyder, Hein, Whaley](http://gen.lib.rus.ec/book/index.php?md5=030A94B7B76DE313A774E6D76165249C)
 * 312
     * [The Gift of Fire 4th Baase](http://gen.lib.rus.ec/book/index.php?md5=71C2DB67766221A9988E2BB4F1555DD1)
+* 316
+    * [Fullstack React: The Complete Guide to ReactJS and Friends, Accomazzo Lerner Murray Allsopp Guttman & McGinnis](http://gen.lib.rus.ec/book/index.php?md5=4266D31AA708D3E48FB1EA62933364F9)
 * 320
+    * [The C Programming Language 2nd, Kernighan & Ritchie ("K&R")](http://gen.lib.rus.ec/book/index.php?md5=C684BE9C0147B68596683222502675FB)
     * [Computer Systems: A Programmer's Perspective 2nd Bryant O'Hallaron](http://gen.lib.rus.ec/book/index.php?md5=A72A5F3225B52C3269544B18EA6B2FE0)
-    * [Computer Systems: A Programmer's Perspective 3rd Bryant O'Hallaron](http://gen.lib.rus.ec/book/index.php?md5=EBB9004FE72F0DA390BDEF45026B2786)  
-Note: 320 is taught using the third edition, but the pdf quality for the second edition is a lot better. You're encouraged to download both, using mainly the second edition but using the third when they differ.
+    * [Computer Systems: A Programmer's Perspective 3rd Bryant O'Hallaron](http://gen.lib.rus.ec/book/index.php?md5=EBB9004FE72F0DA390BDEF45026B2786)
+Note: 320 is taught using the third edition of Computer Systems: A Programmer's Perspective, but the pdf quality for the second edition is a lot better. You're encouraged to download both, using mainly the second edition but using the third when they differ.
 * 323
     * [Designing for Interaction: Creating Innovative Applications and Devices 2nd, Saffer](http://gen.lib.rus.ec/book/index.php?md5=C0556CB6A8DEFA27335A537849B6AC25)
 * 327
@@ -232,7 +226,7 @@ Note: 320 is taught using the third edition, but the pdf quality for the second 
     * [Discrete and Computational Geometry 2011 Devadoss, O'Rourke](http://gen.lib.rus.ec/book/index.php?md5=AAD60FE3783B29D487BBD261AC9E620E)
 * 373
     * [The Algorithm Design Manual 2nd Skiena](http://gen.lib.rus.ec/book/index.php?md5=E1C67D6CAE97AB4605F2431E8D7DB2FC)
-    * [Introduction to Algorithms 3rd Cormen, Leiserson, Rivest, Stein](http://gen.lib.rus.ec/book/index.php?md5=47214322FA81F9292AF442C9CAE67335)  
+    * [Introduction to Algorithms 3rd Cormen, Leiserson, Rivest, Stein](http://gen.lib.rus.ec/book/index.php?md5=47214322FA81F9292AF442C9CAE67335)
 aka the "CLRS book"
     * [Introduction to Algorithms 3rd Solutions Cormen, Leiserson, Rivest, Stein](http://gen.lib.rus.ec/book/index.php?md5=A534ADBA70D6CF1EF1139C71E9000681)
     * [Algorithm Design, Kleinberg & Tardos](http://gen.lib.rus.ec/book/index.php?md5=316F5AEC40BBA08FEFE2249F4A63617D)
@@ -250,63 +244,69 @@ aka the "CLRS book"
 ### ESE
 
 * 122
-    * [Discrete Mathematics with Applications 4th, Epp](http://lib1.org/_ads/84AAA3B663A81298EB307820077B0EF8)
+    * [Discrete Mathematics with Applications 4th, Epp](http://gen.lib.rus.ec/book/index.php?md5=84AAA3B663A81298EB307820077B0EF8)
+    * [Discrete Mathematics: An Introduction to Mathematical Reasoning - Brief '11 Susanna Epp](http://gen.lib.rus.ec/book/index.php?md5=70B4EABCBA5E062B34724DB463DD9A41)
 * 124
-    * [Programming in Objective-C 3rd Kochan](https://mega.nz/#!a9NCGIBS!5-uPLWvFCR2q0SXnzDBJDSCgUwT14EwHfqx2_VQsfaA)
+    * [Programming in Objective-C 3rd Kochan](http://gen.lib.rus.ec/book/index.php?md5=5FDE706C2403471710635B881CBB8AB4)
 * 218
-    * [Digital Design With An Introduction To The Verilog HDL 5th Mano Ciletti](https://mega.nz/#!OoMmhBSL!pXmYICD6aYApuQZkgWmZCzZKby_E6brwBQjoMDFtrrc)
+    * [Digital Design With An Introduction To The Verilog HDL 5th Mano Ciletti](http://gen.lib.rus.ec/book/index.php?md5=89343006D51511D096B73CB7D6FE4FC5)
 * 224
-    * [C++ Programming: From Problem Analysis to Program Design 8th, Malik](https://mega.nz/#!SeBERCyS!MmJ6sYtrxQml8Wi5KNODkQgL05e-mgXnvgplTyrxFjI)
+    * [C++ Programming: From Problem Analysis to Program Design 8th, Malik](http://gen.lib.rus.ec/book/index.php?md5=5A4880DB70EAE7EB10DC38BE7A81F23D)
 * 271
-    * [Fundamentals of Electric Circuits 4th Alexander Sadiku](https://mega.nz/#!j9dynbIQ!ItAkYJfu9xscF08NNfa3XTMjikJXCjswDhzi20XzJMk)
+    * [Fundamentals of Electric Circuits 4th Alexander Sadiku](http://gen.lib.rus.ec/book/index.php?md5=33AA3BCADBB7C35890F511B379C26486)
 * 301
-    * [Engineering Ethics 4th, Fleddermann](https://mega.nz/#!yKxnhCqb!WLV3g6Rvk_aMC5TbwsAsOkdkfHP43s-y-xMx3bWuBuI)
+    * [Engineering Ethics 4th, Fleddermann](http://gen.lib.rus.ec/book/index.php?md5=E6871278BDEDF0D02130462824894A73)
 * 305
-    * [Signals and Systems 2nd, Oppenheim Willsky Nawab](https://mega.nz/#!rC4T0IrJ!q7jjZsbk-_JdZFKGSbPs5_BahWDq5m3ZWlkz8_zT61s)
+    * [Signals and Systems 2nd, Oppenheim Willsky Nawab](http://gen.lib.rus.ec/book/index.php?md5=7F7AD99407402BBCE00103AFC50DBC22)
+    * [Signals and Systems 2nd Solutions Manual, Oppenheim Willsky Nawab](http://gen.lib.rus.ec/book/index.php?md5=359C36C2C7E98EE0836FCFBC4010034F)
 * 319
-    * [Fundamentals of Applied Electromagnetics 7th, Ulaby Ravaioli](https://mega.nz/#!CO4hkRCC!Vv5TYQljUbN7vRXFY3sEGLucfIeb7mf9EFFyjsUz9qE)
+    * [Fundamentals of Applied Electromagnetics 7th, Ulaby Ravaioli](http://gen.lib.rus.ec/book/index.php?md5=89DDD347546E665E444BF0C246BE611F)
+    * [Fundamentals of Applied Electromagnetics Solutions Manual, Ulaby Ravaioli](http://gen.lib.rus.ec/book/index.php?md5=5EAF99AC62A7BC048AC0D831408AABCE)
 * 330
-    * [Digital Integrated Circuits: A Design Perspective 2nd, Rabaey Chandrakasan Nikolic](https://mega.nz/#!yGJmCIpC!R4inProzzjZVmq0dOYLE6jfTc8YFoWnno2BDu2o3Fh4)
+    * [Digital Integrated Circuits: A Design Perspective 2nd, Rabaey Chandrakasan Nikolic](http://gen.lib.rus.ec/book/index.php?md5=F8FE75F3E197400603A6F7209DDF9501)
 * 340
-    * [Mobile Wireless Communications, Schwartz](https://mega.nz/#!ze4l1ADL!cKw6QTVRvM7t6OXVv5l2QZMzHtdw5VTCLv_ApPO39ZA)
+    * [Mobile Wireless Communications, Schwartz](http://gen.lib.rus.ec/book/index.php?md5=33EE81DC65C03AA2A8852569E1A337AC)
 * 350
-    * [Power System Analysis and Design 6th, Glover](https://mega.nz/#!KfpwgIoY!e009W3uuHd_vqCfmQmzH_e_h5UrC8DbR8sRXoNwk7Yc)
+    * [Power System Analysis and Design 6th, Glover](http://gen.lib.rus.ec/book/index.php?md5=550E6C05C85E8389446DC4FC2A2693A7)
 * 372
-    * [Microelectronic Circuits 7th, Sedra & Smith](https://mega.nz/#!3GRzVQoY!-g33MbCur-Ss6Cj3ka6mYLO3PYZcB4X6lHvXO2XhOa4)
+    * [Microelectronic Circuits 7th, Sedra & Smith](http://gen.lib.rus.ec/book/index.php?md5=78EBABA9EDD49CAB195FD40542BC7C58)
+    * [Microelectronic Circuits Solutions, Sedra & Smith](http://gen.lib.rus.ec/book/index.php?md5=12D37E6C9C49DB7BA3DF047045ABE9FF)
 * 382
-    * [VHDL For Engineers 1st Kenneth L. Short](https://mega.nz/#!f5NVBZjL!Bqrh-bTLhCYKo9p3hshtAGcpJ215XuGCnVJU-GPwqsk)
+    * [VHDL For Engineers 1st Kenneth L. Short](http://gen.lib.rus.ec/book/index.php?md5=6B6C69463E80CD246B492C36AB949BD5)
 * 545
-    * [Computer Architecture: A Quantitative Approach 5th Hennessy Patterson](https://mega.nz/#!2xoXCQaK!QKSUJSvYMZ6x4-KDjdFZLZtdvqXEuUQg1UDfTQOVoU8)
+    * [Computer Architecture: A Quantitative Approach 5th Hennessy Patterson](http://gen.lib.rus.ec/book/index.php?md5=B46E28FA5593D8B1526107449471C28A)
 * 555
-    * [Advanced VLSI Systems Design 1. CMOS VLSI Desgin 4th Weste Harris](https://mega.nz/#!yhw2kJKZ!Ch8JuyhsYmaA_fOlQthpa3GPuLHdLbDodoN1fNwuCNM)
-    
+    * [Advanced VLSI Systems Design 1. CMOS VLSI Desgin 4th Weste Harris](https://mega.nz/#!yhw2kJKZ!Ch8JuyhsYmaA_fOlQthpa3GPuLHdLbDodoN1fNwuCNM) <!-- BROKEN -->
+
 <a name="EST"></a>
 ### EST
 
 * 310
-    * [Game Design Workshop: A Playcentric Approach to Creating Innovative Games, Fullerton & Tracy](https://mega.nz/#!nXIRkKhD!IYckftCkxaA6xxHTrVqewKx9oFoaJjvufL84AsYkX-Q)
+    * [Game Design Workshop: A Playcentric Approach to Creating Innovative Games 4th, Fullerton & Tracy](http://gen.lib.rus.ec/book/index.php?md5=62F872B1F40A53579536435C770DAD2F)
+    * [Game Design Workshop: A Playcentric Approach to Creating Innovative Games 3rd, Fullerton & Tracy](http://gen.lib.rus.ec/book/index.php?md5=DBF357BD485DF635C2C2B6D756978A88)
 * 320
     * [Principles of Computer Networks and Communications, Dumas Schwartz](https://mega.nz/#!XSpgSaQA!AASXSJfgI7AJxLhBT4oinCkr6X4imRu5V0E7Q4TGuV8)
 * 323
-    * [Designing for Interaction: Creating Innovative Applications and Devices, Saffer](https://mega.nz/#!HTh3FbAI!sFrSQErDiWhUtk5OYqIdEglgzf51QF-BhaahE1Ig0tc)
+    * [Designing for Interaction: Creating Innovative Applications and Devices, Saffer](http://gen.lib.rus.ec/book/index.php?md5=C0556CB6A8DEFA27335A537849B6AC25)
 * 326
-    * [Modern Management: Concepts & Skills, Certo](https://mega.nz/#!rKIUzS6S!3hBO3ag3kU9eQIHAYuATKgJQgd0UFcuN4a_G8F4MYO4)
+    * [Modern Management: Concepts & Skills 14th, Certo](http://gen.lib.rus.ec/book/index.php?md5=36D2D57894088C6D704FE58857405D52)
 * 391
-    * [Technology in Context: Technology Assessment for Managers, Braun](https://mega.nz/#!aGZmgKZC!O12N76ha8q49EWpLkjnFyO5G5MkKL5Xsdg8ilmIptYA)
+    * [Technology in Context: Technology Assessment for Managers, Braun](http://gen.lib.rus.ec/book/index.php?md5=32DB097F88AADD804287CB8CEDD0CD8E)
 * 392
-    * [Engineering Economy 8th Edition, Blank and Tarquin](https://mega.nz/#!GP4UnAxT!RoXmC76uIgo56yH51bLqmKXy-OvabIA9_fAXsJyp3TI)
+    * [Engineering Economy 8th Edition, Blank and Tarquin](http://gen.lib.rus.ec/book/index.php?md5=7ECFFABD862939278C227C432D5B86DE)
+    * [Engineering Economy 8th Edition Solutions Manual, Blank and Tarquin](http://gen.lib.rus.ec/book/index.php?md5=DC5B696AA48C62EE29A0C3B90466D662)
 * 441
-    * [The Nature of Technology: What it is and How it Evolves, Arthur](https://mega.nz/#!7GJwTK5D!Gmi4GR9dFAxsdIVtQ6QJQCjHlo__KQLhbp9C6a4i-xk)
+    * [The Nature of Technology: What it is and How it Evolves, Arthur](http://gen.lib.rus.ec/book/index.php?md5=39656BB9218A1275AB51DC986DE4C72C)
 
 <a name="GEO"></a>
 ### GEO
 
 * 102
-    * [Essentials of Geology 4th, Marshak](https://mega.nz/#!bDJSiQJT!TccYhSS62sZRXie7wtairXkcgc2ClAb8R0SGOFanqkY)
-    * [Earth: An Introduction to Physical Geology 12th Tarbuck Lutgens](https://mega.nz/#!Jh9SWTxa!tVW4QVWuMpfYokvl5ITKtsJrKFbjBzdaM8HD55u-uw0)
+    * [Essentials of Geology 4th, Marshak](http://gen.lib.rus.ec/book/index.php?md5=B5D159F10E2E1149D6BB1C20DCBDD0C0)
+    * [Earth: An Introduction to Physical Geology 12th Tarbuck Lutgens](http://gen.lib.rus.ec/book/index.php?md5=171CD5FDF0120F7AB14DD916C983C1CC)
 * 103
-    * [Earth System History 3rd, Stanley](https://mega.nz/#!fDoV3J6T!tgxKyTP11zRBv_C0Clb37zXSKOolHodSkTrqS7Itw5k)
-    * [Historical Geology 8th, Wicander & Monroe](http://download.library1.org/main/2056000/1c97f246fee2f05d5af6b290b410570f/Monroe%2C%20James%20Stewart_%20Wicander%2C%20Reed-Historical%20geology-Cengage%20Learning%20%282016%29.pdf)
+    * [Earth System History 3rd, Stanley](http://gen.lib.rus.ec/book/index.php?md5=1D8C31547DD5F19445410F8B5FE5BD86)
+    * [Historical Geology 8th, Wicander & Monroe](http://gen.lib.rus.ec/book/index.php?md5=DB50598009B782CB7BDEBD3A9526D090)
 
 <a name="HAN"></a>
 ### HAN
@@ -318,8 +318,8 @@ aka the "CLRS book"
 ### HIS
 
 * 104
-    * [America: A Concise History Volumes I and II combined 4th Henretta, Brody](https://mega.nz/#!hxlnxKwD!V62Xc10x8tzAUFnvduKoGUYIN1kKu3uTSSRChnZiFGU)
-    
+    * [America: A Concise History Volumes I and II combined 4th Henretta, Brody](http://gen.lib.rus.ec/book/index.php?md5=D6B0B85DED06D4DDBEEE4F507D302858)
+
 <a name="HON"></a>
 ### HON
 
@@ -327,7 +327,7 @@ aka the "CLRS book"
     * [Rhetor Response: A Theory and Practice of Literary Affordance, Khost](https://mega.nz/#!aL5TxQya!aEuZvauaW235Y_6mUSEIPuqPFlP-Kt-wd0RuwlXNmW8)
 * 106
     * [Les Liaisons Dangereuses, De Laclos](https://mega.nz/#!afpRCCJK!5YcoHhtlhgmJoiNwU4XWUTNdX9_C7zXPNAJDOL1zBMM)
-    
+
 <a name="ISE"></a>
 ### ISE
 
@@ -339,14 +339,15 @@ aka the "CLRS book"
 * 323
     * [Designing for Interaction: Creating Innovative Applications and Devices, Saffer](https://mega.nz/#!HTh3FbAI!sFrSQErDiWhUtk5OYqIdEglgzf51QF-BhaahE1Ig0tc)
 * 340
-    * [Game Design Workshop: A Playcentric Approach to Creating Innovative Games, Fullerton & Tracy](https://mega.nz/#!nXIRkKhD!IYckftCkxaA6xxHTrVqewKx9oFoaJjvufL84AsYkX-Q)
+    * [Game Design Workshop: A Playcentric Approach to Creating Innovative Games 4th, Fullerton & Tracy](http://gen.lib.rus.ec/book/index.php?md5=62F872B1F40A53579536435C770DAD2F)
+    * [Game Design Workshop: A Playcentric Approach to Creating Innovative Games 3rd, Fullerton & Tracy](http://gen.lib.rus.ec/book/index.php?md5=DBF357BD485DF635C2C2B6D756978A88)
 
 <a name="JRN"></a>
 ### JRN
 
 * 111
     * [Working with Words: A Handbook for Media Writers and Editors 7th, Brooks Pinson Wilson](http://gen.lib.rus.ec/book/index.php?md5=DDBD2E7A4277FC7239B3B1232866576F)
-    
+
 <a name="LIN"></a>
 ### LIN
 
@@ -400,7 +401,7 @@ aka the "CLRS book"
 ### MUS
 
 * 101
-    * [Listen 8th Edition Joseph Kerman, Gary Tomlinson](http://download.library1.org/main/1553000/42230e5136a54e514a538b409be23933/Joseph%20Kerman%2C%20Gary%20Tomlinson-Listen-Bedford_St.%20Martin%E2%80%99s%20%282015%29.pdf)  
+    * [Listen 8th Edition Joseph Kerman, Gary Tomlinson](http://download.library1.org/main/1553000/42230e5136a54e514a538b409be23933/Joseph%20Kerman%2C%20Gary%20Tomlinson-Listen-Bedford_St.%20Martin%E2%80%99s%20%282015%29.pdf)
 6 CD set not included; track list found in the book (use YouTube)
 * 119
     * [Rudiments of Music 3rd, Goldstein](https://mega.nz/#!XXgQHaoA!wERl-GLkfCB6a4j0ARrAdt4g_8gZKtY2ypYb-TfLCeI)
@@ -425,7 +426,7 @@ aka the "CLRS book"
 * 251
     * [Data Analysis for Physical Science Students '91 Lyons](http://lib1.org/_ads/533698690129E945FFB70DDED99C8FD8)
     * [Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles 2nd Eisberg Resnick](http://download.library1.org/main/562000/23ecb76d738eaeb66e6853f0d6ef8fc3/Robert%20Eisberg%2C%20Robert%20Resnick-Quantum%20Physics%20of%20Atoms%2C%20Molecules%2C%20Solids%2C%20Nuclei%2C%20and%20Particles-Wiley%20%281985%29.pdf)
-    * [Special Relativity MIT Introduction '68 French](http://download.library1.org/main/75000/6650030f077579eacbf0fd6e476fdd17/%28M.I.T.%20Introductory%20Physics%20Series%29%20A.P.%20French-Special%20relativity-W.%20W.%20Norton%20%26%20Company%20%281968%29.djvu) 
+    * [Special Relativity MIT Introduction '68 French](http://download.library1.org/main/75000/6650030f077579eacbf0fd6e476fdd17/%28M.I.T.%20Introductory%20Physics%20Series%29%20A.P.%20French-Special%20relativity-W.%20W.%20Norton%20%26%20Company%20%281968%29.djvu)
 * 277
     * [Absolute C++ 1st Savitch](http://download.library1.org/main/736000/36bb2ab288fff4de3889a7cf31697685/Walter%20Savitch-Absolute%20C%2B%2B%2C%20First%20edition%20%20-Addison%20Wesley%20%282002%29.pdf)
     * [Absolute C++ 5th Savitch](http://download.library1.org/main/871000/80a421ba4d1508330008faf3145fd5a8/%285th%20Edition%29%20Walter%20Savitch%2C%20Kenrick%20Mock-Absolute%20C%2B%2B-Addison-Wesley%20%282012%29.pdf)
@@ -450,7 +451,7 @@ aka the "CLRS book"
 
 * 102
     * [Gateways to Democracy: An Introduction to American Government - The Essentials 1st Edition, Geer et al.](http://lib1.org/_ads/E74BB97A69AAA6EC45BA72B3608EB006)
-    
+
 <a name="PSY"></a>
 ### PSY
 
@@ -466,7 +467,7 @@ http://download.library1.org/main/1195000/89ee5553ac7f0b543d8d795a312f1555/Richa
 * 250
     * [Biopsychology 10th, Pinel Barnes](https://mega.nz/#!WPQGVYbJ!r80Qjo92bjv0X3PYwEXSIOQ0miHPFcaaP_PGJQB6m1Q)
 
- <a name="SOC"></a>
+<a name="SOC"></a>
 ### SOC
 
 * 105
