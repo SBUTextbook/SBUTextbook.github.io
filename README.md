@@ -1,4 +1,7 @@
-Last edited: February 3, 2020
+Last edited: August 31, 2020
+
+# ** NOTE: PLEASE READ **
+* <b>This page is in the process of being phased out in favor of https://sbutextbook.github.io/beta/. Once the new page is finished, this page will be archived. Please use [this page](https://sbutextbook.github.io/beta/#/upload/) to contribute new textbooks to the masterlist.</b>
 
 ## Hello
 * This is a crowd-sourced list of links to free PDFs of textbooks for various courses at SBU. This page is updated whenever a new PDF is found, especially around the start of each semester. 
