@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="1; URL=https://www.google.com/" />
+
 Last edited: August 31, 2020
 
 # ** NOTE: PLEASE READ **
